@@ -6,3 +6,10 @@ __pycache__/
 *.pyc
 *.pyo
 .env
+.pytest_cache/
+*.py[cod]
+
+docs/
+pdfs/
+.claude/
+.vscode/
