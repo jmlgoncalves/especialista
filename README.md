@@ -25,6 +25,21 @@ Bot de perguntas e respostas sobre documentos usando RAG (ChromaDB + Ollama). Su
 
 > `gemma4:12b` usa ~14 GB de VRAM em utilização real. É necessária uma GPU com pelo menos 16 GB de VRAM (ex: RTX 3080 Ti, RTX 4080, RTX 4090). Sem GPU compatível, o Ollama corre em CPU com impacto severo na velocidade.
 
+### Apple Silicon (Mac Mini)
+
+No Apple Silicon a memória é unificada — não há separação entre RAM e VRAM. O Ollama suporta Metal nativamente.
+
+| Modelo | Memória | Adequação |
+|---|---|---|
+| Mac Mini M4 — 16 GB | 16 GB | Marginal — sobram ~2 GB para o SO. Vai paginar. |
+| **Mac Mini M4 — 24 GB** | 24 GB | **Recomendado** — modelo confortável + ~10 GB para SO/ChromaDB. |
+| Mac Mini M4 Pro — 24 GB | 24 GB | Mesma memória, GPU mais rápida (mais tokens/s). |
+| Mac Mini M4 Pro — 48 GB | 48 GB | Permite modelos maiores (27B+) no futuro. Overkill para uso actual. |
+
+### Mais documentos precisam de mais RAM?
+
+Não de forma relevante. O ChromaDB guarda embeddings em disco e carrega apenas o necessário por query (~3 KB por chunk). Mesmo com centenas de documentos o impacto em memória é negligenciável. O bottleneck é sempre o modelo LLM.
+
 ---
 
 ## 1. Python
