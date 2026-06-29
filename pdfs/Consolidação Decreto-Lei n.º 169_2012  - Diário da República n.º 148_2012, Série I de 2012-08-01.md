@@ -1,0 +1,5867 @@
+## Página 1
+
+Decreto-Lei n.º 169/2012, de 1 de agosto
+
+
+Com as alterações introduzidas por: 
+Decreto-Lei n.º 165/2014; Decreto-Lei n.º 73/2015; Declaração de Retificação n.º 29/2015;
+
+
+Decreto-Lei n.º 39/2018; Decreto-Lei n.º 20/2019; Decreto-Lei n.º 9/2021; Decreto-Lei n.º 11/2023.
+
+
+Índice
+
+
+Ato
+
+
+Artigo 1.º
+Objeto
+
+
+Artigo 2.º
+Aprovação do SIR
+
+
+Artigo 3.º
+Implementação do SIR
+
+
+Artigo 4.º
+Adaptação da plataforma de interoperabilidade
+
+
+Artigo 5.º
+Atualização do cadastro dos estabelecimentos industriais
+
+
+Artigo 6.º
+Revisão do SIR
+
+
+Artigo 7.º
+Referências legais
+
+
+Artigo 8.º
+Tipologias dos estabelecimentos industriais e áreas de localização empresarial
+
+
+Artigo 9.º
+Disposição transitória
+
+
+Artigo 10.º
+Norma revogatória
+
+
+Artigo 11.º
+Aplicação no tempo
+ALTERADO
+
+
+Artigo 12.º
+Entrada em vigor
+
+
+Anexo
+Sistema da Indústria Responsável
+
+
+Capítulo I
+Disposições preliminares
+
+
+Artigo 1.º
+Objeto e âmbito de aplicação
+ALTERADO
+
+
+Artigo 2.º
+Definições
+ALTERADO
+
+
+Artigo 3.º
+Prevenção de riscos, ecoinovação, ecoeficiência, sustentabilidade e responsabilidade social
+ALTERADO
+
+
+Artigo 4.º
+Seguro de responsabilidade civil
+ALTERADO
+
+
+Artigo 5.º
+Articulação com medidas voluntárias
+
+
+Capítulo II
+Instrumentos técnicos de suporte ao SIR
+
+
+Artigo 6.º
+Balcão do empreendedor
+ALTERADO
+
+
+Artigo 6.º-A
+Títulos digitais
+ADITADO
+
+
+Artigo 7.º
+Sistema de informação dos estabelecimentos industriais
+ALTERADO
+
+
+Artigo 7.º-A
+Entidade responsável
+ADITADO
+
+
+Artigo 7.º-B
+Dados recolhidos
+ADITADO
+
+
+Artigo 7.º-C
+Modo de recolha
+ADITADO
+
+
+Artigo 8.º
+Condições técnicas padronizadas
+ALTERADO
+
+
+Artigo 9.º
+Apoio à aplicação do Sistema da Indústria Responsável
+ALTERADO
+
+
+Artigo 10.º
+Entidades acreditadas
+ALTERADO
+
+
+Capítulo III
+Regimes de instalação e exploração dos estabelecimentos industriais
+
+
+Secção I
+Disposições gerais
+
+
+Subsecção I
+Classificação dos estabelecimentos industriais e regimes procedimentais
+
+
+Artigo 11.º
+Tipologias dos estabelecimentos industriais
+ALTERADO
+
+
+Artigo 12.º
+Regimes procedimentais para instalação e exploração de estabelecimento
+industrial
+ALTERADO
+
+
+Subsecção II
+Entidades intervenientes
+ALTERADO
+
+
+Artigo 13.º
+Entidade coordenadora
+ALTERADO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 1 de 67
+
+
+## Página 2
+
+Artigo 14.º
+Entidades públicas consultadas
+ALTERADO
+
+
+Subsecção III
+Pronúncia das entidades públicas
+
+
+Artigo 15.º
+Âmbito da pronúncia
+ALTERADO
+
+
+Artigo 16.º
+Prazos e efeitos do incumprimento dos prazos
+ALTERADO
+
+
+Subsecção IV
+Articulação com regimes conexos
+
+
+Artigo 17.º
+Articulação com o Regime Jurídico da Urbanização e Edificação
+ALTERADO
+
+
+Artigo 18.º
+Equilíbrio urbano e ambiental
+ALTERADO
+
+
+Artigo 19.º
+Projeto de instalação, fornecimento e produção de energia
+
+
+Artigo 19.º-A
+Articulação com os regimes ambientais
+ALTERADO
+
+
+Artigo 19.º-B
+Venda ao público em estabelecimentos industriais
+ADITADO
+
+
+Artigo 19.º-C
+Articulação com o regime da segurança dos alimentos
+ADITADO
+
+
+Secção II
+Procedimento de instalação e exploração com realização de vistoria prévia
+ALTERADO
+
+
+Artigo 20.º
+Objeto do procedimento
+ALTERADO
+
+
+Artigo 21.º
+Pedido de título digital de instalação
+ALTERADO
+
+
+Artigo 22.º
+Conferência de entidades intervenientes
+ALTERADO
+
+
+Artigo 23.º
+Pronúncia das entidades públicas no procedimento para a emissão de título digital de
+instalação
+RETIFICADO
+
+
+Artigo 24.º
+Título digital de instalação
+ALTERADO
+
+
+Artigo 25.º
+Pedido de título digital de exploração
+ALTERADO
+
+
+Artigo 25.º-A
+Vistoria prévia ao início da exploração
+ALTERADO
+
+
+Artigo 25.º-B
+Título digital de exploração
+ALTERADO
+
+
+Artigo 26.º
+Objeto e âmbito do procedimento de autorização prévia padronizada
+ALTERADO
+
+
+Artigo 27.º
+Pedido de autorização prévia padronizada
+ALTERADO
+
+
+Artigo 28.º
+Pronúncia de entidades públicas
+ALTERADO
+
+
+Artigo 29.º
+Título de instalação e exploração padronizada
+ALTERADO
+
+
+Secção III
+Regime de comunicação prévia com prazo
+
+
+Artigo 30.º
+Objeto e início do procedimento
+ALTERADO
+
+
+Artigo 31.º
+Pronúncia das entidades públicas no procedimento de instalação e exploração sem realização de
+vistoria
+ALTERADO
+
+
+Artigo 32.º
+Título digital de instalação e exploração
+ALTERADO
+
+
+Secção IV
+Procedimento de mera comunicação prévia
+ALTERADO
+
+
+Artigo 33.º
+Procedimento de mera comunicação prévia
+ALTERADO
+
+
+Artigo 34.º
+Início de exploração
+ALTERADO
+
+
+Secção V
+Controlo, reexame, suspensão e cessação da exploração industrial
+
+
+Subsecção I
+Vistorias de conformidade e reexame
+ALTERADO
+
+
+Artigo 35.º
+Vistoria prévia ao início da exploração
+REVOGADO
+
+
+Artigo 36.º
+Vistorias de conformidade
+ALTERADO
+
+
+Artigo 37.º
+Vistorias de reexame
+RETIFICADO
+
+
+Subsecção II
+Suspensão, reinício e cessação da atividade industrial
+ALTERADO
+
+
+Artigo 38.º
+Suspensão, reinício, cessação da atividade e alteração de titularidade ou
+denominação
+ALTERADO
+
+
+Capítulo IV
+Regime das alterações aos estabelecimentos industriais
+
+
+Artigo 39.º
+Alterações sujeitas a procedimento
+ALTERADO
+
+
+Artigo 39.º-A
+Apreciação prévia
+ADITADO
+
+
+Artigo 40.º
+Procedimento de autorização prévia de alteração de estabelecimento
+REVOGADO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 2 de 67
+
+
+## Página 3
+
+Artigo 41.º
+Procedimento de comunicação prévia com prazo de alteração de estabelecimento
+REVOGADO
+
+
+Artigo 42.º
+Mera comunicação prévia de alteração de estabelecimento
+REVOGADO
+
+
+Capítulo V
+Regime de instalação e exploração de ZER
+
+
+Secção I
+Regime procedimental e articulação com regimes conexos
+
+
+Artigo 43.º
+Procedimento de instalação e exploração
+ALTERADO
+
+
+Artigo 44.º
+Entidades consultadas
+ALTERADO
+
+
+Artigo 45.º
+Articulação com regimes conexos
+ALTERADO
+
+
+Secção II
+Instalação de ZER
+
+
+Artigo 46.º
+Iniciativa procedimental e elementos instrutórios
+ALTERADO
+
+
+Artigo 47.º
+Título digital de instalação de Zonas Empresariais Responsáveis
+ALTERADO
+
+
+Artigo 48.º
+Caducidade do título digital de instalação
+ALTERADO
+
+
+Secção III
+Exploração da ZER
+
+
+Artigo 49.º
+Requisitos específicos do pedido de título digital de exploração
+ALTERADO
+
+
+Artigo 50.º
+Requisitos específicos do título digital de exploração de Zonas Empresariais
+Responsáveis
+ALTERADO
+
+
+Artigo 51.º
+Comunicações à entidade coordenadora
+ALTERADO
+
+
+Secção IV
+Controlo, reexame, suspensão e cessação da exploração da ZER
+
+
+Artigo 52.º
+Procedimentos de controlo e reexame
+ALTERADO
+
+
+Artigo 53.º
+Suspensão e cessação da atividade, alteração da titularidade ou denominação e caducidade do
+título digital de exploração
+ALTERADO
+
+
+Secção V
+Alterações à ZER
+
+
+Artigo 54.º
+Regimes das alterações
+ALTERADO
+
+
+Secção VI
+Conversão em ZER
+
+
+Artigo 55.º
+Conversão em ZER de outros espaços afins
+
+
+Artigo 56.º
+Pedido de conversão
+ALTERADO
+
+
+Artigo 57.º
+Tramitação e decisão do procedimento de conversão
+ALTERADO
+
+
+Secção VII
+Instalação e exploração de atividades empresariais em ZER
+
+
+Artigo 58.º
+Direitos e deveres dos titulares dos estabelecimentos instalados em ZER
+ALTERADO
+
+
+Artigo 59.º
+Instalação de estabelecimentos industriais
+ALTERADO
+
+
+Artigo 60.º
+Outros regimes de licenciamento
+ALTERADO
+
+
+Artigo 61.º
+Alterações dos estabelecimentos instalados em ZER
+ALTERADO
+
+
+Capítulo VI
+Acreditação de entidades
+
+
+Secção I
+Âmbito e requisitos da acreditação
+
+
+Artigo 62.º
+Âmbito da acreditação
+ALTERADO
+
+
+Artigo 63.º
+Critérios e requisitos da acreditação
+
+
+Secção II
+Procedimento de acreditação e exercício provisório de atividade
+
+
+Artigo 64.º
+Pedido de acreditação
+
+
+Artigo 65.º
+Exercício provisório de atividade
+ALTERADO
+
+
+Artigo 66.º
+Decisão de acreditação
+ALTERADO
+
+
+Secção III
+Funcionamento das entidades acreditadas
+
+
+Artigo 67.º
+Deveres gerais das entidades acreditadas
+ALTERADO
+
+
+Artigo 68.º
+Organização das entidades acreditadas
+
+
+Artigo 69.º
+Ensaios
+
+
+Artigo 70.º
+Acompanhamento
+ALTERADO
+
+
+Capítulo VII
+Fiscalização, medidas cautelares e sanções
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 3 de 67
+
+
+## Página 4
+
+Secção I
+Fiscalização e medidas cautelares
+
+
+Artigo 71.º
+Fiscalização
+ALTERADO
+
+
+Artigo 72.º
+Medidas cautelares
+ALTERADO
+
+
+Artigo 73.º
+Interrupção do fornecimento de energia elétrica
+
+
+Artigo 74.º
+Cessação das medidas cautelares
+
+
+Secção II
+Regime sancionatório
+
+
+Artigo 75.º
+Contraordenações
+ALTERADO
+
+
+Artigo 76.º
+Sanções acessórias
+ALTERADO
+
+
+Artigo 77.º
+Competência sancionatória
+ALTERADO
+
+
+Artigo 78.º
+Destino da receita das coimas
+ALTERADO
+
+
+Capítulo VIII
+Taxas
+
+
+Artigo 79.º
+Taxas e despesas de controlo
+ALTERADO
+
+
+Artigo 80.º
+Taxa única
+ALTERADO
+
+
+Artigo 81.º
+Taxas em procedimentos municipais
+ALTERADO
+
+
+Artigo 82.º
+Cobrança coerciva das taxas
+
+
+Capítulo IX
+Meios de tutela
+
+
+Artigo 83.º-A
+Reação contenciosa
+ADITADO
+
+
+Artigo 83.º
+Reclamação de terceiros
+ALTERADO
+
+
+Capítulo X
+Disposição final
+
+
+Artigo 84.º
+Notificações, comunicações e prazos
+REVOGADO
+
+
+Anexo I
+Atividade industrial
+ALTERADO
+
+
+Parte 1
+Atividade industrial
+ALTERADO
+
+
+Parte 2
+Estabelecimentos a que se referem os n.ºs 6 e 7 do artigo 18.º e o n.º 3 do artigo 33.º
+RETIFICADO
+
+
+Anexo II
+Fatores de conversão e coeficientes de equivalência
+ALTERADO
+
+
+Anexo III
+Indicação das entidades coordenadoras, nos termos do disposto no n.º 2 do artigo 13.º do Sistema da
+Indústria Responsável
+ALTERADO
+
+
+Anexo IV
+Prazos máximos para pronúncias
+ALTERADO
+
+
+Anexo V
+Taxa única
+REVOGADO
+
+
+Parte 1
+Estabelecimentos industriais
+REVOGADO
+
+
+Parte 2
+Zonas empresariais responsáveis (ZER)
+REVOGADO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 4 de 67
+
+
+## Página 5
+
+Decreto-Lei n.º 169/2012
+
+
+de 1 de agosto
+Cria o Sistema da Indústria Responsável, que regula o exercício da atividade industrial, a instalação e
+exploração de zonas empresariais responsáveis, bem como o processo de acreditação de entidades no
+
+
+âmbito deste Sistema
+
+
+O XIX Governo Constitucional tem como um dos principais objetivos potenciar o crescimento económico e o emprego, sendo
+para tanto indispensável a criação de um ambiente favorável ao investimento privado, em particular ao desenvolvimento
+industrial.
+Neste contexto, considera o Governo essencial criar um novo quadro jurídico para o setor da indústria, que facilite a captação
+de novos investidores e a geração de novos projetos para as empresas já estabelecidas, baseado numa mudança de paradigma
+em que o Estado, no espírito do Licenciamento Zero, previsto pelo Decreto-Lei n.º 48/2011, de 1 de abril, reduz o controlo
+prévio e reforça os mecanismos de controlo a posteriori, acompanhados de maior responsabilização dos industriais e das
+demais entidades intervenientes no procedimento.
+O presente diploma vem, pois, corporizar tal desiderato, aprovando o Sistema da Indústria Responsável (SIR), consagrando um
+conjunto de medidas que vêm proporcionar claros avanços e melhoramentos no desenvolvimento sustentável e sólido da
+economia nacional.
+De entre as referidas medidas, destaca-se, desde logo, a consolidação, num único diploma, das matérias relativas ao exercício
+da atividade industrial, à instalação das novas Zonas Empresariais Responsáveis (ZER) e à acreditação de entidades no âmbito
+do licenciamento industrial, pondo-se termo à atual dispersão legislativa, que se entende injustificada face à manifesta
+afinidade das matérias em presença.
+Merece ainda destaque a criação de áreas territorialmente delimitadas, dotadas de infraestruturas e pré-licenciadas, as ZER, que
+passam a permitir a localização simplificada, célere e menos onerosa de novas indústrias, numa lógica «chave-na-mão»,
+contribuindo assim para um correto ordenamento do território nacional.
+Tendo em conta a realidade nacional, cujo tecido empresarial é, na sua grande maioria, constituído por PME, merece principal
+relevo a opção do Governo, no âmbito das medidas de simplificação de processos, em extinguir a exigência de licenciamento
+nas pequenas indústrias, com uma potência elétrica inferior a 99 kVA, potência térmica superior a 12 x 10(elevado a 6) kJ/h, e
+menos de 20 trabalhadores, que integram o tipo 3 e passam a estar sujeitas a um regime de mera comunicação prévia,
+podendo iniciar a respetiva exploração imediatamente após tal comunicação.
+No que respeita às medidas de reforço de transparência nos procedimentos, importa enfatizar aquelas que vão no sentido de
+promover a adoção, pelas entidades públicas, de condições técnicas padronizadas por tipos de atividade e ou operação, que
+definem o âmbito e o conteúdo das respetivas licenças ou autorizações e que permitem que o industrial possa vir a obter um
+título de exploração emitido, com base numa declaração de cumprimento integral das condições predefinidas. Estas medidas
+permitem não só introduzir maior transparência e celeridade nos procedimentos, como também tornar o processo menos
+oneroso para o industrial, através da redução para um terço do montante das taxas devidas.
+Merece também destaque a extensão da intervenção de entidades acreditadas à área do ambiente, no procedimento de
+instalação e exploração de estabelecimentos industriais, as quais passam a poder avaliar a conformidade dos elementos
+instrutórios do pedido de autorização, com a inerente dispensa de verificação de omissões ou irregularidades nos elementos
+instrutórios por parte das entidades competentes e consequente diminuição dos prazos procedimentais.
+De assinalar que, na mesma lógica de desburocratização de procedimentos, são introduzidas alterações à definição dos
+estabelecimentos de maior perigosidade, isto é, os estabelecimentos do chamado tipo 1. Assim, atendendo a que se encontram
+já abrangidas pelos regimes de avaliação de impacte ambiental (AIA), prevenção de acidentes graves envolvendo substâncias
+perigosas (PAG) e ou prevenção e controlo integrado da poluição (PCIP), as operações de gestão de resíduos perigosos passam
+a estar excluídas desta tipologia.
+Relativamente ainda aos estabelecimentos de tipo 1, e em linha com a adoção progressiva e incremental pelas entidades
+intervenientes de condições técnicas padronizadas, estabelece-se o regime de autorização prévia padronizada, com
+responsabilização do agente económico pelo cumprimento de um conjunto de requisitos predefinidos em licença ou
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 5 de 67
+
+
+## Página 6
+
+autorização e conducente à obtenção de um título de instalação e exploração, sendo que, nos casos em que tal não seja
+exequível ou por opção do requerente, é adotado o regime de autorização individualizada, havendo neste caso lugar a uma
+reunião entre os vários interessados, no sentido da conciliação de posições, a chamada conferência das entidades
+intervenientes, à semelhança do modelo utilizado no regime respeitante aos projetos de Potencial Interesse Nacional.
+Ainda no que respeita à padronização de condições técnicas, cumpre referir que Portugal será o primeiro país da Europa
+comunitária a dispor de licenças padronizadas em matéria de título de emissão de gases com efeito de estufa (TEGEE) e de
+licença ambiental de PCIP. O nosso país também será pioneiro ao nível da intervenção de entidades acreditadas nos domínios
+ambientais associados aos regimes de AIA e de PAG.
+Por outro lado, e relativamente aos estabelecimentos de tipo 2, estabelece-se um regime distinto do até agora vigente, seja
+pela redução de prazos para emissão do título de exploração, seja pelo alargamento dos casos de dispensa de consultas a
+entidades públicas pelo facto, designadamente, de a decisão de atribuição do título de exploração poder assentar, também
+nestes casos, numa declaração do industrial de cumprimento de requisitos predefinidos em licença ou autorização
+padronizada.
+Sublinhe-se ainda o reforço da operacionalização do regime da produção de atos tácitos, através da emissão automática via
+«Balcão do empreendedor» da respetiva certidão, sem necessidade de intervenção humana, sempre que a decisão
+administrativa não seja tomada no prazo legalmente estabelecido.
+Tendo em vista a implementação do novo SIR, é necessário proceder à correspondente alteração de diversos regimes legais
+conexos, nomeadamente nas áreas do ambiente e do ordenamento do território, de modo a assegurar a coerência dos prazos
+constantes neste diploma com os prazos previstos naqueles regimes legais.
+Assim, até ao final do primeiro semestre de 2012, este esforço de simplificação e consolidação legislativa na área do
+licenciamento industrial vai ser ainda acompanhado pela alteração do regime jurídico da AIA, estatuído no Decreto-Lei n.º
+69/2000, de 3 de maio, alterado e republicado pelo Decreto-Lei n.º 197/2005, de 8 de novembro, e pelo Decreto-Lei n.º
+60/2012, de 14 de março, tendo em vista uma melhor interligação entre o crescimento económico e a proteção dos valores
+ambientais, garantindo-se desta forma melhores condições para um desenvolvimento sustentável em Portugal.
+Nesse sentido, a articulação entre ambos os regimes jurídicos permite garantir a agilização dos vários procedimentos,
+designadamente por via da redução de prazos, bem como consagrar um conjunto de inovações legislativas, que colocam
+Portugal na linha da frente face aos seus congéneres europeus, tornando-o num país mais atrativo para o investimento.
+Adicionalmente, consagra-se a dispensa de AIA para os estabelecimentos industriais que se pretendam instalar nas ZER, desde
+que o estudo de impacte ambiental da ZER tenha incluído os elementos necessários à AIA do estabelecimento industrial em
+causa.
+Com o SIR, o investimento e a instalação de atividades industriais em Portugal tornam-se mais simples, mais seguros e mais
+rápidos, potenciando o fundamental crescimento do emprego e da economia nacionais.
+Foram ouvidas a Comissão Nacional de Proteção de Dados, a Associação Nacional de Municípios Portugueses e a CIP -
+Confederação Empresarial de Portugal.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+
+Artigo 1.º
+
+
+Objeto
+
+
+O presente diploma aprova o Sistema da Indústria Responsável (SIR).
+
+
+Artigo 2.º
+
+
+Aprovação do SIR
+
+
+É aprovado em anexo ao presente diploma o SIR, que dele faz parte integrante.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 6 de 67
+
+
+## Página 7
+
+Artigo 3.º
+
+
+Implementação do SIR
+
+
+Compete ao Governo proceder à implementação do disposto no SIR, aprovado em anexo ao presente diploma, designadamente
+através de:
+a) Implementação e coordenação do processo de padronização de condições técnicas;
+b) Desenvolvimento dos requisitos funcionais associados ao desenvolvimento da plataforma eletrónica prevista no artigo 6.º do
+SIR;
+c) Coordenação do processo de disponibilização da informação de apoio ao cumprimento das formalidades e atos legalmente
+estabelecidos no âmbito do SIR nos termos previstos no artigo 9.º do SIR.
+
+
+Artigo 4.º
+
+
+Adaptação da plataforma de interoperabilidade
+
+
+1 - As adaptações necessárias à plataforma eletrónica referida no artigo 6.º do SIR, aprovado em anexo ao presente diploma,
+são desenvolvidas pela Agência para a Modernização Administrativa, I. P. (AMA, I. P.), nos termos e prazos previstos no artigo
+12.º, competindo-lhe assegurar a respetiva administração.
+2 - Os modelos dos formulários eletrónicos do pedido de autorização prévia, de declaração de responsabilidade, de
+comunicação prévia com prazo e de mera comunicação prévia são aprovados, no mesmo prazo, por despacho do dirigente
+máximo da AMA, I. P., ouvidas as entidades coordenadoras respetivas.
+
+
+Artigo 5.º
+
+
+Atualização do cadastro dos estabelecimentos industriais
+
+
+Os industriais que, à data da entrada em vigor do presente diploma, possuam título habilitante para o exercício da atividade
+industrial podem solicitar através do «Balcão do empreendedor» que este lhes seja disponibilizado em suporte informático,
+cabendo à entidade coordenadora detentora da informação relevante a inserção no sistema de informação do título solicitado,
+no prazo de 30 dias após a solicitação do industrial.
+
+
+Artigo 6.º
+
+
+Revisão do SIR
+
+
+1 - O SIR, aprovado em anexo ao presente diploma, é revisto no prazo de dois anos a contar da data da sua entrada em vigor.
+2 - Para permitir a revisão referida no número anterior, as entidades coordenadoras da administração central e local elaboram
+relatórios anuais com indicação de todos os elementos estatísticos relevantes relativos à tramitação dos procedimentos
+previstos no presente diploma, incluindo o número de processos iniciados, os prazos médios de decisão do procedimento e de
+resposta de todas as entidades nele intervenientes, bem como eventuais constrangimentos identificados, designadamente nos
+sistemas de informação e nas regras aplicáveis.
+
+
+Artigo 7.º
+
+
+Referências legais
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 7 de 67
+
+
+## Página 8
+
+Todas as referências ao Decreto-Lei n.º 69/2003, de 10 de abril, alterado pelos Decretos-Leis n.os 233/2004, de 14 de dezembro,
+72/2006, de 24 de março, 174/2006, de 25 de agosto, e 183/2007, de 9 de maio, e ao Decreto-Lei n.º 208/2009, de 29 de
+outubro, alterado pelo Decreto-Lei n.º 24/2010, de 25 de março, consideram-se feitas ao SIR, aprovado em anexo ao presente
+diploma.
+
+
+Artigo 8.º
+
+
+Tipologias dos estabelecimentos industriais e áreas de localização empresarial
+
+
+1 - As referências em diplomas legais e nos diversos instrumentos de gestão territorial aos tipos ou classes de estabelecimentos
+industriais previstos em anteriores regimes jurídicos de exercício da atividade industrial não impedem a instalação ou alteração
+desses estabelecimentos industriais com a tipologia que resulta do SIR, aprovado em anexo ao presente diploma, desde que
+integralmente cumpridos os atuais regimes.
+2 - As áreas de localização empresarial existentes à data de entrada em vigor do presente diploma são equiparadas, para todos
+os efeitos legais, a Zonas Empresariais Responsáveis (ZER), sem necessidade de qualquer formalismo adicional, aplicando-se-
+lhes, nomeadamente, a obrigação constante do n.º 2 do artigo 4.º do SIR, aprovado em anexo ao presente diploma.
+
+
+Artigo 9.º
+
+
+Disposição transitória
+
+
+Até à entrada em vigor das disposições do SIR, aprovado em anexo ao presente diploma, aplica-se o disposto nos Decreto-Lei
+n.º 152/2004, de 30 de junho, no Decreto-Lei n.º 209/2008, de 29 de outubro, alterado pelo Decreto-Lei n.º 24/2010, de 25 de
+março, e no Decreto-Lei n.º 72/2009, de 31 de março.
+
+
+Artigo 10.º
+
+
+Norma revogatória
+
+
+Sem prejuízo do disposto no artigo anterior, são revogados o Decreto-Lei n.º 152/2004, de 30 de junho, o Decreto-Lei n.º
+209/2008, de 29 de outubro, alterado pelo Decreto-Lei n.º 24/2010, de 25 de março, e o Decreto-Lei n.º 72/2009, de 31 de
+março.
+
+
+Artigo 11.º
+
+
+Aplicação no tempo
+
+
+1 - Aos processos em curso na data de entrada em vigor do presente diploma é aplicável o regime constante do Decreto-Lei n.º
+209/2008, de 29 de outubro, alterado pelo Decreto-Lei n.º 24/2010, de 25 de março, salvo se se tratar de projetos já em curso na
+data de entrada em vigor do referido diploma, os quais se continuam a reger pelo disposto no Decreto-Lei n.º 69/2003, de 10 de
+abril, alterado pelos Decretos-Leis n.os 233/2004, de 14 de dezembro, 72/2006, de 24 de março, 174/2006, de 25 de agosto, e
+183/2007, de 9 de maio.
+2 - A requerimento do interessado, a entidade coordenadora pode autorizar que aos processos pendentes se passe a aplicar o
+regime constante do presente diploma, determinando qual o procedimento a que o processo fica sujeito.
+3 - Se a aplicação do presente diploma, nos termos do número anterior, conduzir à alteração de competências das entidades
+coordenadoras, a entidade coordenadora inicial oficiosamente comunica a autorização prevista no número anterior à nova
+entidade coordenadora e disponibiliza-lhe o processo.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 8 de 67
+
+
+## Página 9
+
+4 - Na decisão dos processos de contraordenação instaurados ao abrigo do disposto no Decreto-Lei n.º 209/2008, de 29 de
+outubro, alterado pelo Decreto-Lei n.º 24/2010, de 25 de março, com base na ausência de título válido para o exercício das
+atividades industriais nele previstas, é realizada, quando aplicável, a devida correspondência para os preceitos aplicáveis do SIR,
+aprovado em anexo ao presente diploma, em função da tipologia em causa.
+5 - (Revogado).
+6 - A requerimento do interessado, a entidade coordenadora pode autorizar a prorrogação, por igual período, do prazo de sete
+anos previsto para os estabelecimentos industriais cuja exploração esteja limitada temporalmente em razão da localização.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 23.º do/a Decreto-Lei n.º 165/2014 - Diário da República n.º 214/2014, Série I de 2014-11-05, em vigor a partir de 2015-01-02
+
+
+Artigo 12.º
+
+
+Entrada em vigor
+
+
+1 - Sem prejuízo do disposto no número seguinte, o presente diploma entra em vigor no primeiro dia útil do mês seguinte ao
+da sua publicação.
+2 - Tendo em conta a necessidade de proceder à adaptação e ao desenvolvimento de sistemas informáticos e de dar execução
+ao disposto no artigo 4.º, as disposições do SIR, aprovado em anexo ao presente diploma, que pressuponham a existência do
+«Balcão do empreendedor» entram em vigor de forma faseada, nos seguintes termos:
+a) Até 31 de dezembro de 2012, estão disponíveis no «Balcão do empreendedor» os serviços que permitam dar execução ao
+disposto nos n.os 1 e 4 do artigo 7.º, no n.º 13 do artigo 29.º, no n.º 13 do artigo 32.º, no n.º 5 do artigo 35.º, no artigo 38.º, no
+n.º 2 do artigo 74.º e no artigo 84.º, todos do SIR;
+b) Até 31 de março de 2013, estão disponíveis no «Balcão do empreendedor» os serviços que permitam dar execução ao
+disposto nos artigos 33.º e 34.º do SIR;
+c) Até 30 de junho de 2013, estão disponíveis no «Balcão do empreendedor» os demais serviços não referidos nas alíneas
+anteriores.
+
+
+Anexo
+
+
+Sistema da Indústria Responsável
+
+
+(a que se refere o artigo 2.º)
+
+
+Capítulo I
+
+
+Disposições preliminares
+
+
+Artigo 1.º
+
+
+Objeto e âmbito de aplicação
+
+
+1 - O Sistema da Indústria Responsável (SIR) estabelece os procedimentos necessários ao acesso e exercício da atividade
+industrial, à instalação e exploração de Zonas Empresariais Responsáveis (ZER), bem como o processo de acreditação de
+entidades no âmbito deste sistema, no quadro da aplicação dos seguintes regimes jurídicos ou procedimentos:
+a) Licenciamento Único Ambiental, aprovado pelo Decreto-Lei n.º 75/2015, de 11 de maio, no âmbito dos seguintes regimes:
+i) Regime jurídico de avaliação de impacte ambiental (RJAIA), tratando-se de procedimento de avaliação de impacte ambiental
+(AIA) relativo a projeto de execução que vise a emissão de declaração de impacte ambiental (DIA) em fase de projeto de
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 9 de 67
+
+
+## Página 10
+
+execução ou a emissão de decisão de conformidade ambiental do projeto de execução com DIA emitida em fase de anteprojeto
+ou estudo prévio;
+ii) Regime das emissões industriais (REI), aplicável à prevenção e ao controlo integrados da poluição, bem como às regras
+destinadas a evitar ou reduzir as emissões para o ar, água ou solo e a produção de resíduos;
+iii) Regime jurídico de prevenção de acidentes graves que envolvam substâncias perigosas (RPAG);
+iv) Regime geral da gestão de resíduos;
+v) Regime jurídico de utilização de recursos hídricos;
+vi) Regime do comércio europeu de licenças de emissão de gases com efeitos de estufa (CELE);
+vii) Regime da prevenção e controlo das emissões de poluentes para o ar, aprovado pelo Decreto-Lei n.º 39/2018, de 11 de
+junho.
+b) Regime jurídico respeitante à saúde e segurança no trabalho;
+c) Regime jurídico relativo à exploração de atividade agroalimentar que utilize matéria-prima de origem animal não
+transformada, de atividade que envolva a manipulação de subprodutos de origem animal, ou de atividade de fabrico de
+alimentos para animais;
+d) Procedimentos relativos aos projetos de eletricidade e de produção de energia térmica;
+e) Regime de instalação, funcionamento, reparação e alteração de equipamentos sob pressão.
+2 - O SIR tem como objetivos:
+a) Prevenir os riscos e inconvenientes resultantes da exploração dos estabelecimentos industriais, com vista a salvaguardar a
+saúde pública e a dos trabalhadores, a segurança de pessoas e bens, a segurança e saúde nos locais de trabalho, a qualidade do
+ambiente e um correto ordenamento do território, num quadro de desenvolvimento sustentável e de responsabilidade social
+das empresas;
+b) Promover a simplificação e desburocratização dos atos e procedimentos da Administração Pública necessários à aplicação
+dos regimes jurídicos referidos no número anterior, tendo em vista contribuir para dinamização e competitividade da indústria
+nacional, num quadro de políticas de desenvolvimento económico sustentável.
+3 - O SIR aplica-se às atividades industriais a que se refere o anexo i ao SIR, do qual faz parte integrante, com exclusão das
+secções acessórias de estabelecimentos de comércio e de restauração ou de bebidas destinadas à realização de atividades
+industriais, às quais é aplicável, para todos os efeitos legais, o regime de acesso e exercício da atividade que rege estes
+estabelecimentos, nos termos e com os limites aí previstos.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 37.º do/a Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11, em vigor a partir de 2018-07-01
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 2.º
+
+
+Definições
+
+
+Para efeitos do SIR entende-se por:
+a) «Atividade industrial», a atividade económica prevista na Classificação Portuguesa das Atividades Económicas (CAE - rev. 3),
+aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos termos definidos no anexo i ao SIR;
+b) «Alteração de estabelecimento industrial», a modificação ou a ampliação do estabelecimento ou das respetivas instalações
+industriais face ao título de exploração da qual possa resultar aumento dos riscos e inconvenientes para os bens referidos na
+alínea a) do n.º 2 do artigo anterior;
+c) «Área edificada» - a área total de construção das instalações industriais que integram o estabelecimento;
+d ) «Anexos mineiros e de pedreiras», as instalações e oficinas para serviços integrantes ou auxiliares de exploração de recursos
+geológicos afetos àquela atividade, sitos nas áreas concessionadas ou licenciadas, nomeadamente as oficinas para a
+manutenção dos meios mecânicos utilizados, as instalações para acondicionamento das substâncias extraídas, para os serviços
+de apoio imprescindíveis aos trabalhadores, bem como os estabelecimentos associados à indústria extrativa;
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 10 de 67
+
+
+## Página 11
+
+e) «Balcão do empreendedor», o balcão único eletrónico nacional para a realização de todas as formalidades associadas ao
+exercício de uma atividade económica, acessível diretamente através do Portal da Empresa ou, por via mediada, através dos
+balcões presenciais das entidades públicas competentes, gerido pela Agência para a Modernização Administrativa, I. P. (AMA, I.
+P.);
+f ) «Condições técnicas padronizadas», conjunto de regras e especificações previamente definidas para determinada atividade
+ou operação a desenvolver no estabelecimento industrial que constituem o objeto de licença, autorização, aprovação,
+comunicação prévia com prazo, registo, parecer ou outro ato permissivo necessário à instalação e exploração do
+estabelecimento industrial;
+g) «Ecoeficiência», a estratégia de atuação conducente ao fornecimento de bens e serviços competitivos que satisfaçam as
+necessidades humanas e que, em simultâneo e progressivamente, reduzam os impactes ambientais negativos e a intensidade de
+recursos ao longo do ciclo de vida dos produtos;
+h) «Ecoinovação», qualquer forma de inovação que permite ou visa progressos significativos demonstráveis na consecução do
+objetivo de desenvolvimento sustentável, através da redução dos impactos no ambiente, do aumento da resiliência às pressões
+ambientais ou de uma utilização mais eficiente e responsável dos recursos naturais;
+i) «Emissão», a libertação direta ou indireta de substâncias, de vibrações, de calor ou de ruído para o ar, a água ou o solo, a
+partir de fontes pontuais ou difusas com origem numa dada instalação industrial;
+j) «Entidade acreditada», a entidade reconhecida formalmente pelo organismo nacional de acreditação, nos termos previstos no
+SIR, para realizar atividades que lhe são atribuídas no âmbito do mesmo;
+k) «Entidade coordenadora», a entidade à qual compete a direção plena dos procedimentos de instalação e exploração de
+estabelecimentos industriais e de ZER;
+l) «Entidade gestora de ZER», a entidade responsável pelo integral cumprimento do título digital de exploração da ZER, bem
+como pelo controlo e supervisão das atividades nela exercidas e ainda pelo funcionamento e manutenção das infraestruturas,
+serviços e instalações comuns, cujos requisitos de constituição, organização e funcionamento e quadro legal de obrigações e
+competências são os definidos em portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa,
+da administração local, da economia, do ambiente e do ordenamento do território;
+m) «Estabelecimento industrial», a totalidade da área coberta e não coberta sob responsabilidade do industrial, que inclui as
+respetivas instalações industriais, onde é exercida atividade industrial;
+n) «Gestor do procedimento», o técnico designado pela entidade coordenadora para acompanhamento dos procedimentos
+previstos no SIR, constituindo-se como interlocutor privilegiado do industrial;
+o) «Industrial», a pessoa singular ou coletiva que pretende exercer ou exerce atividade em estabelecimento industrial ou em
+quem tenha sido delegado o exercício de um poder económico determinante sobre o respetivo funcionamento;
+p) «Instalação industrial», a unidade técnica dentro de um estabelecimento industrial na qual é exercida uma ou mais atividades
+industriais incluindo as atividades de armazenagem ou pré-processamento de resíduos para introdução no processo ou
+quaisquer outras atividades diretamente associadas que tenham uma relação técnica com as atividades exercidas;
+q) «Melhores técnicas disponíveis», a fase de desenvolvimento mais eficaz e avançada das atividades e dos seus modos de
+exploração, que demonstre a aptidão prática de técnicas específicas para constituírem a base dos valores-limite de emissão e de
+outras condições do licenciamento com vista a evitar e, quando tal não seja possível, a reduzir as emissões e o impacto no
+ambiente no seu todo:
+i) «Melhores técnicas», as técnicas mais eficazes para alcançar um nível geral elevado de proteção do ambiente no seu todo;
+ii) «Técnicas», tanto a tecnologia utilizada como o modo como a instalação é projetada, construída, conservada, explorada e
+desativada;
+iii) «Disponíveis», as técnicas desenvolvidas a uma escala que possibilite a sua aplicação no contexto do setor industrial em
+causa em condições económica e tecnicamente viáveis, tendo em conta os custos e os benefícios, quer sejam ou não utilizadas
+ou produzidas a nível nacional e desde que acessíveis ao operador em condições razoáveis;
+r) «Número de trabalhadores», o número total de trabalhadores do estabelecimento industrial que, independentemente da
+natureza do vínculo, se encontram afetos à atividade industrial, excluindo os afetos aos setores administrativo e comercial;
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 11 de 67
+
+
+## Página 12
+
+s) «Potência elétrica», a potência contratada, expressa em kilovolt-amperes (kVA), junto de um distribuidor de energia elétrica,
+considerando-se, para efeitos da sua determinação, os coeficientes de equivalência descritos no anexo ii ao SIR, do qual faz
+parte integrante;
+t) «Potência térmica», a soma das potências térmicas individuais dos diferentes sistemas instalados, expressa em quilojoules por
+hora (kJ/h), considerando-se, para efeitos da sua determinação, os coeficientes de equivalência descritos no anexo ii ao SIR;
+u) «Pronúncia das entidades públicas consultadas», fase procedimental no âmbito da qual as entidades públicas consultadas ao
+abrigo do SIR se pronunciam sob a forma de licença, autorização, aprovação, comunicação prévia com prazo, mera comunicação
+prévia, registo, parecer ou outro ato permissivo ou não permissivo de que dependa a instalação ou a exploração do
+estabelecimento industrial ou da ZER;
+v) «Responsabilidade social», a responsabilidade de uma organização pelos impactes das suas decisões, atividades e produtos
+na sociedade e no ambiente, através de um comportamento ético e transparente que seja consistente com o desenvolvimento
+sustentável e o bem-estar da sociedade, tenha em conta as expectativas das partes interessadas, esteja em conformidade com a
+legislação aplicável e seja consistente com normas de conduta internacionais e esteja integrado em toda a organização;
+w) «Responsável técnico do projeto», a pessoa ou entidade designada pelo industrial ou pela entidade gestora da ZER, no caso
+de instalação de ZER, para efeitos de demonstração de que o projeto se encontra em conformidade com a legislação aplicável e
+para o relacionamento com a entidade coordenadora e as demais entidades intervenientes nos procedimentos de instalação e
+exploração de estabelecimento industrial ou de ZER;
+x) «Sistema de gestão ambiental», a componente do sistema global de gestão, que inclui a estrutura organizacional, as
+atividades de planeamento, as responsabilidades, as práticas, os processos, os procedimentos e os recursos destinados a definir,
+aplicar, consolidar, rever e manter a política ambiental;
+y) «Sistema de gestão de segurança alimentar», o sistema que possibilita a gestão dos riscos para a segurança alimentar,
+baseado nos princípios do método de análise de perigos e controlo dos pontos críticos, relacionados com as atividades da
+organização e compreendendo a estrutura operacional, as atividades de planeamento, as responsabilidades, as práticas, os
+procedimentos, os processos e os recursos para desenvolver e implementar as condições de segurança alimentar;
+z) «Segurança e saúde do trabalho», o conjunto das intervenções que objetivam o controlo dos riscos profissionais e a
+promoção da segurança e saúde dos trabalhadores da organização ou outros, incluindo trabalhadores temporários, prestadores
+de serviços e trabalhadores por conta própria, visitantes ou qualquer outro indivíduo no local de trabalho;
+aa) «Segurança contra incêndio em edifícios», o conjunto de princípios gerais da preservação da vida humana, do ambiente e do
+património cultural visando reduzir a ocorrência de incêndios, limitar o seu desenvolvimento, circunscrevendo e minimizando os
+seus efeitos, nomeadamente a propagação do fumo e gases quentes da combustão, facilitar a evacuação e o salvamento dos
+ocupantes e permitir a intervenção eficaz e segura dos meios de socorro;
+bb) «Sistema de Gestão da Responsabilidade Social», o conjunto de elementos inter-relacionados e interatuantes para
+estabelecer e concretizar a política e objetivos da responsabilidade social;
+cc) «Título digital», o título emitido pelo «Balcão do empreendedor» relativo à instalação e exploração de um estabelecimento
+industrial ou de ZER que constitui declaração de conhecimento e comprova, perante qualquer entidade pública ou privada, o
+cumprimento das normas legais e regulamentares constantes dos regimes jurídicos do âmbito do SIR;
+dd) «Zona empresarial responsável ou ZER», a zona territorialmente delimitada, afeta à instalação de atividades industriais,
+comerciais e de serviços, administrada por uma entidade gestora;
+ee) «Zona empresarial responsável multipolar ou ZER multipolar», o conjunto de polos empresariais localizados em espaços
+territoriais não conexos, mas funcionalmente ligados entre si e administrada pela mesma entidade gestora.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 3.º
+
+
+Prevenção de riscos, ecoinovação, ecoeficiência, sustentabilidade e responsabilidade social
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 12 de 67
+
+
+## Página 13
+
+1 - O industrial deve exercer a atividade industrial através:
+a) De um comportamento ético, transparente, socialmente responsável e de acordo com as disposições legais e regulamentares
+aplicáveis;
+b) Da adoção de medidas de prevenção e controlo, no sentido de eliminar ou reduzir os riscos suscetíveis de afetar as pessoas e
+bens, garantindo as condições de segurança e saúde no trabalho, a segurança contra incêndio em edifícios, bem como o
+respeito pelas normas ambientais, minimizando as consequências de eventuais acidentes.
+2 - O industrial deve respeitar, designadamente, as seguintes regras e princípios:
+a) Adotar princípios e práticas de ecoeficiência de materiais e energia e práticas de ecoinovação;
+b) Adotar as melhores técnicas disponíveis;
+c) Cumprir as obrigações previstas no Código do Trabalho, em lei especial e as relativas à promoção da segurança e saúde no
+trabalho;
+d) Adotar as medidas de prevenção de riscos de acidentes e limitação dos seus efeitos;
+e) Implementar sistemas de gestão ambiental, sistemas de segurança contra incêndio em edifícios e sistemas de segurança e
+saúde no trabalho adequados ao tipo de atividade e riscos inerentes, incluindo a elaboração de plano de emergência do
+estabelecimento e elaboração das medidas de autoproteção, quando aplicáveis;
+f) Adotar sistema de gestão de segurança alimentar adequado ao tipo de atividade, riscos e perigos inerentes, quando aplicável;
+g) Promover as medidas de profilaxia e vigilância da saúde legalmente estabelecidas para o tipo de atividade, por forma a
+proteger a saúde pública e a dos trabalhadores;
+h) Adotar as medidas necessárias para evitar riscos em matéria de segurança e poluição, de modo que o local de exploração seja
+colocado em estado satisfatório, na altura da desativação definitiva do estabelecimento industrial.
+3 - Sempre que seja detetada alguma anomalia no funcionamento do estabelecimento, o industrial deve tomar as medidas
+adequadas para corrigir a situação e, se necessário, proceder à suspensão da exploração, devendo imediatamente comunicar
+esse facto à entidade coordenadora.
+4 - (Revogado);
+5 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 4.º
+
+
+Seguro de responsabilidade civil
+
+
+1 - Sem prejuízo das obrigações que decorram do regime jurídico da responsabilidade por danos ambientais e da
+responsabilidade profissional dos representantes, agentes ou mandatários do industrial, este deve celebrar um contrato de
+seguro de responsabilidade civil extracontratual que cubra os riscos decorrentes das instalações e das atividades exercidas em
+estabelecimento industrial incluído no tipo 1 ou no tipo 2, nos termos a definir por portaria dos membros do Governo
+responsáveis pelas áreas das finanças, da economia, da agricultura e do ambiente.
+2 - As entidades acreditadas devem celebrar contrato de seguro de responsabilidade civil extracontratual destinado a cobrir os
+danos patrimoniais e não patrimoniais decorrentes de lesões corporais ou materiais causadas a terceiros por erros ou omissões
+cometidas no exercício da sua atividade, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas
+das finanças, da economia, do ambiente e da agricultura.
+3 - A regulamentação prevista nos números anteriores deve estabelecer, designadamente, os capitais mínimos dos seguros,
+respetivos âmbitos de cobertura, delimitações temporal e territorial, exclusões aplicáveis, possibilidade de estabelecimento de
+franquias, condições do exercício do direito de regresso e de sub-rogação e pluralidade de seguros.
+4 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 13 de 67
+
+
+## Página 14
+
+Artigo 5.º
+
+
+Articulação com medidas voluntárias
+
+
+Os acordos e os contratos celebrados entre as entidades públicas e os industriais, através das suas estruturas empresariais
+representativas ou a título individual, ou a colaboração entre estas entidades a qualquer outro título, em matérias pertinentes ao
+âmbito dos objetivos consignados no SIR, incluindo a adoção de sistemas certificados de gestão ambiental, de segurança
+alimentar, de segurança e saúde no trabalho e de gestão da responsabilidade social, devem ser acompanhados pela entidade
+coordenadora, sem prejuízo das competências próprias das entidades competentes em razão da matéria objeto do acordo ou
+contrato.
+
+
+Capítulo II
+
+
+Instrumentos técnicos de suporte ao SIR
+
+
+Artigo 6.º
+
+
+Balcão do empreendedor
+
+
+1 - O acesso e a tramitação dos procedimentos previstos no SIR são realizados por via eletrónica, diretamente ou de forma
+assistida, através do «Balcão do empreendedor».
+2 - Pode ser prestado o serviço de atendimento digital assistido ao «Balcão do empreendedor» pelos serviços de atendimento
+presencial das entidades coordenadoras, pelas autarquias locais e por entidades públicas nos termos do Decreto-Lei n.º
+74/2014, de 13 de maio.
+3 - O «Balcão do empreendedor», no âmbito do SIR, disponibiliza aos utilizadores as seguintes funcionalidades e informações:
+a) Possibilidade de submissão e tramitação eletrónica dos procedimentos previstos no SIR relativos à emissão ou submissão de
+todos os títulos, licenças, autorizações, aprovações, comunicações prévias com prazo, meras comunicações prévias, registos,
+pareceres e outros atos permissivos ou não permissivos de que dependa a instalação, exploração ou alteração do
+estabelecimento industrial ou da ZER;
+b) Possibilidade de submissão de comunicação de suspensão, reinício e cessação da atividade, bem como de alteração da
+titularidade ou da denominação social de titular de estabelecimento industrial ou de ZER sujeito aos procedimentos previstos no
+SIR;
+c) Apoio ao requerente e respetivos técnicos no preenchimento dos formulários e na instrução dos procedimentos, permitindo,
+designadamente, a pesquisa por atividade económica, principal e secundária, dos elementos relevantes para o rastreio dos
+condicionamentos legais e regulamentares aplicáveis, bem como o rastreio específico através da introdução de dados sobre o
+tipo de instalação, localização, área de implantação, capacidade produtiva e substâncias perigosas presentes;
+d) Preenchimento automático, total ou parcial, dos formulários eletrónicos disponíveis no «Balcão do empreendedor» no âmbito
+dos procedimentos previstos no SIR, com a informação relevante que já se encontre na posse de outros organismos da
+Administração Pública, que deverão disponibilizá-la através da Plataforma de Interoperabilidade da Administração Pública (iAP),
+para este efeito;
+e) Possibilidade de cumprimento direto e imediato de todas as exigências e formalidades necessárias para aceder e exercer uma
+atividade industrial, incluindo a submissão eletrónica de documentos, o pagamento por meios eletrónicos e a receção de
+comunicações e notificações por via eletrónica relativos a todos os títulos, licenças, autorizações, aprovações, comunicações
+prévias com prazo, meras comunicações prévias, registos, pareceres e outros atos permissivos ou não permissivos de que
+dependa a instalação ou exploração do estabelecimento industrial ou da ZER;
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 14 de 67
+
+
+## Página 15
+
+f) Acompanhamento e consulta dos respetivos procedimentos, por parte do requerente, da entidade coordenadora, das
+entidades intervenientes e das entidades com competências de fiscalização;
+g) Capacidade para suportar a obrigatoriedade de participação de todas as entidades que intervenham em atos ou
+procedimentos necessários à instalação ou exploração do estabelecimento industrial ou da ZER, designadamente, das entidades
+coordenadoras dos procedimentos de instalação e exploração de estabelecimentos industriais e de ZER, bem como das
+entidades públicas intervenientes;
+h) Sistema que permita a contagem automática de prazos e de passagem a fases seguintes dos procedimentos, uma vez
+decorrido o prazo ou a emissão do ato em causa, nomeadamente para efeitos de emissão automática de títulos digitais;
+i) Emissão automática de títulos digitais que titulem a instalação e exploração da atividade industrial, uma vez decorridos os
+prazos ou emitidas as licenças, autorizações, aprovações, comunicações prévias com prazo, meras comunicações prévias,
+registos, pareceres e outros atos permissivos ou não permissivos de que dependa a instalação ou exploração de
+estabelecimento industrial ou de ZER;
+j) Emissão automática de comprovativos de entrega e avisos automáticos a todas as entidades envolvidas sempre que sejam
+adicionados novos elementos ao processo;
+k) Capacidade para inserção no «Balcão do empreendedor», com recurso à iAP e através da interação com as plataformas
+eletrónicas relevantes, designadamente o Sistema de Informação de Regime Jurídico da Urbanização e Edificação (SIRJUE) e o
+Sistema Integrado de Licenciamento do Ambiente (SILiamb), por parte das entidades emitentes, de todas as licenças,
+autorizações, aprovações, comunicações prévias com prazo, meras comunicações prévias, registos, pareceres e outros atos
+permissivos ou não permissivos de que dependa a instalação ou exploração de estabelecimento industrial ou de ZER;
+l) Capacidade para assegurar a dispensa de entrega de documentação que se encontre em posse de qualquer serviço e
+organismo da Administração Pública que intervenha nos procedimentos previstos no SIR, quando o interessado preste o seu
+consentimento à sua obtenção, cabendo nesse caso à entidade coordenadora ou à entidade consultada proceder à respetiva
+obtenção e integração no procedimento, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos
+Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 16 de agosto, e 73/2014, de 13 de maio;
+m) Funcionalidade que permita ao interessado, de forma facultativa, gratuita e automática, uma vez inseridos os dados
+relevantes, identificar o procedimento aplicável à instalação e exploração de estabelecimento industrial ou ZER ao abrigo do
+previsto no SIR;
+n) Consulta dos requisitos aplicáveis às instalações e aos equipamentos dos estabelecimentos industriais resultantes da
+legislação e demais atos normativos;
+o) Consulta do montante previsível das taxas devidas e um simulador que permita identificar o custo global estimado a suportar
+para iniciar a atividade industrial pretendida;
+p) Meios de pagamento eletrónico das taxas devidas;
+q) Informação sobre os meios de reação judiciais ou extrajudiciais relativos a decisões das autoridades administrativas
+competentes;
+r) Documentos de apoio sobre os aspetos jurídicos e técnicos relevantes em cada setor industrial;
+s) Acesso direto a uma ferramenta de georreferenciação das áreas para a instalação e exploração de estabelecimentos industriais
+ou de ZER.
+4 - Sendo prestado o consentimento previsto na alínea l) do número anterior, o valor das taxas, emolumentos ou outros
+encargos devidos pela atividade administrativa de recolha da documentação em falta é transmitido ao requerente com a
+respetiva discriminação, para efeitos do pagamento devido.
+5 - As demais funcionalidades técnicas do «Balcão do empreendedor» para efeitos do SIR, bem como o formato, características
+e mecanismos de tratamento da informação a disponibilizar nesse âmbito são regulamentadas por portaria dos membros do
+Governo responsáveis pelas áreas da modernização administrativa e da economia.
+6 - Os interessados e as entidades responsáveis pela emissão das licenças, autorizações, aprovações, comunicações prévias com
+prazo, meras comunicações prévias, registos, pareceres e outros atos permissivos ou não permissivos de que dependa a
+instalação ou exploração do estabelecimento industrial ou da ZER devem praticar todos os atos relativos aos respetivos
+procedimentos no «Balcão do empreendedor».
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 15 de 67
+
+
+## Página 16
+
+7 - Quando, por motivos de indisponibilidade temporária, não se revele possível a tramitação dos procedimentos previstos no
+SIR através do «Balcão do empreendedor», a mesma é efetuada por correio eletrónico, com conhecimento da AMA, I. P., para o
+endereço eletrónico da entidade coordenadora, publicitado no respetivo sítio na Internet e na página de acesso ao «Balcão do
+empreendedor», ou em formato digital, devendo a entidade coordenadora assegurar o cumprimento dos procedimentos até
+que o «Balcão do empreendedor» esteja operacional.
+8 - Sempre que quaisquer elementos do procedimento sejam entregues por correio eletrónico nos termos do número anterior,
+os mesmos são obrigatoriamente inseridos no «Balcão do empreendedor» pela entidade coordenadora nos cinco dias
+subsequentes à cessação da situação de indisponibilidade temporária.
+9 - Os processos relativos à instalação e exploração de estabelecimento industrial ou de ZER devem estar disponíveis para
+consulta pelos interessados na respetiva área reservada da empresa no «Balcão do empreendedor», podendo a entidade
+coordenadora, bem como as entidades consultadas e as entidades com competências de fiscalização, aceder a esta informação
+através deste sistema.
+10 - Quando os elementos a que se refere o número anterior não estiverem disponíveis para consulta no «Balcão do
+empreendedor», o interessado, bem como as entidades aí referidas, podem solicitar à entidade coordenadora que os insira,
+devendo esta fazê-lo nos cinco dias subsequentes à receção do pedido.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 6.º-A
+
+
+Títulos digitais
+
+
+1 - Os títulos digitais são emitidos pelo «Balcão do Empreendedor» quando tenham sido submetidas, emitidas ou aprovadas,
+expressa ou tacitamente, todas as licenças, autorizações, aprovações, comunicações prévias com prazo, meras comunicações
+prévias, registos, pareceres e outros atos permissivos ou não permissivos de que dependa a instalação ou a exploração do
+estabelecimento industrial ao abrigo do SIR.
+2 - Os títulos digitais são emitidos de forma automática e eletrónica e notificados pelo «Balcão do empreendedor» ao
+interessado, à entidade coordenadora, às entidades consultadas, à câmara municipal territorialmente competente, bem como à
+Direção-Geral de Alimentação e Veterinária (DGAV), quando se trate de estabelecimento industrial do setor alimentar, do setor
+dos subprodutos animais e dos alimentos para animais, nos termos do Regulamento (CE) n.º 852/2004, do Parlamento Europeu
+e do Conselho, de 29 de abril de 2004, do Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de
+outubro de 2009, e do Regulamento (CE) n.º 183/2005, do Parlamento Europeu e do Conselho, de 12 de janeiro de 2005,
+respetivamente.
+3 - Os títulos digitais são atualizados nos termos previstos no SIR, sendo acessíveis no «Balcão do empreendedor» mediante a
+disponibilização de um código de acesso.
+4 - A disponibilização do código de acesso ao título digital demonstra perante qualquer entidade pública e privada a
+titularidade do direito de instalar e explorar o estabelecimento industrial ou a ZER a que respeitam e constitui meio de prova
+para esse efeito, não podendo nenhuma entidade pública ou privada exigir comprovativo adicional quanto ao cumprimento de
+quaisquer controlos ou formalidades no âmbito de procedimentos previstos no SIR.
+
+
+Alterações
+
+
+Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 7.º
+
+
+Sistema de informação dos estabelecimentos industriais
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 16 de 67
+
+
+## Página 17
+
+1 - O sistema de informação dos estabelecimentos industriais integra os dados, organizados e atualizados, respeitantes às
+atividades identificadas no anexo i ao presente decreto-lei, tendo por finalidade principal possibilitar o conhecimento efetivo das
+atividades industriais exercidas em estabelecimentos a operar em território nacional com vista à produção de elementos
+informativos de suporte à definição ou execução de políticas públicas no setor da indústria, bem como os seguintes objetivos:
+a) Possibilitar o preenchimento automático, total ou parcial, dos formulários eletrónicos disponíveis no «Balcão do
+empreendedor» para os efeitos previstos no SIR, com a informação relevante que já se encontre na posse de outros organismos
+da Administração Pública;
+b) Identificar e caracterizar os estabelecimentos e os seus titulares;
+c) Disponibilizar ao consumidor os elementos de contacto dos estabelecimentos e seus titulares, quando solicitado, para o
+exercício dos seus direitos;
+d) Facilitar o controlo, acompanhamento e fiscalização das atividades industriais e de outras previstas no presente decreto-lei;
+e) Dar informação ao industrial sobre mecanismos, programas e incentivos económicos existentes, quando este assim o
+requeira;
+f) Apoiar a realização de estudos relativos aos setores da indústria ou outros abrangidos pelo presente decreto-lei.
+2 - (Revogado.)
+3 - A informação constante do sistema de informação dos estabelecimentos industriais que não contenha dados pessoais e não
+seja identificada pelo interessado como confidencial é pública e pode ser reutilizada, nos termos da Lei n.º 46/2007, de 24 de
+agosto, sem prejuízo do disposto em legislação específica em matéria de acesso aos dados constantes dos documentos
+registrais.
+4 - (Revogado.)
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 7.º-A
+
+
+Entidade responsável
+
+
+O IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), é a entidade responsável pelo tratamento de dados
+relativos ao sistema de informação dos estabelecimentos industriais para os efeitos da alínea d) do artigo 3.º da Lei n.º 67/98, de
+26 de outubro.
+
+
+Alterações
+
+
+Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 7.º-B
+
+
+Dados recolhidos
+
+
+1 - São recolhidos para tratamento automatizado no âmbito do sistema de informação dos estabelecimentos industriais os
+dados na posse dos serviços ou organismos da Administração Pública referentes às pessoas singulares ou coletivas titulares de
+estabelecimentos que exercem atividades industriais, designadamente:
+a) Identificação, com menção do nome ou firma;
+b) Nome das pessoas singulares titulares de Estabelecimento Individual de Responsabilidade Limitada;
+c) Domicílio fiscal, endereço da sede ou residência;
+d) Informação sobre a instalação, modificação e encerramento de estabelecimentos;
+e) Informação sobre a localização de estabelecimentos;
+f) Identificação e localização, data de início e fim de atividade dos empresários em nome individual e respetiva Classificação
+Portuguesa das Atividades Económicas (CAE);
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 17 de 67
+
+
+## Página 18
+
+g) Início, alteração e cessação da atividade;
+h) Informação sobre operações de valorização de resíduos desenvolvidas na instalação, com indicação do código da operação
+de gestão de resíduos, respetiva capacidade instalada, bem como código dos resíduos valorizados de acordo com a Lista
+Europeia de Resíduos.
+2 - Para os efeitos previstos na alínea a) do n.º 1 do artigo 7.º, os serviços e organismos da Administração Pública devem
+garantir a partilha da informação relevante que já se encontre na sua posse e seja necessária à instrução dos procedimentos
+previstos no SIR, permitindo o acesso à mesma através do «Balcão do empreendedor».
+3 - Os dados a que se referem os números anteriores são partilhados pelos serviços e organismos competentes, que devem
+permitir o acesso aos mesmos através do «Balcão do empreendedor», preferencialmente através da iAP.
+
+
+Alterações
+
+
+Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 7.º-C
+
+
+Modo de recolha
+
+
+1 - O sistema de informação dos estabelecimentos industriais é alimentado com a informação constante do «Balcão do
+empreendedor» relativamente aos procedimentos tramitados ao abrigo do SIR ou da legislação que o precedeu, bem como com
+a informação relevante na posse de outros serviços ou organismos da Administração Pública, através da integração dos sistemas
+de informação ou bases de dados desses serviços ou organismos via iAP.
+2 - Para os efeitos previstos na parte final do número anterior, os dados constantes do sistema de informação dos
+estabelecimentos industriais são recolhidos junto dos serviços ou organismos da Administração Pública responsáveis pela
+respetiva gestão e incluem os dados constantes de:
+a) Registo comercial e registo nacional de pessoas coletivas;
+b) Informação empresarial simplificada, nos termos do Decreto-Lei n.º 8/2007, de 17 de janeiro, alterado pelos Decretos-Leis
+n.os 116/2008, de 4 de julho, 69-A/2009, de 24 de março, 292/2009, de 13 de outubro, 209/2012, de 19 de setembro, e 10/2015,
+de 16 de janeiro;
+c) Base de dados da Autoridade Tributária e Aduaneira (AT) para obtenção de informação sobre identificação e localização, data
+de início e fim de atividade dos empresários em nome individual e respetiva CAE;
+d) Outros sistemas de informação ou bases de dados da Administração Pública, caso tal venha a ser estabelecido por portaria
+dos membros do Governo responsáveis pelas áreas da modernização administrativa, da economia e pela tutela do serviço ou
+organismo que gere o sistema de informação ou a base de dados em causa.
+3 - A recolha de dados no âmbito de pedidos de emissão de licenças, autorizações ou de realização de comunicações prévias
+com ou sem prazo é acessória, não podendo tais procedimentos, em caso algum, ser impostos com o único propósito de
+recolha de informação para a base de dados dos estabelecimentos industriais.
+4 - A recolha de dados no âmbito do sistema de informação dos estabelecimentos industriais não pode, por si só, determinar a
+formulação de pedidos de informação ao industrial, devendo os serviços e organismos da Administração Pública cooperar entre
+si no sentido de disponibilizarem os dados necessários à alimentação do sistema.
+5 - A recolha de dados a que se refere o n.º 2 é regulada através de protocolo a celebrar entre as entidades responsáveis pelas
+bases de dados ou sistemas de informação em causa, designadamente, o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), e
+a AT, conforme aplicável, a AMA, I. P., e o IAPMEI, I. P.
+6 - A portaria a que se refere a alínea d) do n.º 2, bem como os protocolos a que se refere o número anterior, são submetidos a
+prévia apreciação da Comissão Nacional da Proteção de Dados.
+
+
+Alterações
+
+
+Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 18 de 67
+
+
+## Página 19
+
+Artigo 8.º
+
+
+Condições técnicas padronizadas
+
+
+1 - As entidades públicas que intervenham nos procedimentos previstos no SIR devem, de forma progressiva e incremental,
+adotar condições técnicas padronizadas designadas por tipos de atividade ou operação que constitua objeto de licença,
+autorização, aprovação, comunicação prévia com prazo, registo, parecer ou outro ato permissivo nas respetivas áreas de
+atuação, salvo se a especificidade do respetivo regime jurídico, da atividade ou operação em causa não for compatível com a
+padronização das condições de instalação ou exploração, designadamente nos casos em que a legislação aplicável imponha a
+realização de consulta pública.
+2 - As entidades públicas que, embora não intervindo nos procedimentos do SIR, tutelem áreas técnicas com relevância para a
+definição de condições de instalação e exploração dos estabelecimentos industriais devem igualmente adotar condições
+técnicas padronizadas que constituam referenciais para o exercício da atividade industrial na respetiva área de atuação.
+3 - As condições técnicas padronizadas a que se refere o n.º 1 são aprovadas por despacho dos membros do Governo
+responsáveis pelas áreas da economia, da modernização administrativa e das áreas técnicas em causa, sendo obrigatoriamente
+disponibilizadas no «Balcão do empreendedor».
+4 - O recurso pelo industrial às condições técnicas padronizadas pressupõe:
+a) A existência de licença, autorização, aprovação, comunicação prévia com prazo, registo, parecer ou outro ato permissivo
+padronizado no domínio das atividades e ou operações a desenvolver no estabelecimento industrial;
+b) A opção do requerente no pedido do título respetivo;
+c) Uma declaração de responsabilidade do requerente de cumprimento integral das condições técnicas padronizadas objeto do
+pedido.
+5 - Quando exista recurso a condições técnicas padronizadas:
+a) É dispensada a pronúncia, a que se refere o artigo 23.º e o artigo 31.º, conforme aplicável, das entidades públicas
+responsáveis pela emissão de condições técnicas padronizadas a que o requerente tenha aderido no seu pedido, salvo se a
+especificidade do respetivo regime jurídico dispuser em contrário;
+b) É dispensada a realização de vistoria prévia, com exceção dos casos de estabelecimentos industriais que utilizem matéria-
+prima de origem animal não transformada, subprodutos animais, ou que exerçam atividade de fabrico de alimentos para
+animais, ou atividade de operação de gestão de resíduos que exijam vistoria prévia à exploração, nos termos dos regimes legais
+aplicáveis;
+c) É reduzido para 1/3 o valor da taxa correspondente à emissão de licença, autorização, aprovação, comunicação prévia com
+prazo, registo, parecer ou outro ato permissivo que se encontre abrangida por condição técnica padronizada a que o requerente
+tenha aderido, nos termos a regulamentar na portaria a que se refere o n.º 2 do artigo 80.º
+6 - Os títulos digitais emitidos no âmbito dos procedimentos do SIR em que o requerente tenha optado por recorrer a
+condições técnicas padronizadas devem fazer referência às licenças, autorizações, aprovações, registos, pareceres ou outros atos
+permissivos padronizados necessários à atividade a desenvolver no estabelecimento industrial que tenham sido objeto do
+pedido.
+7 - A verificação da correspondência entre as características e especificações do estabelecimento industrial e o âmbito de
+aplicação das condições técnicas padronizadas a que o requerente tenha aderido é efetuada pelas entidades públicas
+consultadas no período de verificação de elementos instrutórios, nos termos e com os efeitos previstos no n.º 7 do artigo 21.º e
+no n.º 7 do artigo 30.º, conforme aplicável.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 9.º
+
+
+Apoio à aplicação do Sistema da Indústria Responsável
+
+
+1 - Compete ao IAPMEI, I. P., com a colaboração das entidades que intervenham nos procedimentos previstos no SIR:
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 19 de 67
+
+
+## Página 20
+
+a) Promover as ações necessárias à aplicação correta, previsível, eficaz e harmonizada do disposto no SIR, definindo, sempre que
+necessário, as diretrizes e os parâmetros comuns a seguir pelas mesmas, devendo, para o efeito, as entidades que intervenham
+nos procedimentos previstos no SIR fornecer ao IAPMEI, I. P., sempre que tal lhes seja solicitado, a informação necessária para a
+adequada monitorização dos processos, tendo em vista a respetiva normalização e melhoria contínua;
+b) Elaborar e atualizar, com a colaboração das entidades que intervenham nos procedimentos previstos no SIR em função das
+áreas em causa, em linguagem simples e clara, toda a informação de apoio à utilização do «Balcão do empreendedor», a qual
+deve incluir, designadamente:
+i) As obrigações resultantes de toda a legislação aplicável;
+ii) A sequência das tarefas, o circuito dos processos internos e os períodos de tempo habitualmente consumidos em cada fase,
+os pressupostos e os resultados esperados de cada grupo de tarefas;
+iii) Os requisitos aplicáveis às instalações e aos equipamentos dos estabelecimentos industriais resultantes da legislação e
+demais atos normativos;
+iv) Os meios de reação judiciais ou extrajudiciais relativos a decisões das autoridades administrativas competentes;
+v) Os aspetos jurídicos e técnicos relevantes em cada setor industrial;
+c) Inserir no «Balcão do empreendedor» a informação a que se refere a alínea anterior, bem como as respetivas atualizações
+periódicas, a publicar online pela AMA, I. P.;
+d) Zelar pelo cumprimento dos prazos, incluindo os constantes da calendarização a que se refere a alínea d) do n.º 3 do artigo
+22.º, quando aplicável, reportando à tutela, periodicamente ou sempre que tal lhe seja solicitado, as situações de incumprimento
+que não sejam imputáveis ao industrial.
+2 - (Revogado).
+3 - (Revogado).
+4 - (Revogado).
+5 - (Revogado).
+6 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 10.º
+
+
+Entidades acreditadas
+
+
+1 - As entidades acreditadas pelo Instituto Português da Acreditação, I. P. (IPAC, I. P.), intervêm nos procedimentos previstos no
+SIR nos termos do disposto no capítulo vi.
+2 - A intervenção das entidades acreditadas nos termos previstos no número anterior, pode ocorrer a solicitação do industrial,
+da entidade gestora da ZER ou das entidades públicas intervenientes.
+3 - A intervenção das entidades acreditadas nos termos do n.º 1 produz os seguintes efeitos:
+a) Dispensa a análise da boa instrução do processo em procedimentos em matéria ambiental, com a entrega, pelo requerente,
+do requerimento aplicável, acompanhado de um relatório de conformidade;
+b) Dispensa da pronúncia, a que se refere o artigo 23.º e o artigo 31.º, conforme aplicável, das entidades intervenientes, exceto
+em matéria ambiental;
+c) Reduz os prazos de pronúncia de entidades consultadas, nos termos do anexo iv.
+4 - (Revogado).
+5 - (Revogado).
+6 - O conteúdo das licenças, autorizações, aprovações, comunicações prévias com prazo, meras comunicações prévias, registos,
+pareceres e outros atos permissivos ou não permissivos de que dependa a instalação ou exploração do estabelecimento
+industrial ou da ZER das entidades intervenientes no SIR e a respetiva fundamentação pode consistir em mera declaração de
+concordância com o conteúdo dos documentos emitidos pelas entidades acreditadas.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 20 de 67
+
+
+## Página 21
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Capítulo III
+
+
+Regimes de instalação e exploração dos estabelecimentos industriais
+
+
+Secção I
+
+
+Disposições gerais
+
+
+Subsecção I
+
+
+Classificação dos estabelecimentos industriais e regimes procedimentais
+
+
+Artigo 11.º
+
+
+Tipologias dos estabelecimentos industriais
+
+
+(em vigor a partir de: 2023-02-11)
+(Produção de efeitos: 2023-03-01)
+
+
+1 - Os estabelecimentos industriais classificam-se, em função do grau de risco potencial inerente à sua exploração, para a pessoa
+humana e para o ambiente, em três tipos.
+2 - São incluídos no tipo 1 os estabelecimentos cujos projetos de instalações industriais se encontrem abrangidos por, pelo
+menos, um dos seguintes regimes jurídicos ou circunstâncias:
+a) Regime jurídico de avaliação de impacte ambiental (RJAIA);
+b) Regime jurídico da prevenção e controlo integrado de poluição (RJPCIP), a que se refere o capítulo ii do Regime das Emissões
+Industriais (REI);
+c) Regime jurídico de prevenção de acidentes graves que envolvam substâncias perigosas (RPAG);
+d) Realização de operação de gestão de resíduos que careça de vistoria prévia ao início da exploração, à luz do regime de
+prevenção, produção e gestão de resíduos;
+e) [Revogada.]
+3 - São incluídos no tipo 2 os estabelecimentos industriais não incluídos no tipo 1, desde que abrangidos por pelo menos um
+dos seguintes regimes jurídicos ou circunstâncias:
+a) [Revogada.]
+b) [Revogada.]
+c) [Revogada.]
+d) Regime do comércio europeu de licenças de emissão de gases com efeitos de estufa (CELE);
+e) Necessidade de obtenção de alvará para realização de operação de gestão de resíduos que dispense vistoria prévia, nos
+termos do regime geral de gestão de resíduos, com exceção dos estabelecimentos identificados pela parte 2-A do anexo i ao
+SIR, ainda que localizados em edifício cujo alvará admita comércio ou serviços, na condição de realizarem operações de
+valorização de resíduos não perigosos.
+4 - São incluídos no tipo 3 os estabelecimentos industriais não abrangidos pelos tipos 1 e 2.
+5 - Sempre que num estabelecimento industrial se verifiquem circunstâncias a que correspondam tipos diferentes, o
+estabelecimento é incluído no tipo mais exigente.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 21 de 67
+
+
+## Página 22
+
+6 - A alteração superveniente de alguma das circunstâncias previstas no n.º 3, que determine a inclusão do estabelecimento
+industrial como tipo 2 só determina um novo processo de licenciamento quando as mesmas perdurarem por um período
+superior a seis meses.
+7 - A substituição de matérias-primas por resíduos, sempre que o processo permita a valorização dos mesmos, não altera a
+tipologia do estabelecimento industrial.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 28.º do/a Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10, em vigor a partir de 2023-02-11, produz efeitos a partir
+
+
+de 2023-03-01
+
+
+Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30, em vigor a partir de 2019-01-31, produz efeitos a partir
+
+
+de 2019-01-01
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 12.º
+
+
+Regimes procedimentais para instalação e exploração de estabelecimento industrial
+
+
+A instalação e a exploração de estabelecimento industrial ficam sujeitas aos seguintes procedimentos:
+a) Procedimento com vistoria prévia, para os estabelecimentos industriais incluídos no tipo 1;
+b) Procedimento sem vistoria prévia, para os estabelecimentos industriais incluídos no tipo 2;
+c) Mera comunicação prévia, para os estabelecimentos industriais incluídos no tipo 3.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Subsecção II
+
+
+Entidades intervenientes
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 13.º
+
+
+Entidade coordenadora
+
+
+1 - A entidade coordenadora é a única entidade interlocutora do industrial em todos os contactos considerados necessários à
+boa instrução e apreciação dos procedimentos previstos no SIR, competindo-lhe a condução, monitorização e dinamização dos
+mesmos.
+2 - A identificação da entidade coordenadora no procedimento relativo ao estabelecimento industrial é feita de acordo com o
+disposto no anexo iii ao SIR, do qual faz parte integrante, em função da classificação económica da atividade industrial, da
+classificação do estabelecimento e da área do território onde se localiza, sem prejuízo do disposto no número seguinte.
+3 - A entidade coordenadora é a entidade gestora da ZER no caso de estabelecimentos a localizar no interior do perímetro da
+ZER.
+4 - Compete, nomeadamente, à entidade coordenadora:
+a) Designar o gestor do procedimento, responsável pelo acompanhamento do procedimento e pela prossecução das
+competências atribuídas à entidade coordenadora em relação aos procedimentos que lhe sejam cometidos por esta;
+b) Prestar informação e apoio técnico ao industrial, sempre que solicitado, designadamente para esclarecer dúvidas quanto à
+classificação de instalações industriais ou para disponibilizar documentação de referência;
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 22 de 67
+
+
+## Página 23
+
+c) [Revogada];
+d) Monitorizar a tramitação do procedimento que envolva a emissão de títulos, licenças, autorizações, aprovações, registos,
+pareceres e outros atos permissivos ou não permissivos de que dependa a instalação ou exploração do estabelecimento
+industrial;
+e) Zelar pelo cumprimento dos prazos, incluindo os constantes da calendarização a que se refere a alínea d) do n.º 3 do artigo
+22.º, quando aplicável, reportando ao IAPMEI, I. P., quando não seja este a entidade coordenadora, ou à respetiva tutela, as
+situações de incumprimento que não sejam imputáveis ao industrial;
+f) Diligenciar no sentido de conciliar os vários interesses em presença e eliminar eventuais bloqueios evidenciados no
+procedimento e garantir o seu desenvolvimento em condições normalizadas e otimizadas;
+g) Analisar as solicitações de alterações e elementos adicionais e reformulação de documentos, assegurando que não é
+solicitada ao requerente informação já disponível no processo ou na posse de serviços ou organismos da Administração Pública
+no âmbito do sistema de informação dos estabelecimentos industriais;
+h) Coligir e integrar o conteúdo das solicitações referidas na alínea anterior, para as concentrar, se possível num único pedido, a
+dirigir ao requerente nos termos e prazos previstos no SIR;
+i) Reunir com o requerente e com o responsável técnico do projeto, sempre que tal se revele necessário;
+j) Reunir e comunicar com as demais entidades intervenientes, designadamente por meios eletrónicos, tendo em vista a
+informação recíproca, a calendarização articulada dos atos e formalidades, o esclarecimento e a concertação de posições, a
+identificação de obstáculos ao prosseguimento do processo, bem como as alternativas para a respetiva superação;
+k) Promover a realização de vistorias por parte das entidades públicas consultadas, podendo, quando considerado adequado,
+acompanhar a realização das mesmas, assegurando a conciliação dos vários interesses em presença e a eliminação de eventuais
+bloqueios;
+l) Disponibilizar ao requerente e ou às entidades públicas consultadas informação sobre o andamento dos procedimentos
+relativos à instalação e exploração de estabelecimento industrial;
+m) Elaborar, atualizar e disponibilizar no «Balcão do empreendedor» toda a informação relativa à tramitação necessária à
+emissão de títulos digitais exigíveis para a instalação e exploração de estabelecimento industrial, bem como a que respeite às
+demais licenças, autorizações, aprovações, registos, comunicações prévias com prazo, meras comunicações prévias, pareceres e
+outros atos permissivos ou não permissivos de que dependa a instalação ou exploração de estabelecimento industrial;
+n) Zelar pela inserção no «Balcão do empreendedor» de todas as licenças, autorizações, aprovações, registos, pareceres e outros
+atos permissivos ou não permissivos de que dependa a instalação ou exploração da atividade industrial, por parte das entidades
+públicas responsáveis pelos respetivos procedimentos.
+5 - O ato de designação do gestor do procedimento contém a determinação das competências que lhe são delegadas, não
+estando sujeito a publicação no Diário da República ou na publicação oficial da entidade coordenadora, devendo porém estar
+disponível para consulta no sítio institucional da entidade em causa.
+6 - (Revogado).
+7 - Cabe ao presidente da câmara municipal exercer as competências atribuídas às câmaras municipais nos termos do SIR,
+podendo as mesmas ser delegadas nos vereadores, com faculdade de subdelegação, ou nos dirigentes dos serviços municipais.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 14.º
+
+
+Entidades públicas consultadas
+
+
+Nos procedimentos previstos no presente capítulo, são notificadas automaticamente pelo «Balcão do empreendedor» para se
+pronunciarem, nos termos das respetivas atribuições e competências, as seguintes entidades públicas responsáveis pela emissão
+de licenças, autorizações, aprovações, registos, pareceres e outros atos permissivos ou não permissivos de que dependa a
+instalação ou exploração do estabelecimento industrial:
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 23 de 67
+
+
+## Página 24
+
+a) A Agência Portuguesa do Ambiente, I. P. (APA, I. P.);
+b) [Revogada];
+c) A Autoridade para as Condições de Trabalho (ACT);
+d) A Comissão de Coordenação e Desenvolvimento Regional (CCDR) territorialmente competente;
+e) [Revogada];
+f) A Direção-Geral de Alimentação e Veterinária (DGAV);
+g) A Direção-Geral da Energia e Geologia (DGEG);
+h) O Instituto Português da Qualidade, I. P. (IPQ, I. P.);
+i) As autarquias locais competentes;
+j) Outras entidades públicas cuja intervenção se revele necessária à instalação e exploração do estabelecimento industrial,
+quando tal se encontre previsto em portaria dos membros do Governo responsáveis pelas áreas da modernização
+administrativa, da economia e da tutela das entidades em causa.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Subsecção III
+
+
+Pronúncia das entidades públicas
+
+
+Artigo 15.º
+
+
+Âmbito da pronúncia
+
+
+1 - Sem prejuízo das atribuições de concertação de posições e de pronúncia integrada que a legislação cometa à APA, I. P., e às
+CCDR competentes, qualquer entidade referida no artigo anterior que se pronuncie nos procedimentos previstos no SIR deve
+fazê-lo exclusivamente sobre áreas que se incluam no âmbito das respetivas atribuições e competências legalmente previstas,
+apreciando apenas as questões que lhe estejam expressamente cometidas por lei, considerando-se não vinculativas as
+pronúncias que versem sobre matérias alheias às respetivas competências.
+2 - (Revogado).
+3 - (Revogado).
+4 - As licenças, autorizações, aprovações, registos, comunicações prévias com prazo, meras comunicações prévias, pareceres e
+outros atos permissivos ou não permissivos de que dependa a instalação ou exploração de estabelecimento industrial podem
+ser entregues pelo requerente com o pedido de emissão do título digital de instalação e ou exploração, não havendo lugar a
+pronúncia pela entidade pública respetiva, ao abrigo dos artigos 23.º ou 31.º, conforme aplicável, desde que se mantenham
+inalterados os respetivos pressupostos de facto ou de direito.
+5 - A verificação da manutenção dos pressupostos de facto ou de direito a que se refere o número anterior é efetuada pela
+entidade pública aí referida, no período de verificação de elementos instrutórios, nos termos e com os efeitos previstos no n.º 7
+do artigo 21.º e no n.º 7 do artigo 30.º, conforme aplicável.
+6 - É dispensada a entrega das licenças, autorizações, aprovações, registos, comunicações prévias com prazo, meras
+comunicações prévias, pareceres e outros atos permissivos ou não permissivos referidos no n.º 4 quando o interessado preste
+consentimento à sua obtenção oficiosa, devendo nesse caso a entidade consultada proceder, através do «Balcão do
+empreendedor», à respetiva integração no procedimento.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 24 de 67
+
+
+## Página 25
+
+Artigo 16.º
+
+
+Prazos e efeitos do incumprimento dos prazos
+
+
+1 - Os prazos previstos no SIR são contados nos seguintes termos:
+a) Os prazos contam-se em dias úteis;
+b) Os prazos não se interrompem em caso algum;
+c) Os prazos são suspensos nos termos previstos no SIR;
+d) Os prazos prevalecem sobre quaisquer normas legais ou regulamentares previstas nos regimes procedimentais a que se
+refere o artigo 1.º do SIR;
+e) Os prazos previstos no anexo iv ao SIR não são cumulativos, prevalecendo, no caso de serem aplicáveis dois ou mais regimes
+aí previstos o prazo decisório máximo mais longo.
+2 - Na falta de disposição especial, o prazo para a realização de quaisquer comunicações entre as entidades intervenientes, ou
+entre estas e o requerente, ou para a prática de quaisquer atos, é de 5 dias.
+3 - Na ausência de inserção no «Balcão do empreendedor» de licença, autorização, aprovação, registo, parecer, outros atos
+permissivos ou não permissivos necessários à instalação e ou exploração de estabelecimento industrial ou de ZER por parte da
+entidade pública competente nos prazos previstos no SIR, considera-se que a mesma se pronunciou em sentido favorável à
+pretensão do requerente ou que foi tacitamente deferida a pretensão do particular, sem necessidade de qualquer ulterior ato de
+entidade administrativa ou autoridade judicial, consoante aplicável.
+4 - Nos casos previstos no número anterior, e não se verificando nenhuma causa de não emissão do título digital relevante
+prevista no SIR, é o mesmo emitido.
+5 - A instalação e a exploração de estabelecimento industrial ou de ZER devem cumprir os condicionamentos legais e
+regulamentares aplicáveis, bem como os constantes de licença, autorização, aprovação, registo, parecer ou outros atos
+permissivos ou não permissivos de que dependa a instalação ou exploração do estabelecimento industrial ou da ZER, que
+integrem o respetivo título digital emitido no âmbito do SIR.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Subsecção IV
+
+
+Articulação com regimes conexos
+
+
+Artigo 17.º
+
+
+Articulação com o Regime Jurídico da Urbanização e Edificação
+
+
+1 - As operações urbanísticas a realizar para instalação de estabelecimentos industriais regem-se pelo Regime Jurídico da
+Urbanização e Edificação (RJUE), sem prejuízo do disposto nos números seguintes e no artigo seguinte.
+2 - Tratando-se de estabelecimento industrial do tipo 1 ou do tipo 2 cuja instalação ou alteração envolva a realização de
+operação urbanística de urbanização ou de edificação sujeita a controlo prévio nos termos do RJUE, o título digital de instalação
+ou de instalação e exploração, conforme aplicável, não pode ser emitido sem que sejam apresentados os seguintes elementos:
+a) Aprovação do projeto de arquitetura; ou
+b) Informação prévia favorável, requerida nos termos do n.º 2 do artigo 14.º do RJUE.
+3 - Os elementos referidos no número anterior devem ser apresentados aquando do pedido do título digital de instalação ou de
+instalação e exploração, sem prejuízo de o requerente poder apresentar declaração de que opta por diferir a respetiva entrega
+até ao final do prazo de emissão do referido título.
+4 - Caso o requerente não apresente os elementos a que se refere o n.º 2 até ao final do prazo para emissão do título digital de
+instalação ou de instalação e exploração, é o mesmo notificado para apresentar os elementos em falta até um prazo máximo de
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 25 de 67
+
+
+## Página 26
+
+seis meses, sob pena de o procedimento vir a ser declarado deserto, nos termos do disposto no artigo 132.º do Código do
+Procedimento Administrativo.
+5 - Tratando-se de estabelecimento industrial de tipo 3 cuja instalação, ampliação ou alteração envolva a realização de operação
+urbanística sujeita a controlo prévio, deve ser obtida autorização de utilização ou certidão comprovativa do respetivo
+deferimento tácito antes de ser apresentada a mera comunicação prévia ao abrigo do SIR.
+6 - Sempre que se aplique o RPAG, a consulta de entidades da administração central que se devam pronunciar em razão da
+localização é efetuada no âmbito deste regime.
+7 - Sempre que a instalação ou alteração do estabelecimento industrial se insira numa área licenciada ou concessionada para a
+exploração de recursos geológicos e o mesmo esteja relacionado com tal exploração, não há lugar à aprovação da localização,
+sem prejuízo do cumprimento das normas de planeamento territorial e do regime das servidões administrativas e restrições de
+utilidade pública.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 18.º
+
+
+Equilíbrio urbano e ambiental
+
+
+1 - O início da exploração do estabelecimento industrial de tipo 1, 2 ou 3 que envolva a realização de uma operação urbanística
+sujeita a controlo prévio, depende da prévia emissão pela câmara municipal territorialmente competente de título de
+autorização de utilização ou de certidão comprovativa do respetivo deferimento tácito.
+2 - Não pode ser emitido o alvará de licença ou apresentada a comunicação prévia, de operação urbanística que preveja o uso
+industrial, sem que seja emitido o título digital de instalação ou de instalação e exploração, consoante for aplicável.
+3 - Quando verifique a inexistência de impacte relevante no equilíbrio urbano e ambiental, pode a câmara municipal
+territorialmente competente declarar compatível com uso industrial o alvará de autorização de utilização de edifício ou sua
+fração autónoma destinado:
+a) Ao uso de comércio, serviços ou armazenagem, no caso de se tratar de estabelecimento industrial a que se refere a parte 2-B
+do anexo i ao SIR;
+b) Ao uso de habitação, no caso de se tratar de estabelecimento abrangido pela parte 2-A do anexo i ao SIR.
+4 - O procedimento para a obtenção da declaração de compatibilidade referida no número anterior rege-se, com as necessárias
+adaptações, pelo regime procedimental aplicável à autorização de utilização de edifícios as suas frações constante do RJUE,
+sendo tal declaração, quando favorável, inscrita, por simples averbamento, no título de autorização de utilização já existente.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 19.º
+
+
+Projeto de instalação, fornecimento e produção de energia
+
+
+1 - Os projetos de eletricidade e de produção de energia térmica, instruídos nos termos da legislação aplicável, são entregues:
+a) À entidade coordenadora, que os remete às entidades competentes para os devidos efeitos; ou
+b) Diretamente junto das entidades competentes para a sua apreciação, devendo nesse caso o industrial fazer prova da sua
+entrega junto da entidade coordenadora.
+2 - No caso de instalações elétricas já existentes, o projeto de eletricidade pode ser substituído por declaração da entidade
+competente para o licenciamento elétrico, da qual conste a aprovação do projeto das referidas instalações elétricas.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 26 de 67
+
+
+## Página 27
+
+Artigo 19.º-A
+
+
+Articulação com os regimes ambientais
+
+
+(em vigor a partir de: 2023-02-11)
+(Produção de efeitos: 2023-03-01)
+
+
+1 - O procedimento de AIA relativo ao projeto de execução, bem como os procedimentos de notificação e de aprovação do
+relatório de segurança e de emissão de título ou informação prévia de utilização de recursos hídricos são integrados no SIR nos
+termos do disposto no n.º 1 do artigo 1.º
+2 - Sempre que esteja em causa a instalação de estabelecimento industrial cuja submissão a AIA deva ser decidida com base
+numa análise caso a caso à luz do RJAIA, é aplicável, com as devidas adaptações, o disposto no artigo 39.º-A.
+3 - Os estabelecimentos do tipo 3, com regimes de licenciamento e controlo prévio no domínio dos regimes ambientais
+aplicáveis, previstos no Decreto-Lei n.º 75/2015, de 11 de maio, só podem dar início à exploração mediante obtenção prévia do
+Título Único Ambiental.
+4 - Sempre que esteja em causa a instalação ou alteração de instalação industrial inserida em estabelecimento com CAE 38 ou
+39, é emitido título no âmbito do regime geral de gestão de resíduos (RGGR), após emissão de parecer vinculativo pela entidade
+competente para o licenciamento da atividade industrial.
+5 - O título referido no número anterior constitui condição suficiente para o exercício da atividade industrial.
+6 - O parecer vinculativo é emitido no prazo máximo de 30 dias, sendo que a falta da sua emissão e/ou respetiva notificação à
+entidade licenciadora no prazo referido equivale à emissão de parecer favorável.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 28.º do/a Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10, em vigor a partir de 2023-02-11, produz efeitos a partir
+
+
+de 2023-03-01
+
+
+Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30, em vigor a partir de 2019-01-31, produz efeitos a partir
+
+
+de 2019-01-01
+
+
+Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 19.º-B
+
+
+Venda ao público em estabelecimentos industriais
+
+
+1 - As secções acessórias inseridas em estabelecimentos industriais cuja instalação e exploração dependa da emissão de título
+digital nos termos do SIR, quando destinadas à venda ao consumidor final de produtos produzidos nesses estabelecimentos, ou
+a restauração e bebidas, não carecem de qualquer outro título para além do exigido relativamente ao estabelecimento industrial
+ao abrigo do SIR, sempre que, à luz da legislação aplicável ao acesso e exercício da atividade de comércio e de restauração e
+bebidas, a respetiva exploração esteja sujeita a procedimento de mera comunicação prévia.
+2 - No caso de secções acessórias referidas no número anterior, cuja exploração, à luz da legislação aplicável ao acesso e
+exercício da atividade de comércio e de restauração e bebidas, esteja sujeita a procedimento de autorização, o industrial pode
+optar pela obtenção dessa autorização no quadro dos procedimentos previstos no SIR.
+3 - Nas situações previstas no número anterior, a obtenção da autorização aí referida é desencadeada pela entidade
+coordenadora do procedimento SIR junto da entidade competente para a sua emissão, aplicando-se o procedimento com
+vistoria, exceto nos casos em que o estabelecimento industrial e respetiva secção acessória não careçam de vistoria prévia à
+exploração, à face dos regimes jurídicos que lhe são aplicáveis.
+4 - A existência de secção acessória em estabelecimento industrial é automaticamente comunicada à Direção-Geral das
+Atividades Económicas, através do «Balcão do empreendedor», aquando da emissão do título digital do estabelecimento
+industrial.
+
+
+Alterações
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 27 de 67
+
+
+## Página 28
+
+Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 19.º-C
+
+
+Articulação com o regime da segurança dos alimentos
+
+
+1 - Um estabelecimento sujeito a aprovação nos termos do n.º 2 do artigo 4.º do Regulamento (CE) n.º 853/2004, do Parlamento
+Europeu e do Conselho, de 29 de abril de 2004, ou nos termos do artigo 10.º do Regulamento (CE) n.º 183/2005, do Parlamento
+Europeu e do Conselho, de 2 de janeiro de 2005, ou do artigo 44.º do Regulamento (CE) n.º 1069/2009, do Parlamento Europeu
+e do Conselho, de 21 de outubro de 2009, só pode operar se a autoridade competente tiver concedido ao estabelecimento uma
+autorização de funcionamento, após uma visita ao local ou uma autorização condicional, nos termos, respetivamente, do n.º 3
+do artigo 4.º do Regulamento (CE) n.º 853/2004, do Parlamento Europeu e do Conselho, de 29 de abril de 2004, ou do artigo
+13.º do Regulamento (CE) n.º 183/2005, do Parlamento Europeu e do Conselho, de 2 de janeiro de 2005, ou dos n.os 1 e 2 do
+artigo 44.º do Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009.
+2 - A mera comunicação prévia para exploração dos estabelecimentos previstos no número anterior integra o pedido de vistoria
+prévia a apresentar eletronicamente à entidade competente.
+3 - A aplicação do disposto no n.º 1 do artigo 34.º aos estabelecimentos sujeitos a aprovação nos termos do n.º 1 deve ser feita
+com as devidas adaptações, não podendo dar-se início à exploração sem cumprimento prévio dos respetivos requisitos.
+
+
+Alterações
+
+
+Aditado pelo/a Artigo 13.º do/a Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30, em vigor a partir de 2019-01-31, produz efeitos a partir
+
+
+de 2019-01-01
+
+
+Secção II
+
+
+Procedimento de instalação e exploração com realização de vistoria prévia
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 20.º
+
+
+Objeto do procedimento
+
+
+1 - O procedimento para a instalação e exploração de um estabelecimento industrial de tipo 1 envolve:
+a) A obtenção das licenças, autorizações, aprovações, registos, pareceres ou outros atos permissivos ou não permissivos de que
+dependa a instalação ou exploração de estabelecimento industrial de tipo 1;
+b) A emissão de um título digital de instalação, que titule o direito do requerente a executar o projeto de instalação de
+estabelecimento industrial de tipo 1;
+c) A realização de uma vistoria; e
+d) A emissão de um título digital de exploração, que titula o direito a explorar o estabelecimento industrial de tipo 1 nas
+condições definidas no respetivo título digital de exploração.
+2 - (Revogado).
+3 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 28 de 67
+
+
+## Página 29
+
+Artigo 21.º
+
+
+Pedido de título digital de instalação
+
+
+1 - O procedimento para a emissão de título digital de instalação é iniciado com a apresentação, no «Balcão do empreendedor»,
+de um pedido de emissão de título digital de instalação, acompanhado dos respetivos elementos instrutórios, nos termos a
+definir por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da economia, do
+ambiente e da agricultura.
+2 - Submetido o pedido nos termos do número anterior, o «Balcão do empreendedor» emite automática e imediatamente a
+guia para pagamento da taxa devida pelo pedido de emissão de título digital de instalação.
+3 - Verificado o pagamento da taxa devida, o «Balcão do empreendedor» emite, automática e imediatamente:
+a) Comprovativo do pagamento da taxa devida, identificando, sempre que possível, as entidades públicas cuja consulta seja
+obrigatória ao abrigo do SIR;
+b) Notificação da entidade coordenadora e das entidades públicas a consultar, informando que o procedimento iniciado se
+encontra disponível para verificação.
+4 - Considera-se que a data do pedido de emissão de título digital de instalação é a data indicada no comprovativo a que se
+refere a alínea a) do número anterior.
+5 - No prazo de 15 dias contados da data do pedido, a entidade coordenadora profere:
+a) Despacho de convite ao aperfeiçoamento, no qual especifica em concreto os elementos em falta, bem como, se for caso
+disso, os esclarecimentos necessários à boa instrução do procedimento, caso se verifiquem desconformidades sanáveis entre o
+pedido e respetivos elementos instrutórios e os condicionamentos legais e regulamentares aplicáveis; ou
+b) Despacho de indeferimento liminar, com a consequente extinção do procedimento, se a não conformidade com os
+condicionamentos legais e regulamentares for insuscetível de suprimento ou correção.
+6 - O prazo referido no número anterior é de 25 dias no caso de pedidos de título digital de instalação abrangidos pelo RJAIA,
+RPAG ou REI.
+7 - Para os efeitos previstos nas alíneas a) e b) do n.º 5, as entidades públicas notificadas ao abrigo da alínea b) do n.º 3, se
+verificarem a existência de omissões ou irregularidades no pedido solicitam à entidade coordenadora, até ao décimo dia do
+prazo a que se refere o n.º 5, por uma só vez, que o requerente seja convidado a suprir aquelas omissões ou irregularidades ou
+pronunciam-se em sentido favorável ao indeferimento liminar do pedido quando considerem que as mesmas não são sanáveis.
+8 - No caso de pedidos de título digital de instalação abrangidos pelo RJAIA, RPAG ou REI, a solicitação referida no número
+anterior pode ser remetida à entidade coordenadora até ao vigésimo dia do prazo a que se refere o n.º 6.
+9 - Decorrido o prazo previsto nos n.os 5 ou 6, conforme aplicável, sem que ocorra convite ao aperfeiçoamento ou
+indeferimento liminar do pedido, o «Balcão do empreendedor» emite imediata e automaticamente comprovativo eletrónico
+onde conste a data de apresentação do pedido de emissão de título de instalação e a menção expressa à sua regular instrução,
+não podendo ser solicitados quaisquer elementos adicionais.
+10 - Tendo sido proferido despacho de convite ao aperfeiçoamento, o requerente dispõe de um prazo de 45 dias para corrigir
+ou completar o pedido, sob pena de indeferimento liminar.
+11 - Submetidos os elementos a que se refere o número anterior, o «Balcão do empreendedor» notifica automática e
+imediatamente a entidade coordenadora e as entidades públicas consultadas, para que, no prazo de cinco dias a contar da
+junção ao processo dos elementos adicionais, a entidade coordenadora, após articulação com as entidades públicas consultadas,
+profira despacho de indeferimento liminar, se verificar que subsiste a não conformidade com os condicionamentos legais e
+regulamentares.
+12 - Decorrido o prazo previsto no número anterior sem que seja proferido o despacho de indeferimento liminar, o «Balcão do
+empreendedor» emite imediata e automaticamente o comprovativo eletrónico previsto no n.º 9.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 29 de 67
+
+
+## Página 30
+
+Artigo 22.º
+
+
+Conferência de entidades intervenientes
+
+
+1 - No prazo de 5 dias contado a partir da data do pedido de emissão de título digital de instalação, a entidade coordenadora,
+sempre que o entender conveniente, convoca as entidades públicas a consultar para uma reunião, a ter lugar, preferencialmente,
+através de videoconferência, no prazo máximo de 20 ou 10 dias contados da data do pedido, consoante se trate, ou não, de
+pedido de título digital de instalação abrangida pelo RJAIA ou RPAG.
+2 - Não há lugar à reunião referida no número anterior quando o pedido de emissão de título digital de instalação estiver
+instruído com os elementos que dispensam a pronúncia das entidades públicas nos termos do disposto no n.º 3 do artigo
+seguinte.
+3 - A agenda da reunião inclui obrigatoriamente:
+a) O ponto de situação do processo e seus eventuais antecedentes;
+b) A identificação de eventuais elementos instrutórios em falta ou da sua não conformidade com os condicionamentos legais e
+regulamentares aplicáveis;
+c) A identificação de possíveis condicionantes e obstáculos ao projeto e respetivas implicações procedimentais;
+d) O cronograma dos procedimentos a desenvolver, detalhando o circuito do processo, as obrigações processuais do
+proponente e uma calendarização de compromissos da Administração Pública em matéria de formalidades, que preveja a
+redução, sempre que possível, dos prazos máximos fixados na lei.
+4 - O cronograma referido na alínea c) do número anterior é submetido, para aprovação em matéria de tarefas e prazos, a todos
+os serviços e organismos da administração central intervenientes.
+5 - As conclusões da reunião são registadas em ata e remetidas posteriormente a todas as entidades participantes.
+6 - O requerente pode ser convidado pela entidade coordenadora a participar na reunião referida no n.º 1 a fim de prestar os
+esclarecimentos sobre o respetivo pedido.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 23.º
+
+
+Pronúncia das entidades públicas no procedimento para a emissão de título digital de instalação
+
+
+1 - As entidades públicas competentes para emissão de licença, autorização, aprovação, registo, parecer ou outros atos
+permissivos ou não permissivos, nos termos do artigo 14.º, pronunciam-se, no âmbito do procedimento para emissão do título
+digital de instalação, em cumprimento da calendarização a que se refere a alínea d) do n.º 3 do artigo anterior, quando aplicável,
+ou nos prazos máximos para pronúncias previstos no anexo iv ao SIR, a contar da data do pedido, devendo inserir a respetiva
+licença, autorização, aprovação, registo, parecer ou outros atos permissivos ou não permissivos no «Balcão do empreendedor»
+nesse prazo.
+2 - A inserção das pronúncias referidas no número anterior no «Balcão do empreendedor» é notificada automática e
+imediatamente ao requerente e à entidade coordenadora.
+3 - Não há lugar a pronúncia da respetiva entidade pública competente, quando:
+a) O pedido esteja abrangido por condições técnicas padronizadas a que o requerente tenha aderido, nos termos e condições
+previstos no n.º 5 do artigo 8.º;
+b) For junto ao procedimento licença, autorização, aprovação, registo, parecer ou outro ato permissivo ou não permissivo que
+mantenha a sua validade, desde que se mantenham inalterados os respetivos pressupostos de facto ou de direito;
+c) For junto ao procedimento relatório de avaliação da conformidade com a legislação aplicável;
+d) For junto ao procedimento relatório de avaliação da conformidade com a legislação aplicável nas áreas técnicas da segurança
+alimentar e ou da saúde e segurança no trabalho elaborado por entidade acreditada.
+4 - (Revogado.)
+5 - (Revogado.)
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 30 de 67
+
+
+## Página 31
+
+6 - O prazo para pronúncia da entidade consultada suspende-se na data em que é remetida à entidade coordenadora a
+solicitação a que se referem os n.os 7 e 8 do artigo 21.º, retomando o seu curso após a data da emissão do comprovativo
+eletrónico de regular instrução mencionado no n.º 12 do artigo 21.º
+
+
+Alterações
+
+
+Retificado pelo/a Declaração de Retificação n.º 29/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15, produz efeitos a partir de 2015-06-01
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 24.º
+
+
+Título digital de instalação
+(em vigor a partir de: 2023-02-11)
+(Produção de efeitos: 2023-03-01)
+
+
+1 - O título digital de instalação contém cópia integral das pronúncias das entidades consultadas, incluindo das condições a
+observar pelo requerente na execução do projeto e na exploração do estabelecimento industrial, ou a menção do decurso do
+prazo para esse efeito.
+2 - Quando das pronúncias das entidades consultadas resultem incompatibilidades suscetíveis de inviabilizarem a execução do
+projeto e ou a exploração do estabelecimento industrial, a entidade coordenadora promove as ações necessárias à concertação
+de posições, para que, no prazo a que se refere o número seguinte, as entidades consultadas procedam à eventual alteração das
+pronúncias no sentido da conciliação dos vários interesses em presença.
+3 - O título digital de instalação é emitido no prazo máximo de 10 dias contados da verificação de uma das seguintes
+circunstâncias:
+a) Inserção no «Balcão do Empreendedor» da última das licenças, autorizações, aprovações, registos, pareceres, atos permissivos
+ou não permissivos necessários à instalação do estabelecimento industrial; ou
+b) Termo do prazo para a emissão das licenças, autorizações, aprovações, registos, pareceres ou atos permissivos ou não
+permissivos necessários à instalação do estabelecimento industrial, quando as entidades públicas respetivas não se tenham
+pronunciado, sem prejuízo do disposto no n.º 5.
+4 - O título digital de instalação não é emitido quando ocorra uma das seguintes circunstâncias:
+a) DIA desfavorável ou não conformidade do projeto de execução com a DIA, conforme inscrito no Título Único Ambiental
+(TUA);
+b) Indeferimento do pedido de licença ambiental inscrito no TUA;
+c) Indeferimento do pedido de aprovação do relatório de segurança ou parecer negativo da APA, I. P., relativo à compatibilidade
+da localização, conforme inscrito no TUA;
+d) Indeferimento do pedido de título de emissão de gases com efeito de estufa, inscrito no TUA;
+e) Indeferimento de título ou de decisão sobre o pedido de informação prévia de utilização de recurso hídricos em instalações
+industriais, inscrito no TUA;
+f) [Revogada.]
+g) [Revogada.]
+h) Decisão desfavorável quanto à atribuição do número de controlo veterinário ou número de identificação individual,
+consoante se trate de operador no setor dos géneros alimentícios ou subprodutos de origem animal ou do setor dos alimentos
+para animais, respetivamente, quando tal atribuição seja exigível nos termos da legislação aplicável;
+i) Falta de apresentação da aprovação do projeto de arquitetura ou da informação prévia favorável, a que se refere o n.º 2 do
+artigo 17.º;
+j) Indeferimento do pedido do título de emissões para o ar (TEAR), inscrito no TUA.
+5 - O título digital de instalação pode ser emitido antes da decisão final nos procedimentos de licença ambiental, de título de
+utilização de recursos hídricos, de título de emissão de gases com efeito de estufa, de parecer ou licença de operação de gestão
+de resíduos, de título de emissões para o ar, de atribuição do número de controlo veterinário ou do número de identificação
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 31 de 67
+
+
+## Página 32
+
+individual e de autorização de equipamentos a instalar em estabelecimento industrial abrangidos por legislação específica, que
+são apenas condição do título digital de exploração do estabelecimento.
+6 - O título digital de instalação é emitido de forma eletrónica e automática pelo «Balcão do empreendedor», sendo enviada
+notificação ao requerente, à entidade coordenadora, à câmara municipal territorialmente competente, às entidades públicas
+consultadas, bem como às entidades cuja consulta tenha sido dispensada ao abrigo do n.º 3 do artigo 23.º
+7 - Verificando-se uma causa de não emissão do título digital de instalação, nos termos previstos no n.º 4, o «Balcão do
+empreendedor» envia notificação às entidades referidas no número anterior.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 36.º do/a Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10, em vigor a partir de 2023-02-11, produz efeitos a partir
+
+
+de 2023-03-01
+
+
+Alterado pelo/a Artigo 37.º do/a Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11, em vigor a partir de 2018-07-01
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 25.º
+
+
+Pedido de título digital de exploração
+
+
+1 - Quando pretenda iniciar a exploração, o requerente deve apresentar, no «Balcão do empreendedor», um pedido de emissão
+de título digital de exploração, acompanhado dos respetivos elementos instrutórios, nos termos definidos na portaria a que se
+refere o n.º 1 do artigo 21.º
+2 - Submetido o pedido nos termos no número anterior, o «Balcão do empreendedor» emite automática e imediatamente a
+guia para pagamento da taxa devida pelo pedido de emissão de título digital de exploração.
+3 - Verificado o pagamento da taxa devida, o «Balcão do empreendedor» emite, automática e imediatamente:
+a) Recibo comprovativo do pagamento da taxa devida;
+b) Notificação da entidade coordenadora e das entidades públicas consultadas que o procedimento iniciado se encontra
+disponível para verificação.
+4 - Considera-se que a data do pedido de emissão do título digital de exploração é a data indicada no recibo a que se refere a
+alínea a) do número anterior.
+5 - (Revogado).
+6 - (Revogado).
+7 - (Revogado).
+8 - (Revogado).
+9 - (Revogado).
+10 - (Revogado).
+11 - (Revogado).
+12 - (Revogado).
+13 - (Revogado).
+14 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 25.º-A
+
+
+Vistoria prévia ao início da exploração
+
+
+1 - A vistoria prévia ao início da exploração de estabelecimento industrial tem lugar dentro dos trinta dias subsequentes à data
+de apresentação do pedido de emissão do título digital de exploração.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 32 de 67
+
+
+## Página 33
+
+2 - A data para a realização da vistoria é comunicada, com a antecedência mínima de 10 dias, pela entidade coordenadora ao
+requerente e a todas as entidades consultadas ao abrigo do artigo 23.º, as quais devem designar os seus representantes e
+indicar os técnicos e ou peritos que as representarão, podendo ainda a entidade coordenadora, caso considere conveniente,
+convocar outros técnicos e peritos.
+3 - A vistoria é agendada pela entidade coordenadora, após articulação com as entidades intervenientes, e pode ter lugar em:
+a) Dias fixos, e neste caso implica a presença conjunta e simultânea no estabelecimento industrial dos representantes, técnicos e
+peritos referidos no número anterior;
+b) Qualquer dia de determinado período, que não deve exceder uma semana, e, neste caso, os representantes, técnicos e peritos
+referidos no número anterior podem executar as respetivas missões em dias diferentes dentro do período determinado, sem
+necessidade da presença simultânea de todos no estabelecimento industrial.
+4 - Decorrido o prazo previsto no n.º 1 para a realização da vistoria sem que esta seja realizada, por motivo não imputável ao
+requerente, as entidades beneficiárias da taxa a que se refere o n.º 2 do artigo anterior procedem à devolução ao requerente do
+valor correspondente.
+5 - Se, após a apresentação do pedido de título digital de exploração for também determinada a realização de vistoria no
+âmbito do RJUE, o requerente pode solicitar à entidade coordenadora que seja agendada uma única vistoria, para a qual é
+convocada a câmara municipal competente nos termos do n.º 2.
+6 - A realização de uma vistoria única nos termos do número anterior não prejudica o disposto no n.º 6 do artigo 65.º do RJUE.
+7 - Os resultados da vistoria são registados em auto de vistoria, em formato eletrónico e ou em papel, do qual devem constar os
+seguintes elementos:
+a) Validação dos elementos instrutórios a que se refere o n.º 1 do artigo anterior;
+b) Conformidade ou desconformidade do estabelecimento industrial com os condicionamentos legais e regulamentares, com o
+projeto aprovado e com as condições integradas no título digital de instalação;
+c) Identificação das desconformidades que necessitam de correção;
+d) Posição sobre a procedência ou improcedência de reclamações apresentadas na vistoria;
+e) Proposta de decisão final sobre o pedido de título digital de exploração.
+8 - Quando a proposta de indeferimento se fundar em desconformidade das instalações industriais com condicionamentos
+legais e regulamentares ou com as condições fixadas, ainda que por remissão, no título digital de instalação, o auto de vistoria
+deve indicar as razões pelas quais aquela desconformidade assume relevo suficiente para a não emissão do título digital de
+exploração.
+9 - Se as desconformidades identificadas forem passíveis de correção em prazo razoável deve o auto de vistoria propor a
+emissão de título digital de exploração condicionado à execução das correções necessárias dentro de um prazo razoável ou ao
+cumprimento das condições constantes do mesmo.
+10 - O auto de vistoria é elaborado e assinado pelos intervenientes na vistoria, podendo conter em anexo as respetivas
+declarações individuais, devidamente assinadas, sendo submetido pela entidade coordenadora no «Balcão do empreendedor»
+no último dia de realização da vistoria ou nos cinco dias subsequentes à conclusão da mesma e disponibilizado ao requerente e
+às entidades intervenientes.
+11 - Não sendo realizada a vistoria no prazo referido no n.º 1 por motivo não imputável ao requerente, este, sem prejuízo dos
+meios graciosos e contenciosos ao seu dispor, pode recorrer a entidades acreditadas para proceder à sua realização, devendo
+observar, as seguintes condições:
+a) Ser conduzida por uma ou mais entidades acreditadas nos termos previstos no capítulo vi;
+b) Observar o disposto nos n.os 7, 8 e 9.
+12 - As entidades acreditadas que tenham procedido à vistoria disponibilizam o respetivo resultado no «Balcão do
+empreendedor», dentro dos cinco dias subsequentes à sua realização.
+
+
+Alterações
+
+
+Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 33 de 67
+
+
+## Página 34
+
+Artigo 25.º-B
+
+
+Título digital de exploração
+(em vigor a partir de: 2023-02-11)
+(Produção de efeitos: 2023-03-01)
+
+
+1 - A exploração de estabelecimento industrial só pode ter início após a emissão do título digital de exploração nos termos
+previstos nos números seguintes.
+2 - O título digital de exploração contém cópia integral das licenças, autorizações, aprovações, registos, pareceres, atos
+permissivos ou não permissivos necessários à exploração do estabelecimento industrial ou a menção do decurso do prazo a que
+se refere o número seguinte, e ainda, se aplicável, as condições a observar pelo requerente na exploração, sendo emitido
+imediata e automaticamente após a verificação de uma das seguintes circunstâncias:
+a) Inserção no «Balcão do Empreendedor» da última das licenças, autorizações, aprovações, registos, pareceres, atos permissivos
+ou não permissivos necessários à exploração do estabelecimento industrial; ou
+b) Termo do prazo para a emissão das licenças, autorizações, aprovações, registos, pareceres ou atos permissivos ou não
+permissivos necessários à exploração do estabelecimento industrial, quando as entidades públicas respetivas não se tenham
+pronunciado.
+3 - As licenças, autorizações, aprovações, registos, pareceres, atos permissivos ou não permissivos necessários à exploração do
+estabelecimento industrial são emitidas no prazo de 10 dias contados da realização da vistoria a que se refere o artigo anterior.
+4 - Se o auto de vistoria evidenciar que as condições de exploração do estabelecimento industrial não estão conformes com o
+projeto aprovado ou com as condições estabelecidas no título digital de instalação do estabelecimento industrial, mas as
+mesmas forem passíveis de correção em prazo razoável, é emitido título digital de exploração condicionado à execução das
+correções necessárias dentro do prazo fixado no auto de vistoria, findo o qual é agendada nova vistoria, aplicando-se o disposto
+no artigo 36.º
+5 - O disposto no número anterior é aplicável igualmente aos casos de medidas de correção de situações de não cumprimento
+que sejam expressas nos autos de vistoria, ou no relatório técnico das entidades acreditadas, sempre que tais medidas não
+constituam fundamento de não emissão do título digital de exploração nos termos do número seguinte.
+6 - O título digital de exploração não é emitido quando ocorra uma das seguintes circunstâncias:
+a) Desconformidade das instalações industriais com condicionamentos legais e regulamentares ou com as condições constantes
+do título digital de instalação desde que o auto de vistoria ou o relatório técnico de entidade acreditada lhes atribua relevo
+suficiente;
+b) Indeferimento do pedido de licença ambiental, inscrito no TUA;
+c) Indeferimento de título de emissão de gases com efeito de estufa, inscrito no TUA;
+d) Indeferimento de título ou de decisão sobre o pedido de informação prévia de utilização dos recursos hídricos em instalações
+industriais, inscrito no TUA;
+e) [Revogada.]
+f) Falta de decisão ou decisão desfavorável quanto à atribuição do número de controlo veterinário ou número de identificação
+individual, consoante se trate de operador no setor dos géneros alimentícios ou subprodutos de origem animal ou do setor dos
+alimentos para animais respetivamente, quando tal atribuição seja exigível nos termos da legislação aplicável;
+g) Indeferimento do pedido do título de emissões para o ar, inscrito no TUA, ou a desconformidade com as condições
+constantes do mesmo.
+7 - A emissão de título digital de exploração é notificada, de forma eletrónica e automática, pelo «Balcão do empreendedor», ao
+requerente, à entidade coordenadora, à câmara municipal territorialmente competente, às entidades públicas consultadas, bem
+como às entidades cuja consulta tenha sido dispensada ao abrigo do n.º 3 do artigo 23.º
+8 - O requerente pode iniciar a exploração do estabelecimento industrial logo que seja emitido o título digital de exploração e
+uma vez contratado o seguro de responsabilidade civil a que se refere o n.º 1 do artigo 4.º
+9 - O requerente deve comunicar à entidade coordenadora a data de início da exploração com uma antecedência não inferior a
+cinco dias, sendo tal comunicação notificada automaticamente através do «Balcão do empreendedor» a todas as entidades
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 34 de 67
+
+
+## Página 35
+
+consultadas, bem como às entidades cuja consulta tenha sido dispensada nos termos do n.º 3 do artigo 23.º
+10 - Verificando-se uma causa de não emissão do título de exploração, nos termos previstos no n.º 6, o «Balcão do
+empreendedor» envia notificação ao requerente e demais entidades referidas no n.º 7.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 36.º do/a Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10, em vigor a partir de 2023-02-11, produz efeitos a partir
+
+
+de 2023-03-01
+
+
+Alterado pelo/a Artigo 37.º do/a Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11, em vigor a partir de 2018-07-01
+
+
+Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 26.º
+
+
+Objeto e âmbito do procedimento de autorização prévia padronizada
+
+
+1 - O procedimento previsto na presente subsecção destina-se a obter uma decisão integrada da entidade coordenadora que
+confere ao requerente o direito a instalar e a explorar o estabelecimento industrial de tipo 1, de acordo com as condições de
+instalação e exploração definidas na decisão de autorização prévia padronizada.
+2 - A decisão integrada da entidade coordenadora a que se refere o número anterior engloba as licenças ou autorizações
+padronizadas necessárias à atividade a desenvolver no estabelecimento industrial que tenham sido objeto do pedido de
+autorização prévia padronizada, designadamente nos seguintes domínios:
+a) Prevenção e controlo integrados da poluição;
+b) Utilização de recursos hídricos;
+c) Operações de gestão de resíduos;
+d) Emissão de gases com efeito de estufa;
+e) Segurança e saúde no trabalho, caso seja aplicável nos termos de lei especial;
+f) Segurança alimentar.
+3 - O procedimento de autorização prévia padronizada aplica-se por opção do requerente e requer:
+a) A existência de licença ou autorização padronizada no domínio das atividades e ou operações a desenvolver no
+estabelecimento industrial;
+b) Uma declaração de responsabilidade do requerente de cumprimento integral das obrigações e condições constantes das
+licenças ou autorizações padronizadas objeto do pedido.
+4 - Por opção do requerente, e se for caso disso, o procedimento de avaliação de impacte ambiental relativo a projeto de
+execução, os procedimentos de notificação e de aprovação do relatório de segurança, bem como ainda, no caso de não existir
+licença ou autorização padronizada, o procedimento de emissão de título ou informação prévia de utilização de recursos
+hídricos, podem ser iniciados junto da entidade coordenadora e decorrer em simultâneo com o procedimento de autorização
+prévia padronizada a que se refere a presente subsecção.
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 27.º
+
+
+Pedido de autorização prévia padronizada
+
+
+1 - O procedimento é iniciado com a apresentação pelo requerente à entidade coordenadora de pedido de autorização prévia
+padronizada, através de formulário e respetivos elementos instrutórios constantes de portaria dos membros do Governo
+responsáveis pelas áreas da economia, do emprego, da agricultura e do ambiente.
+2 - Considera-se que a data do pedido de autorização é a data indicada no respetivo comprovativo do pagamento da taxa
+prevista no artigo 79.º, emitido pelo «Balcão do empreendedor».
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 35 de 67
+
+
+## Página 36
+
+3 - O recibo comprovativo do recebimento do pedido de autorização identifica eventuais condicionamentos aplicáveis, bem
+como as entidades cuja consulta é obrigatória.
+4 - No prazo de cinco dias, contado a partir da data do pedido de autorização, a entidade coordenadora procede à verificação
+sumária do pedido, incluindo os respetivos elementos instrutórios e, caso haja lugar a consulta de entidades públicas, remete-
+lhes, no mesmo prazo, os elementos do processo pertinentes, tendo em conta as respetivas atribuições e competências.
+5 - Se a verificação do pedido de autorização e respetivos elementos instrutórios, efetuada pela entidade coordenadora, ou
+pelas entidades consultadas, nos termos do disposto no n.º 3 do artigo 28.º, revelar a sua não conformidade com os
+condicionamentos legais e regulamentares aplicáveis, a entidade coordenadora profere, no prazo de 20 ou 10 dias, consoante
+haja ou não lugar a consultas obrigatórias, contado a partir da data do pedido de autorização:
+a) Despacho de convite ao aperfeiçoamento, no qual especifica em concreto os elementos em falta, bem como, se for caso
+disso, os esclarecimentos necessários à boa instrução do processo, suspendendo-se o prazo para a decisão da entidade
+coordenadora ou das entidades consultadas, consoante os casos, até à receção dos elementos solicitados ou ao decurso do
+prazo previsto no n.º 7, consoante o que ocorra primeiro; ou
+b) Despacho de indeferimento liminar, com a consequente extinção do procedimento, se a não conformidade com os
+condicionamentos legais e regulamentares for insuscetível de suprimento ou correção.
+6 - Decorrido o prazo previsto no número anterior sem que ocorra convite ao aperfeiçoamento, a plataforma emite
+automaticamente notificação donde conste a data de apresentação do pedido de autorização prévia padronizada e a menção
+expressa à sua regular instrução.
+7 - Tendo sido proferido despacho de convite ao aperfeiçoamento, o requerente dispõe de um prazo máximo de 20 dias para
+corrigir ou completar o pedido, sob pena de indeferimento liminar.
+8 - No prazo de cinco dias a contar da junção ao processo dos elementos adicionais pelo requerente, a entidade coordenadora:
+a) Disponibiliza-os às entidades consultadas se verificar o integral suprimento das omissões ou irregularidades e emite a
+certidão prevista no n.º 6; ou
+b) Profere despacho de indeferimento liminar se subsistir a não conformidade com os condicionamentos legais e
+regulamentares.
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 28.º
+
+
+Pronúncia de entidades públicas
+
+
+1 - No procedimento de autorização prévia padronizada não há lugar a consulta de entidades públicas a que se refere o artigo
+14.º, quando:
+a) A respetiva pronúncia esteja abrangida por licença ou autorização padronizada objeto do pedido; ou
+b) A autorização prévia padronizada estiver instruída com:
+i) Parecer, autorização ou outro título legalmente exigido, que mantém a sua validade, desde que se mantenham inalterados os
+respetivos pressupostos de facto ou de direito;
+ii) Relatório de avaliação da conformidade com a legislação aplicável nas áreas técnicas da segurança e saúde no trabalho e
+segurança alimentar, elaborado por entidade acreditada para o efeito.
+2 - Caso haja lugar à pronúncia de entidades públicas referidas no artigo 14.º, estas pronunciam-se no prazo máximo de 20 dias
+a contar da data de receção dos elementos do processo remetidos pela entidade coordenadora.
+3 - Se as entidades consultadas verificarem que existem omissões ou irregularidades nos elementos instrutórios cuja junção é
+obrigatória, podem solicitar à entidade coordenadora, por uma só vez, que o requerente seja convidado a suprir aquelas
+omissões ou irregularidades, desde que tal solicitação seja recebida pela entidade coordenadora até ao 10.º dia do prazo fixado
+no n.º 2.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 36 de 67
+
+
+## Página 37
+
+4 - Exercida a faculdade prevista no número anterior, a entidade coordenadora analisa o pedido formulado pela entidade
+consultada, proferindo, quando o considere pertinente, despacho de aperfeiçoamento nos termos previstos na alínea a) do n.º 5
+do artigo anterior, ou indeferindo, fundamentadamente, aquele pedido.
+5 - O prazo para pronúncia suspende-se na data em que é recebida pela entidade coordenadora a solicitação mencionada no
+n.º 3, retomando o seu curso após a receção pela entidade consultada dos elementos adicionais solicitados ou da notificação do
+respetivo indeferimento.
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 29.º
+
+
+Título de instalação e exploração padronizada
+
+
+1 - A entidade coordenadora profere uma decisão final fundamentada sobre o pedido de autorização prévia padronizada, a
+qual, quando favorável, consubstancia o título de instalação e exploração padronizada para todos os efeitos previstos no SIR.
+2 - A decisão referida no número anterior só produz efeitos após apreciação positiva de cópia da apólice de seguro de
+responsabilidade civil previsto no artigo 4.º
+3 - A decisão referida no n.º 1 incorpora:
+a) Todas as licenças ou autorizações padronizadas objeto do pedido;
+b) Nos casos em que intervieram outras entidades públicas, a síntese das diferentes pronúncias das entidades consultadas,
+estabelecendo, quando favorável, as condições a observar na exploração do estabelecimento em termos que vinculam as
+entidades públicas intervenientes no procedimento de autorização prévia padronizada.
+4 - A decisão final da entidade coordenadora sobre o pedido de autorização prévia padronizada não depende da realização de
+vistoria prévia, exceto no caso de exploração de atividade agroalimentar que utilize matéria-prima de origem animal não
+transformada ou de atividade de operação de gestão de resíduos que exija vistoria prévia à exploração, nos termos dos regimes
+legais aplicáveis, que são sempre precedidas de vistoria das autoridades responsáveis, e às quais é aplicável o disposto no artigo
+35.º
+5 - Quando não haja lugar a consultas, a decisão da entidade coordenadora é proferida no prazo de 15 dias, contado da
+apresentação do pedido.
+6 - Sempre que haja lugar a consultas, a decisão sobre o pedido de autorização prévia padronizada é proferida no prazo de 10
+dias, contado:
+a) Da data de receção, se for caso disso, do último dos pareceres, autorizações ou aprovações emitidos pelas entidades
+consultadas;
+b) Do termo do prazo para a pronúncia das entidades consultadas, sempre que alguma daquelas entidades não se pronuncie.
+7 - No caso de a instalação do estabelecimento implicar a realização de operação urbanística sujeita a controlo prévio e houver
+lugar a vistoria da entidade responsável pela gestão do sistema de segurança alimentar ou da entidade responsável pela
+segurança contra incêndio em edifícios, a decisão da entidade coordenadora sobre o pedido de autorização prévia padronizada
+é proferida nos prazos referidos nos n.º 5 e 6, consoante haja ou não lugar a consultas, mas, quando favorável, é sempre
+condicionada à realização daquela vistoria, a qual é solicitada pelo requerente com a antecedência mínima de 30 dias
+relativamente à data de início de exploração referida no n.º 13.
+8 - Só pode ser proferida decisão desfavorável sobre o pedido de autorização padronizada com fundamento em:
+a) Características e especificações da instalação industrial descritas no pedido de autorização padronizada que não
+correspondam ao âmbito de aplicação das licenças ou autorizações padronizadas objeto do pedido;
+b) Decisão desfavorável da CCDR em razão da localização.
+9 - O título de exploração é disponibilizado no «Balcão do empreendedor» pela entidade coordenadora, sendo enviada
+notificação automática ao requerente, à câmara municipal territorialmente competente, às entidades consultadas, bem como às
+entidades cuja consulta tenha sido dispensada ao abrigo do n.º 1 do artigo 28.º
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 37 de 67
+
+
+## Página 38
+
+10 - O requerente pode iniciar a instalação e exploração do estabelecimento, logo que tenha em seu poder a notificação da
+decisão favorável ou favorável condicionada ou, em caso de deferimento tácito, a certidão prevista no n.º 3 do artigo 16.º, sem
+prejuízo do disposto nos números seguintes.
+11 - Quando se trate de atividade agroalimentar que utilize matéria-prima de origem animal não transformada ou de atividade
+de operação de gestão de resíduos que exija vistoria prévia à exploração, nos termos dos regimes legais aplicáveis, a exploração
+só pode ter início após a realização da vistoria referida no n.º 4, sendo o respetivo resultado disponibilizado ao requerente no
+«Balcão do empreendedor» no último dia de realização da vistoria ou nos cinco dias subsequentes.
+12 - Quando a instalação, ampliação ou alteração do estabelecimento industrial envolva a realização de uma operação
+urbanística sujeita a controlo prévio, o início da exploração depende da emissão de título de autorização de utilização emitido
+pela câmara municipal territorialmente competente ou de certidão comprovativa do respetivo deferimento tácito.
+13 - O requerente deve comunicar à entidade coordenadora a data do início da exploração já autorizada, com uma antecedência
+não inferior a cinco dias, dando esta conhecimento de tal facto a todas as entidades consultadas, bem como às entidades cuja
+consulta tenha sido dispensada ao abrigo do n.º 1 do artigo 28.º
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Secção III
+
+
+Regime de comunicação prévia com prazo
+
+
+Artigo 30.º
+
+
+Objeto e início do procedimento
+
+
+1 - O procedimento para a instalação e exploração de um estabelecimento de tipo 2 envolve:
+a) A obtenção das licenças, autorizações, aprovações, registos, pareceres ou outros atos permissivos ou não permissivos de que
+dependa a instalação ou exploração de estabelecimento industrial de tipo 2; e
+b) A emissão de um título digital de instalação e exploração, que titule o direito do requerente de instalar e explorar um
+estabelecimento industrial de tipo 2.
+2 - O procedimento para a emissão de título digital de instalação e exploração é iniciado com a apresentação, no «Balcão do
+empreendedor», de um pedido de emissão de título digital de instalação e exploração, acompanhado dos respetivos elementos
+instrutórios, nos termos definidos na portaria a que se refere o n.º 1 do artigo 21.º
+3 - Submetido o pedido nos termos do número anterior, o «Balcão do empreendedor» emite automática e imediatamente a
+guia para pagamento da taxa devida pelo pedido de emissão de título digital de instalação e exploração.
+4 - Verificado o pagamento da taxa devida, o «Balcão do empreendedor» emite, automática e imediatamente:
+a) Recibo comprovativo do pagamento da taxa devida, identificando, sempre que possível, as entidades públicas cuja consulta
+seja obrigatória;
+b) Notificação da entidade coordenadora e das entidades públicas a consultar, informando que o procedimento iniciado se
+encontra disponível para verificação.
+5 - Considera-se que a data do pedido de emissão do título digital de instalação e exploração é a data indicada no recibo a que
+se refere a alínea a) do número anterior.
+6 - No prazo de 15 dias contados da data do pedido a entidade coordenadora profere:
+a) Despacho de convite ao aperfeiçoamento, no qual especifica em concreto os elementos em falta, bem como, se for caso
+disso, os esclarecimentos necessários à boa instrução do procedimento, caso se verifiquem desconformidades sanáveis entre o
+pedido e respetivos elementos instrutórios e os condicionamentos legais e regulamentares aplicáveis; ou
+b) Despacho de indeferimento liminar, com a consequente extinção do procedimento, se a não conformidade com os
+condicionamentos legais e regulamentares for insuscetível de suprimento ou correção.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 38 de 67
+
+
+## Página 39
+
+7 - Para os efeitos previstos nas alíneas a) e b) do número anterior, as entidades públicas notificadas ao abrigo da alínea b) do
+n.º 4, se verificarem a existência de omissões ou irregularidades no pedido, solicitam à entidade coordenadora, até ao décimo
+dia do prazo a que se refere o número anterior, por uma só vez, que o requerente seja convidado a suprir aquelas omissões ou
+irregularidades ou pronunciam-se em sentido favorável ao indeferimento liminar do pedido quando considerem que as mesmas
+não são sanáveis.
+8 - Decorrido o prazo previsto no n.º 6 sem que ocorra convite ao aperfeiçoamento ou indeferimento liminar do pedido, o
+«Balcão do empreendedor» emite imediata e automaticamente comprovativo eletrónico onde conste a data de apresentação do
+pedido de emissão de título digital de instalação e exploração e a menção à sua regular instrução, não podendo ser solicitados
+quaisquer elementos adicionais.
+9 - Tendo sido proferido despacho de convite ao aperfeiçoamento, o requerente dispõe de um prazo de 15 dias para corrigir ou
+completar o pedido, sob pena de indeferimento liminar.
+10 - Submetidos os elementos a que se refere o número anterior, o «Balcão do empreendedor» notifica automática e
+imediatamente a entidade coordenadora e as entidades públicas consultadas, para que, no prazo de 5 dias a contar da junção
+ao processo dos elementos adicionais, a entidade coordenadora, após articulação com as entidades públicas consultadas, profira
+despacho de indeferimento liminar, se verificar que subsiste a não conformidade com os condicionamentos legais e
+regulamentares.
+11 - Decorrido o prazo previsto no número anterior sem que seja proferido o despacho de indeferimento liminar, o «Balcão do
+empreendedor» emite imediata e automaticamente o comprovativo eletrónico previsto no n.º 8.
+12 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 31.º
+
+
+Pronúncia das entidades públicas no procedimento de instalação e exploração sem realização de vistoria
+
+
+1 - As entidades públicas competentes para emissão de licença, autorização, aprovação, registo, parecer ou outros atos
+permissivos ou não permissivos de que dependa a instalação e exploração do estabelecimento industrial, nos termos do artigo
+14.º, pronunciam-se, no âmbito do procedimento a que se refere a presente secção, nos prazos máximos para pronúncias
+previstos no anexo iv ao SIR, a contar da data do pedido, devendo inserir a respetiva licença, autorização, aprovação, registo,
+parecer ou outros atos permissivos ou não permissivos no «Balcão do empreendedor» nesse prazo.
+2 - A inserção das pronúncias referidas no número anterior no «Balcão do empreendedor» é notificada automática e
+imediatamente ao requerente e à entidade coordenadora.
+3 - Não há lugar a pronúncia da respetiva entidade pública competente, quando:
+a) O pedido esteja abrangido por condições técnicas padronizadas a que o requerente tenha aderido, nos termos e condições
+previstos no n.º 5 do artigo 8.º;
+b) For junto ao procedimento licença, autorização, aprovação, registo, parecer ou outro ato permissivo ou não permissivo que
+mantenha a sua validade, desde que se mantenham inalterados os respetivos pressupostos de facto ou de direito;
+c) For junto ao procedimento relatório de avaliação da conformidade com a legislação aplicável na área técnica da saúde e
+segurança no trabalho elaborado por entidade acreditada.
+4 - (Revogado).
+5 - (Revogado).
+6 - O prazo para pronúncia da entidade consultada suspende-se na data em que é remetida à entidade coordenadora a
+solicitação a que se refere o n.º 7 do artigo 30.º, retomando o seu curso após a data da emissão do comprovativo eletrónico de
+regular instrução mencionado no n.º 11 do mesmo artigo.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 39 de 67
+
+
+## Página 40
+
+Artigo 32.º
+
+
+Título digital de instalação e exploração
+
+
+1 - A exploração de estabelecimento industrial de tipo 2 só pode ter início após a emissão do título digital de instalação e
+exploração nos termos previstos nos números seguintes.
+2 - O título digital de instalação e exploração contém cópia integral das licenças, autorizações, aprovações, registos, pareceres,
+atos permissivos ou não permissivos necessários à instalação e exploração do estabelecimento industrial ou a menção do
+decurso do prazo para esse efeito, e ainda, se aplicável, as condições a observar pelo requerente na instalação e exploração,
+sendo emitido imediata e automaticamente após a verificação de uma das seguintes circunstâncias:
+a) Inserção no «Balcão do empreendedor» da última das licenças, autorizações, aprovações, registos, pareceres, atos permissivos
+ou não permissivos necessários à instalação e exploração do estabelecimento industrial; ou
+b) Termo do prazo para a emissão das licenças, autorizações, aprovações, registos, pareceres ou atos permissivos ou não
+permissivos necessários à instalação e exploração do estabelecimento industrial, quando as entidades públicas respetivas não se
+tenham pronunciado.
+3 - Quando não haja lugar a pronúncia da entidade pública competente nos termos no n.º 3 do artigo anterior, e não ocorrendo
+nenhuma das circunstâncias previstas no n.º 5, o título digital de instalação e exploração é emitido imediata e automaticamente
+na data em que seja emitido o comprovativo de regular instrução, a que se referem os n.os 8 e 11 do artigo 30.º
+4 - Sempre que haja lugar a consultas, o título digital de instalação e exploração é emitido imediata e automaticamente após a
+verificação de uma das seguintes circunstâncias:
+a) Inserção no «Balcão do empreendedor» da última das licenças, autorizações, aprovações, registos, pareceres favoráveis (ou se
+desfavoráveis, não vinculativos), outros atos permissivos ou não permissivos emitidos pelas entidades consultadas;
+b) No termo do prazo para a pronúncia das entidades públicas consultadas, sempre que alguma daquelas entidades não se
+pronuncie.
+5 - O título digital de instalação e exploração não é emitido quando ocorra uma das seguintes circunstâncias:
+a) Desconformidade das características e especificações do estabelecimento industrial descritas no pedido que contrariem ou
+não cumpram os condicionamentos legais e regulamentares em vigor, desde que a pronúncia da entidade consultada atribua a
+tais desconformidades relevo suficiente para a não emissão do título digital de instalação e exploração do estabelecimento
+industrial;
+b) Indeferimento dos pedidos de título de emissão de gases com efeito de estufa, inscrito no TUA;
+c) Indeferimento de título ou de decisão sobre o pedido de informação prévia de utilização de recursos hídricos em instalações
+industriais, inscrito no TUA;
+d) Indeferimento do pedido de alvará de operação de gestão de resíduos, inscrito no TUA;
+e) Falta de apresentação da aprovação do projeto de arquitetura ou da informação prévia favorável, a que se refere o n.º 2 do
+artigo 17.º;
+f) Indeferimento do pedido do título de emissões para o ar, inscrito no TUA.
+6 - O título digital de instalação e exploração é emitido de forma eletrónica e automática pelo «Balcão do empreendedor»,
+sendo enviada notificação ao requerente, à entidade coordenadora, à câmara municipal territorialmente competente, às
+entidades públicas consultadas, bem como às entidades cuja consulta tenha sido dispensada ao abrigo do n.º 3 do artigo
+anterior.
+7 - O requerente pode iniciar a exploração do estabelecimento industrial logo que seja emitido o título digital de instalação e
+exploração e uma vez contratado o seguro de responsabilidade civil a que se refere o n.º 1 do artigo 4.º
+8 - O requerente deve comunicar à entidade coordenadora a data de início da exploração com uma antecedência não inferior a
+5 dias, sendo tal comunicação notificada automaticamente através do «Balcão do empreendedor» a todas as entidades
+consultadas, bem como às entidades cuja consulta tenha sido dispensada nos termos do n.º 3 do artigo 31.º
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 40 de 67
+
+
+## Página 41
+
+9 - Verificando-se uma causa de não emissão do título digital de instalação e exploração, nos termos previstos no n.º 5, o
+«Balcão do empreendedor» envia notificação ao requerente e demais entidades referidas no n.º 6.
+10 - (Revogado.)
+11 - (Revogado.)
+12 - (Revogado.)
+13 - (Revogado.)
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 37.º do/a Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11, em vigor a partir de 2018-07-01
+
+
+Retificado pelo/a Declaração de Retificação n.º 29/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15, produz efeitos a partir de 2015-06-01
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Secção IV
+
+
+Procedimento de mera comunicação prévia
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 33.º
+
+
+Procedimento de mera comunicação prévia
+
+
+1 - A exploração de estabelecimento industrial de tipo 3 está sujeita ao regime de mera comunicação prévia, sem prejuízo de o
+interessado poder optar pela sujeição ao procedimento aplicável aos estabelecimentos de tipo 2, com vista à obtenção, de
+forma integrada, dos títulos necessários à exploração do estabelecimento industrial.
+2 - Para os efeitos previstos na parte final do número anterior, deve o interessado manifestar, no «Balcão do empreendedor», a
+opção referida e identificar no formulário correspondente as entidades a consultar para efeitos de obtenção dos títulos
+aplicáveis, cumprindo-se o disposto na secção iii do presente capítulo.
+3 - O procedimento de mera comunicação prévia consiste na inserção, no «Balcão do empreendedor», dos dados necessários à
+caracterização do estabelecimento industrial e respetiva atividade, bem como do título de utilização de recursos hídricos e do
+título de emissões para o ar inscritos no TUA, quando legalmente exigível, acompanhado de aceitação de termo de
+responsabilidade do cumprimento das exigências legais aplicáveis à atividade industrial, nos termos definidos na portaria a que
+se refere o n.º 1 do artigo 21.º
+4 - Submetidos os dados nos termos do número anterior, o «Balcão do empreendedor» emite automática e imediatamente o
+título digital de exploração e a guia para pagamento da taxa devida.
+5 - Considera-se que a data da mera comunicação prévia é a data indicada no título digital a que se refere o número anterior.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 37.º do/a Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11, em vigor a partir de 2018-07-01
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 34.º
+
+
+Início de exploração
+
+
+1 - A exploração de estabelecimento industrial de tipo 3 só pode ter início após a emissão do título digital referido no artigo
+anterior e do pagamento da taxa correspondente, quando a mesma seja devida nos termos do disposto nos n.os 1 e 2 do artigo
+81.º
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 41 de 67
+
+
+## Página 42
+
+2 - A exploração dos estabelecimentos de tipo 3 está sujeita a todas as exigências legais em vigor e aplicáveis ao imóvel onde
+está situado, bem como aos condicionamentos legais e regulamentares aplicáveis à atividade industrial, designadamente em
+matéria de ambiente, segurança e saúde no trabalho, segurança alimentar e segurança contra incêndio em edifícios.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Secção V
+
+
+Controlo, reexame, suspensão e cessação da exploração industrial
+
+
+Subsecção I
+
+
+Vistorias de conformidade e reexame
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 35.º
+
+
+Vistoria prévia ao início da exploração
+REVOGADO
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 36.º
+
+
+Vistorias de conformidade
+
+
+1 - As vistorias de conformidade são agendadas pela entidade coordenadora, após articulação com as entidades públicas
+intervenientes nos procedimentos de instalação e exploração aplicáveis ao estabelecimento industrial, e têm as seguintes
+finalidades:
+a) Verificação do cumprimento dos condicionamentos legais ou das condições constantes do título digital de instalação e ou
+exploração;
+b) Instrução e apreciação de alterações à instalação industrial;
+c) Análise de reclamações e recursos hierárquicos;
+d) Verificação do cumprimento de medidas impostas no âmbito de decisões proferidas sobre reclamações e recursos
+hierárquicos;
+e) Verificação do cumprimento de medidas impostas aquando da desativação definitiva do estabelecimento industrial;
+f) A pedido do industrial.
+2 - (Revogado).
+3 - É aplicável às vistorias de conformidade o regime das vistorias prévias previsto no artigo 25.º-A, com as devidas adaptações.
+4 - Sem prejuízo do disposto no número seguinte, para efeitos de verificação do cumprimento das condições fixadas nos títulos
+de exploração emitidos, a entidade coordenadora pode agendar a realização, no máximo, de três vistorias de conformidade à
+instalação industrial.
+5 - Se a terceira vistoria de conformidade revelar que ainda não estão cumpridas todas as condições anteriormente impostas, a
+entidade coordenadora, após articulação com as entidades públicas intervenientes nos procedimentos de instalação e
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 42 de 67
+
+
+## Página 43
+
+exploração aplicáveis ao estabelecimento industrial, toma as medidas cautelares e as providências necessárias, entre as quais se
+inclui a suspensão, caso se considerem sanáveis as inconformidades detetadas, ou o encerramento da instalação industrial, caso
+contrário.
+6 - Os estabelecimentos que obtiveram a exclusão do regime de prevenção e controlo integrado da poluição estão sujeitos a
+verificação das condições de exclusão impostas e a vistorias de conformidade, com periodicidade mínima anual.
+7 - O auto de vistoria é elaborado e assinado pelos intervenientes na vistoria, podendo conter em anexo as respetivas
+declarações individuais, devidamente assinadas, sendo submetido pela entidade coordenadora no «Balcão do empreendedor»
+no último dia de realização da vistoria ou nos cinco dias subsequentes à conclusão da mesma e disponibilizado ao requerente e
+às entidades intervenientes.
+8 - O título digital de exploração é sempre atualizado pela entidade coordenadora na sequência da realização das vistorias de
+conformidade.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 37.º
+
+
+Vistorias de reexame
+
+
+1 - Os estabelecimentos industriais dos tipos 1 e 2 estão sujeitos a reexame global das respetivas condições de exploração, após
+terem decorrido sete anos, contados a partir da data de emissão do título digital de exploração ou da data da última atualização
+do mesmo, sem prejuízo do que for exigido por legislação específica.
+2 - Se o estabelecimento industrial estiver sujeito ao RJPCIP, a que se refere o capítulo ii do REI, o reexame global previsto no
+número anterior deve ter lugar nos seis meses que antecedem o fim do período de validade da licença ambiental, emitida nos
+termos do disposto no artigo 40.º do Decreto-Lei n.º 127/2013, de 30 de agosto.
+3 - (Revogado).
+4 - O reexame das condições de exploração do estabelecimento industrial contempla a realização de vistorias cuja agenda deve
+ser comunicada pela entidade coordenadora, com a antecedência mínima de 30 dias relativamente à data prevista para a sua
+realização, ao requerente, à câmara municipal territorialmente competente e a todas as entidades públicas que, nos termos da
+lei, se devem pronunciar sobre as condições de exploração do estabelecimento em causa.
+5 - É aplicável às vistorias de reexame o regime das vistorias prévias previsto no artigo 25.º-A, com as devidas adaptações.
+6 - O título digital de exploração é sempre atualizado pela entidade coordenadora na sequência da realização das vistorias de
+reexame.
+7 - A não realização atempada da vistoria de reexame, por motivo não imputável ao industrial, não prejudica a continuidade da
+exploração do estabelecimento industrial.
+
+
+Alterações
+
+
+Retificado pelo/a Declaração de Retificação n.º 29/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15, produz efeitos a partir de 2015-06-01
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Subsecção II
+
+
+Suspensão, reinício e cessação da atividade industrial
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 43 de 67
+
+
+## Página 44
+
+Artigo 38.º
+
+
+Suspensão, reinício, cessação da atividade e alteração de titularidade ou denominação
+
+
+1 - As situações de suspensão por mais de um ano, o reinício ou a cessação da atividade industrial, bem como a alteração da
+titularidade ou da denominação social do titular do estabelecimento industrial, são comunicadas pelo requerente à entidade
+coordenadora através do «Balcão do empreendedor» no prazo máximo de 30 dias contados da data do facto que lhes deu
+origem, sendo automaticamente notificadas à entidade coordenadora, às demais entidades intervenientes e à DGAV, caso se
+trate de estabelecimento industrial do setor alimentar que utilize matérias-primas de origem animal não transformadas, do setor
+dos subprodutos animais e do setor dos alimentos para animais, sem prejuízo do disposto no número seguinte.
+2 - No caso de estabelecimentos industriais abrangidos pelo RJPCIP, a que se refere o capítulo ii do REI, a cessação do exercício
+da atividade industrial é objeto de comunicação pelo requerente à entidade coordenadora, através do «Balcão do
+empreendedor», com a antecedência mínima de três meses relativamente à data prevista para a cessação.
+3 - A inatividade de um estabelecimento industrial por um período igual ou superior a três anos determina a caducidade do
+título digital de exploração.
+4 - No caso previsto no número anterior, a subsequente pretensão de reinício de atividade é sujeita à disciplina imposta às
+instalações novas.
+5 - Sempre que o período de inatividade de estabelecimento industrial de tipo 1 seja superior a um ano e inferior a três anos, o
+requerente apresenta, antes de reiniciar a exploração, um pedido de vistoria, aplicando-se as disposições previstas para as
+vistorias prévias previstas no artigo 25.º-A, podendo ser impostas pela entidade coordenadora, após articulação com as
+entidades públicas intervenientes, novas condições de exploração, sempre que tal se revele necessário ao cumprimento dos
+condicionamentos legais e regulamentares em vigor, através de decisão fundamentada.
+6 - As comunicações a que se refere o n.º 1 são averbadas automaticamente no título digital.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Capítulo IV
+
+
+Regime das alterações aos estabelecimentos industriais
+
+
+Artigo 39.º
+
+
+Alterações sujeitas a procedimento
+(em vigor a partir de: 2023-02-11)
+(Produção de efeitos: 2023-03-01)
+
+
+1 - Fica sujeita ao procedimento com vistoria prévia a alteração de estabelecimento industrial que constitua:
+a) «Alteração de um projeto», na aceção do RJAIA;
+b) Alteração de exploração considerada «alteração substancial», na aceção do REI;
+c) «Alteração substancial» que implique um aumento do risco do estabelecimento, na aceção do RPAG;
+d) Alteração, que careça por si mesma, de alvará para operação de gestão de resíduos perigosos;
+e) [Revogada.]
+2 - (Revogado.)
+3 - Fica sujeita a procedimento sem vistoria prévia, a alteração de estabelecimento industrial:
+a) De tipo 1 que, não se encontrando abrangida pelo disposto no n.º 1, configure, ainda assim, uma «alteração de exploração»,
+para efeitos do disposto no n.º 1 do artigo 19.º ou do n.º 2 do artigo 66.º do REI;
+b) De tipo 1 ou 2 que careça, por si mesma, de alvará para operações de gestão de resíduos não perigosos;
+c) De tipo 1 ou 2 que corresponda a uma alteração da natureza ou funcionamento da instalação industrial na aceção do CELE;
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 44 de 67
+
+
+## Página 45
+
+d) De tipo 1 ou 2 que, não se encontrando abrangida pelo n.º 1, implique, por si mesma, ou por efeito acumulado de anteriores
+alterações, um aumento superior a 30 % da capacidade produtiva existente ou a 30 % da área edificada do estabelecimento
+industrial;
+e) De tipo 3 que implique a sua classificação como estabelecimento de tipo 2;
+f) De qualquer tipo que implique a alteração do título de emissões para o ar na aceção do regime da prevenção e controlo das
+emissões de poluentes para o ar, bem como das áreas do domínio hídrico ocupadas, nos termos do disposto no regime de
+utilização de recursos hídricos.
+4 - Fica sujeita a procedimento de mera comunicação prévia a alteração a estabelecimento industrial de tipo 3 que não se
+encontre abrangida pelo disposto nos n.os 1 e 3, que implique a alteração da atividade económica, classificada de acordo com a
+respetiva CAE, exercida no estabelecimento.
+5 - O âmbito dos procedimentos de alteração de estabelecimento referidos nos números anteriores e das respetivas avaliações
+técnicas limita-se aos elementos e partes da instalação industrial que possam ser afetados pela alteração, exceto se o requerente
+pedir a antecipação do reexame global das condições de exploração, sendo os respetivos elementos instrutórios definidos na
+portaria referida no n.º 1 do artigo 21.º
+6 - O procedimento de alteração do estabelecimento industrial implica a atualização do título digital correspondente.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 28.º do/a Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10, em vigor a partir de 2023-02-11, produz efeitos a partir
+
+
+de 2023-03-01
+
+
+Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30, em vigor a partir de 2019-01-31, produz efeitos a partir
+
+
+de 2019-01-01
+
+
+Alterado pelo/a Artigo 37.º do/a Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11, em vigor a partir de 2018-07-01
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 39.º-A
+
+
+Apreciação prévia
+
+
+1 - Para efeitos do disposto no artigo anterior, o requerente deve submeter à entidade coordenadora pedido de apreciação
+prévia sobre o tipo de procedimento aplicável à alteração do estabelecimento, acompanhado dos elementos instrutórios
+definidos na portaria referida no n.º 1 do artigo 21.º, sempre que:
+a) Esteja em causa uma «alteração de projeto», cuja submissão a AIA deva ser decidida com base numa análise caso a caso, à luz
+do RJAIA;
+b) Esteja em causa uma «alteração de exploração» para efeitos de licença ambiental, suscetível de ser abrangida pelo disposto
+no n.º 1 artigo 19.º do REI;
+c) Esteja em causa uma alteração que possa suscitar um aumento relevante da perigosidade do estabelecimento, para efeitos de
+RPAG.
+2 - O pedido de apreciação prévia é apresentado no «Balcão do empreendedor», o qual emite, automática e imediatamente:
+a) Comprovativo da data do pedido;
+b) Notificação da entidade coordenadora e, se for caso disso, das entidades públicas a consultar, informando que o
+procedimento iniciado se encontra disponível para verificação.
+3 - Nas situações previstas nas alíneas a) a c) do n.º 1, são entidades de consulta obrigatória:
+a) A APA, I. P., e a CCDR territorialmente competente, no caso da alínea a), sendo responsável pela emissão de parecer apenas
+aquela dessas entidades que constitua autoridade de AIA no projeto em apreciação;
+b) A APA, I. P., nos casos abrangidos pelas alíneas b) e c).
+4 - As entidades a consultar pronunciam-se no prazo de 20 dias contado da data da receção do pedido.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 45 de 67
+
+
+## Página 46
+
+5 - No prazo de cinco dias contados da disponibilização no «Balcão do empreendedor» do último dos pareceres das entidades
+consultadas ou, não tendo estes sido emitidos, da data correspondente ao último dia do prazo previsto para a respetiva
+emissão, a entidade coordenadora notifica o requerente, através do «Balcão do Empreendedor», do arquivamento do pedido,
+ou, no caso de este não se encontrar devidamente instruído, de estar a alteração sujeita:
+a) A procedimento com vistoria prévia, caso a alteração em causa se enquadre no disposto no n.º 1 do artigo 39.º; ou
+b) A procedimento sem vistoria prévia, caso a alteração em causa, embora não abrangida pelo disposto no número anterior, se
+enquadre no disposto no n.º 3 do artigo 39.º;
+c) A procedimento de mera comunicação prévia, nos restantes casos.
+6 - Na data da notificação referida no número anterior, o «Balcão do empreendedor» emite automática e imediatamente a guia
+para pagamento da taxa devida pelo procedimento de alteração em causa.
+7 - Nos casos previstos nas alíneas b) e c) do n.º 5, a submissão do pedido de apreciação prévia dispensa a apresentação
+posterior de qualquer pedido ou mera comunicação prévia, considerando-se tal apresentação como efetuada na data indicada
+no comprovativo de pagamento da taxa referida no número anterior.
+8 - Os elementos instrutórios que acompanham o pedido de apreciação prévia são definidos na portaria referida no n.º 1 do
+artigo 21.º
+9 - A falta de decisão da entidade coordenadora no prazo estipulado no n.º 5 ou a notificação pela mesma de estar a alteração
+sujeita a procedimento de mera comunicação prévia, habilita o industrial a executar a alteração do estabelecimento sem mais
+formalidades.
+10 - O disposto no número anterior não se aplica sempre que tenha havido pronúncia expressa das entidades consultadas, no
+prazo legalmente estipulado, quanto à necessidade de ser desencadeado procedimento, com ou sem realização de vistoria
+prévia.
+
+
+Alterações
+
+
+Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 40.º
+
+
+Procedimento de autorização prévia de alteração de estabelecimento
+REVOGADO
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 41.º
+
+
+Procedimento de comunicação prévia com prazo de alteração de estabelecimento
+REVOGADO
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 42.º
+
+
+Mera comunicação prévia de alteração de estabelecimento
+REVOGADO
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 46 de 67
+
+
+## Página 47
+
+Capítulo V
+
+
+Regime de instalação e exploração de ZER
+
+
+Secção I
+
+
+Regime procedimental e articulação com regimes conexos
+
+
+Artigo 43.º
+
+
+Procedimento de instalação e exploração
+
+
+1 - A instalação e exploração da ZER está sujeita ao procedimento com vistoria prévia aplicável aos estabelecimentos de tipo 1,
+com as especificidades constantes da presente secção e das secções ii e iii do presente capítulo.
+2 - O regime estabelecido no presente capítulo aplica-se, com as necessárias adaptações, às ZER multipolares.
+3 - A coordenação do procedimento relativo a instalação e exploração da ZER compete ao IAPMEI, I. P.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 44.º
+
+
+Entidades consultadas
+
+
+Nos procedimentos previstos no presente capítulo, são chamadas a pronunciar-se as entidades públicas cuja intervenção deva
+ser considerada legalmente obrigatória, atenta a tipologia de ZER em causa e as características específicas do respetivo projeto
+de instalação e exploração, designadamente:
+a) A ACT;
+b) A CCDR territorialmente competente;
+c) A autoridade de saúde de âmbito regional territorialmente competente;
+d) O Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.);
+e) A APA, I. P.;
+f) A Câmara Municipal territorialmente competente;
+g) Outras entidades previstas em legislação específica.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 45.º
+
+
+Articulação com regimes conexos
+
+
+1 - As ZER estão sujeitas a procedimento de avaliação de impacte ambiental sempre que este seja exigível nos termos do
+respetivo regime jurídico, seguindo a tramitação aí referida, sem prejuízo do disposto no número seguinte.
+2 - Por opção do requerente, o procedimento de AIA relativo a projeto de execução pode decorrer em simultâneo com o
+procedimento de emissão de título digital para a instalação de ZER.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 47 de 67
+
+
+## Página 48
+
+3 - Sempre que a instalação de ZER envolva a realização de operação urbanística sujeita a controlo prévio aplica-se o regime
+previsto artigos 17.º e 18.º para os estabelecimentos de tipo 1.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Secção II
+
+
+Instalação de ZER
+
+
+Artigo 46.º
+
+
+Iniciativa procedimental e elementos instrutórios
+
+
+1 - O procedimento de instalação é iniciado pela entidade gestora da ZER ou, caso esta não se encontre ainda constituída, por
+quem possua legitimidade para proceder à sua constituição, nos termos a definir através de portaria dos membros do Governo
+responsáveis pelas áreas da modernização administrativa, da administração local, da economia, do ambiente e do ordenamento
+do território.
+2 - A entidade gestora de ZER deve constituir-se como entidade acreditada para o exercício das funções de entidade
+coordenadora do procedimento de instalação, exploração e alteração dos estabelecimentos industriais em ZER junto do IPAC, I.
+P., ou, em alternativa, optar pela subcontratação das funções de entidade coordenadora junto de uma entidade acreditada para
+o efeito pelo organismo em causa.
+3 - Os demais requisitos de constituição, organização e funcionamento e as obrigações e competências da entidade gestora de
+ZER, bem como os elementos instrutórios que devem acompanhar o pedido de instalação e alteração são definidos na portaria
+referida no n.º 1.
+4 - Considera-se que a data do pedido de emissão do título digital de instalação de ZER é a data indicada no recibo
+comprovativo do pagamento da taxa devida.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 47.º
+
+
+Título digital de instalação de Zonas Empresariais Responsáveis
+
+
+1 - O título digital de instalação de ZER não é emitido caso se verifique ter ocorrido, no âmbito da pronúncia das entidades
+públicas a que se refere o artigo 44.º pelo menos uma das seguintes situações:
+a) DIA desfavorável ou decisão de não conformidade ambiental do projeto de execução com a DIA inscrita no TUA;
+b) (Revogada).
+c) Indeferimento de pedido de título de utilização de recursos hídricos, inscrito no TUA;
+d) Parecer desfavorável do IMT, I. P., por incompatibilidade do projeto com a Rede Nacional de Plataformas Logísticas ou com as
+redes de transportes rodo e ferroviárias;
+e) Existência de parecer ou decisão negativa de natureza vinculativa por parte de quaisquer outras entidades de consulta
+obrigatória.
+2 - O título digital de instalação de ZER pode ser emitido antes da decisão final no âmbito do procedimento de emissão do
+título de utilização de recursos hídricos, que é apenas condição de atribuição do título digital de exploração da ZER.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 48 de 67
+
+
+## Página 49
+
+Artigo 48.º
+
+
+Caducidade do título digital de instalação
+
+
+1 - O título digital de instalação da ZER caduca se, no prazo de quatro anos após a sua emissão, não tiver sido dado início aos
+trabalhos de construção de infraestruturas.
+2 - Sem prejuízo do disposto no número seguinte, o prazo previsto no número anterior pode ser prorrogado pela entidade
+coordenadora, a pedido da entidade gestora da ZER, por igual período de tempo, quando esta demonstre não lhe ser imputável
+o atraso.
+3 - Nos casos em que a ZER tenha sido objeto de decisão favorável ou favorável condicionada de impacte ambiental inscrita no
+TUA, emitida em fase de projeto de execução, ou de decisão de conformidade ambiental do projeto de execução inscrita no
+TUA, a prorrogação referida no número anterior só pode ser concedida quando houver pronúncia favorável sobre a sua
+prorrogação, de acordo com o RJAIA.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Secção III
+
+
+Exploração da ZER
+
+
+Artigo 49.º
+
+
+Requisitos específicos do pedido de título digital de exploração
+
+
+1 - Quando pretenda iniciar a exploração, o requerente deve apresentar, no «Balcão do empreendedor», um pedido de emissão
+de título digital de exploração de ZER, acompanhado dos respetivos elementos instrutórios, nos termos definidos na portaria a
+que se refere o n.º 1 do artigo 46.º
+2 - Caso o requerente pretenda a execução faseada da obra de urbanização, deve apresentar ainda a decisão da respetiva
+câmara municipal sobre o pedido de execução de obra por fases, nos termos do RJUE.
+3 - Considera-se que a data do pedido de emissão do título digital de exploração de ZER é a data indicada no recibo
+comprovativo do pagamento da taxa devida.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 50.º
+
+
+Requisitos específicos do título digital de exploração de Zonas Empresariais Responsáveis
+
+
+1 - A emissão do título digital de exploração da ZER é precedida de vistoria prévia, a qual se rege pelo disposto no artigo 25.º-A.
+2 - Sem prejuízo de outras condições de exploração da ZER que hajam sido fixadas por parte das entidades consultadas e ou no
+auto de vistoria, o respetivo título digital de exploração inclui obrigatoriamente:
+a) A área total de implantação;
+b) Os tipos de atividades industriais, comerciais e de serviços permitidos;
+c) Os tipos de emissões permitidas e fixação dos respetivos valores limite;
+d) Os tipos e volumes de resíduos e de efluentes admitidos;
+e) As medidas de monitorização das emissões para o ambiente;
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 49 de 67
+
+
+## Página 50
+
+f) As medidas de prevenção, tratamento, valorização ou eliminação dos resíduos e dos efluentes;
+g) Outras características, condições e limites impostos;
+h) A identificação dos serviços comuns e outros serviços a prestar pela entidade gestora;
+i) O regulamento interno da ZER;
+j) A planta de síntese.
+3 - O título digital de exploração da ZER emitido nos termos do número anterior tem natureza provisória, convertendo-se em
+definitivo ou caducando, respetivamente, consoante seja emitida pelo IPAC, I. P., decisão favorável ou desfavorável relativamente
+à atribuição à entidade gestora da ZER do estatuto de entidade acreditada, ao abrigo do disposto no artigo 66.º
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 51.º
+
+
+Comunicações à entidade coordenadora
+
+
+A entidade gestora deve comunicar à entidade coordenadora:
+a) A data em que dá início à exploração da ZER, com uma antecedência não inferior a cinco dias;
+b) A existência de decisão favorável ou desfavorável no que respeita à atribuição do estatuto de entidade acreditada, no prazo
+máximo de cinco dias contados da data do conhecimento da mesma.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Secção IV
+
+
+Controlo, reexame, suspensão e cessação da exploração da ZER
+
+
+Artigo 52.º
+
+
+Procedimentos de controlo e reexame
+
+
+1 - A entidade coordenadora realiza vistorias de conformidade à ZER, para verificação do cumprimento dos condicionamentos
+legais ou do cumprimento das condições fixadas no título digital de exploração, para instruir a apreciação de alterações à ZER
+ou para análise de reclamações apresentadas, às quais é aplicável a disciplina estabelecida nos artigos 36.º e 37.º, com as
+especificidades previstas no presente artigo.
+2 - Se os procedimentos de controlo revelarem que não estão a ser cumpridas condições impostas pelo título digital de
+exploração, a entidade coordenadora toma as medidas cautelares e as providências necessárias, entre as quais se inclui a
+suspensão, por um período máximo de seis meses, do título digital de exploração e o encerramento preventivo, parcial ou total,
+de instalações ou equipamentos que se encontrem sob a administração da entidade gestora.
+3 - Sempre que o incumprimento pela entidade gestora das condições impostas pelo título digital de exploração se repercutir,
+de forma relevante, na desconformidade da instalação ou da exploração dos estabelecimentos a localizar ou localizados na ZER
+com condicionamentos legais ou regulamentares, a entidade coordenadora da ZER notifica os titulares dos estabelecimentos em
+causa para, num prazo razoável, procederem às necessárias correções, sem prejuízo de poder acionar as medidas previstas nos
+artigos 72.º e 73.º, caso se verifiquem as circunstâncias aí previstas.
+4 - A ZER está sujeita ao reexame global das condições constantes do título digital de exploração após terem decorrido cinco
+anos contados a partir da data da respetiva emissão ou da data da última atualização do mesmo, sem prejuízo do que for
+exigido por legislação específica.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 50 de 67
+
+
+## Página 51
+
+5 - O reexame de condições de exploração da ZER contempla a realização de vistorias, às quais é aplicável o disposto no artigo
+25.º-A, com as devidas adaptações.
+6 - O título digital de exploração é atualizado na sequência da realização de vistorias, bem como na sequência do reexame das
+condições de exploração.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 53.º
+
+
+Suspensão e cessação da atividade, alteração da titularidade ou denominação e caducidade do título digital de
+
+
+exploração
+
+
+1 - As situações de suspensão, o reinício ou a cessação da atividade da ZER, bem como a alteração da titularidade ou da
+denominação social do respetivo titular, são comunicadas pela entidade gestora através do «Balcão do empreendedor» no
+prazo máximo de 30 dias contados da data do facto que lhes deu origem, sendo automaticamente notificadas à entidade
+coordenadora e demais entidades intervenientes.
+2 - Há lugar à caducidade do título digital de exploração sempre que se verifique:
+a) Decisão desfavorável do pedido de acreditação da entidade gestora ou posterior anulação ou suspensão de decisão favorável
+à acreditação, salvo se a entidade gestora recorrer à subcontratação de outra entidade acreditada para o exercício da função de
+entidade coordenadora;
+b) Inatividade da entidade gestora da ZER por um período igual ou superior a três anos, salvo se esta demonstrar junto da
+entidade coordenadora que tal inatividade não lhe é imputável.
+3 - Sempre que haja lugar a cessação ou suspensão, a qualquer título, da atividade da entidade gestora da ZER, ou à caducidade
+do respetivo título digital de exploração, o desempenho das funções de entidade coordenadora dos estabelecimentos
+industriais aí instalados é assumido pela entidade competente nos termos do anexo iii ao SIR.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Secção V
+
+
+Alterações à ZER
+
+
+Artigo 54.º
+
+
+Regimes das alterações
+
+
+1 - Fica sujeita ao procedimento com vistoria prévia aplicável aos estabelecimentos industriais de tipo 1, com as necessárias
+adaptações, a alteração de ZER que determine a sujeição a AIA, nos termos do RJAIA.
+2 - Fica sujeita ao procedimento sem vistoria prévia aplicável aos estabelecimentos industriais de tipo 2, com as necessárias
+adaptações, a alteração de ZER não abrangida pelo disposto no número anterior sempre que a referida alteração implique um
+aumento superior a 30 % da respetiva área de implantação e ou a alteração das atividades, classificadas de acordo com a
+respetiva CAE, cuja instalação é permitida na ZER.
+3 - As alterações a ZER não abrangidas pelo número anterior ficam sujeitas ao procedimento de mera comunicação prévia
+aplicável aos estabelecimentos industriais de tipo 3.
+4 - Aos procedimentos de alteração referidos nos números anteriores aplica-se, com as necessárias adaptações, o disposto nos
+n.os 5 e 6 do artigo 39.º e no artigo 39.º-A.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 51 de 67
+
+
+## Página 52
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Secção VI
+
+
+Conversão em ZER
+
+
+Artigo 55.º
+
+
+Conversão em ZER de outros espaços afins
+
+
+As zonas industriais, os parques industriais e as áreas de acolhimento empresarial podem ser objeto de conversão em ZER,
+mediante o procedimento estabelecido na presente secção, o qual tem por objetivo avaliar a conformidade das respetivas
+condições de instalação ou exploração com os preceitos constantes do SIR, devidamente adaptados.
+
+
+Artigo 56.º
+
+
+Pedido de conversão
+
+
+1 - O pedido de conversão em ZER é apresentado à entidade coordenadora nos termos definidos na portaria a que se refere o
+n.º 1 do artigo 46.º
+2 - Considera-se que a data do pedido é a data indicada no respetivo comprovativo do pagamento da taxa devida.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 57.º
+
+
+Tramitação e decisão do procedimento de conversão
+
+
+1 - No decurso de 30 dias subsequentes à data do pedido de conversão, a entidade coordenadora promove a consulta em
+simultâneo às entidades públicas que, nos termos da lei, se devam pronunciar sobre o pedido de conversão, designadamente:
+a) Da câmara municipal territorialmente competente;
+b) Da CCDR territorialmente competente;
+c) Da autoridade de saúde de âmbito regional territorialmente competente, caso a conversão possa ter incidências ao nível da
+saúde pública.
+d) Da ACT;
+e) Do IMT, I. P.;
+f) Da APA, I. P.;
+g) De outras entidades previstas em legislação específica.
+2 - As entidades públicas pronunciam-se no prazo de 30 dias contados da receção dos elementos do processo remetidos pela
+entidade coordenadora.
+3 - A pronúncia desfavorável das entidades só é vinculativa quando tal resulte da lei, desde que se fundamente em
+condicionamentos legais ou regulamentares e seja disponibilizada à entidade coordenadora no prazo previsto no número
+anterior.
+4 - No prazo de 20 dias, contado do termo do prazo referido no n.º 2, a entidade coordenadora adota uma decisão que pode
+assumir uma das seguintes formas:
+a) Decisão favorável;
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 52 de 67
+
+
+## Página 53
+
+b) Decisão favorável condicionada;
+c) Decisão desfavorável.
+5 - No caso de decisão favorável, a entidade coordenadora emite título digital de exploração, onde descreve todas as condições
+de exploração da ZER.
+6 - No caso de decisão favorável condicionada, a entidade coordenadora comunica as condições ao requerente, fixando-lhe um
+prazo não superior a seis meses para o seu cumprimento, findo o qual, sem que se tenham sido juntos ao processo
+comprovativos do cumprimento das condições exigidas, profere, no prazo de 10 dias, decisão desfavorável.
+7 - No caso de decisão desfavorável, a entidade coordenadora profere decisão fundamentada indeferindo o pedido de
+conversão.
+8 - As decisões sobre o pedido de conversão em ZER referidas nos números anteriores são disponibilizadas pela entidade
+coordenadora no «Balcão do empreendedor», no dia imediatamente subsequente à data da respetiva emissão, sendo enviada
+notificação automática ao requerente e a todas as entidades intervenientes no processo.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Secção VII
+
+
+Instalação e exploração de atividades empresariais em ZER
+
+
+Artigo 58.º
+
+
+Direitos e deveres dos titulares dos estabelecimentos instalados em ZER
+
+
+1 - A instalação de estabelecimentos industriais, comerciais ou de serviços em ZER concretiza-se mediante contrato de aquisição
+da propriedade, de aquisição de direito de superfície, de arrendamento ou de qualquer outro direito que confira ao interessado
+o direito de utilização de uma parcela de terreno ou de um edifício ou respetiva fração, de acordo com o estabelecido no
+regulamento interno da ZER.
+2 - A aquisição do direito de utilização referido no número anterior obriga o respetivo titular ao cumprimento do regulamento
+interno da ZER e demais determinações da entidade gestora sobre o funcionamento da mesma.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 59.º
+
+
+Instalação de estabelecimentos industriais
+
+
+1 - À instalação, exploração e alteração dos estabelecimentos industriais que pretendam localizar-se em ZER aplica-se o regime
+previsto nos capítulos iii e iv do SIR, sem prejuízo do disposto nos números seguintes.
+2 - Os estabelecimentos industriais a instalar em ZER não carecem, na medida em que se trate de atividade industrial prevista no
+título digital de exploração da ZER, de nenhuma autorização, procedimento, parecer, licença ou título que já tenham sido
+obtidos pela ZER, no seu processo de instalação e de exploração, designadamente:
+a) Autorização de localização;
+b) AIA inscrita no TUA, no caso de o Estudo de Impacte Ambiental (EIA) da ZER ter incluído os requisitos de informação
+necessários ao EIA do estabelecimento industrial a instalar em ZER, à luz do preceituado no RJAIA;
+c) Título de utilização de recursos hídricos inscrito no TUA, no caso de estabelecimento industrial não sujeito a licença ambiental,
+sempre que esta utilização já esteja incluída no título de utilização dos recursos hídricos emitido para as instalações industriais
+da ZER.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 53 de 67
+
+
+## Página 54
+
+3 - Na medida em que se trate de atividade industrial prevista no título digital de exploração da ZER, os estabelecimentos
+industriais a instalar em ZER não se encontram sujeitos a vistoria prévia para efeitos da emissão do respetivo título de
+exploração previsto no capítulo iii, exceto se estiver em causa a exploração de atividade agroalimentar que utilize matéria-prima
+de origem animal não transformada, caso em que a exploração só pode ser iniciada após a comunicação ao requerente do
+resultado favorável daquela vistoria, a qual se rege pelo artigo 25.º-A.
+4 - Os estabelecimentos industriais a instalar em ZER beneficiam de redução a metade das taxas previstas no n.º 1 do artigo 79.º
+e no n.º 1 do artigo 81.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 60.º
+
+
+Outros regimes de licenciamento
+
+
+1 - À instalação e exploração de estabelecimentos de comércio, serviços e restauração em ZER aplica-se o regime jurídico
+aplicável ao acesso e exercício destas atividades, sem prejuízo do disposto nos números seguintes.
+2 - A instalação em ZER de grandes superfícies comerciais e de conjuntos comerciais não carece de:
+a) Autorização ou informação prévia de localização, na medida em que tal instalação se encontre prevista no título digital de
+exploração da ZER;
+b) AIA inscrita no TUA, no caso de o EIA da ZER ter incluído os requisitos de informação necessários ao EIA do estabelecimento
+de comércio ou conjunto comercial a instalar em ZER, à luz do preceituado no RJAIA.
+3 - No caso de instalação de outros estabelecimentos de comércio, armazenagem, serviços e restauração abrangidos pelo
+regime jurídico referido no n.º 1, o respetivo titular deve fazer prova, junto da entidade gestora da ZER, quando aplicável, de ser
+detentor de título que o habilite à instalação e exploração do estabelecimento em causa, bem como, se for caso disso, do
+cumprimento das demais obrigações previstas no referido regime jurídico.
+4 - No caso dos estabelecimentos abrangidos por outros regimes específicos de licenciamento, o respetivo titular deve fazer
+prova, junto da entidade gestora de ZER, de ser detentor de título que o habilite à instalação e exploração do estabelecimento
+em causa à luz dos referidos regimes.
+5 - No caso de as informações referidas nos n.os 3 e 4 estarem disponíveis no «Balcão do empreendedor», são dispensadas as
+obrigações referidas nesses mesmos números.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 61.º
+
+
+Alterações dos estabelecimentos instalados em ZER
+
+
+1 - Às alterações dos estabelecimentos industriais instalados em ZER aplicam-se, com as necessárias adaptações, o regime
+aplicável às alterações aos estabelecimentos industriais previsto nos artigos 39.º e 39.º-A.
+2 - (Revogado).
+3 - (Revogado).
+4 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 54 de 67
+
+
+## Página 55
+
+Capítulo VI
+
+
+Acreditação de entidades
+
+
+Secção I
+
+
+Âmbito e requisitos da acreditação
+
+
+Artigo 62.º
+
+
+Âmbito da acreditação
+
+
+1 - As entidades acreditadas pelo IPAC, I. P., podem, no âmbito do SIR:
+a) Elaborar relatórios de avaliação da conformidade do projeto apresentado para a instalação, exploração e alteração de
+estabelecimento industrial ou de ZER com as normas técnicas previstas na legislação aplicável;
+b) Exercer funções de entidade coordenadora dos procedimentos de instalação, exploração e alteração de estabelecimentos
+industriais em ZER.
+2 - As atividades de avaliação de conformidade previstas na alínea a) do número anterior podem incidir numa ou mais das
+seguintes áreas técnicas:
+a) Ambiente, incluindo água, ar, resíduos, ruído, prevenção e controlo integrados da poluição, prevenção de acidentes graves e
+AIA;
+b) Segurança e saúde no trabalho, se aplicável nos termos de lei especial;
+c) Segurança alimentar.
+3 - (Revogado).
+4 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 63.º
+
+
+Critérios e requisitos da acreditação
+
+
+1 - A acreditação de entidades a que se refere o presente capítulo resulta de avaliação do cumprimento pelas mesmas quer dos
+requisitos definidos na NP EN ISO/IEC 17020 quer do disposto no artigo 68.º em matéria de organização dessas entidades, a
+efetuar pelo Instituto Português da Acreditação, I. P. (IPAC, I. P.).
+2 - Para efeitos da avaliação referida no número anterior, a DGAE estabelece e publicita, anualmente, no respetivo sítio na
+Internet e no «Balcão do empreendedor», as regras técnicas aplicáveis, ouvidas as entidades competentes.
+
+
+Secção II
+
+
+Procedimento de acreditação e exercício provisório de atividade
+
+
+Artigo 64.º
+
+
+Pedido de acreditação
+
+
+1 - O pedido de acreditação é apresentado ao IPAC, I. P., de acordo com o modelo de formulário e elementos instrutórios por
+este definidos.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 55 de 67
+
+
+## Página 56
+
+2 - Os elementos referidos no número anterior incluem:
+a) Declaração do requerente, assumindo o compromisso de respeitar todas as disposições legais, regulamentares e técnicas
+relativas à atividade a desenvolver;
+b) Outros elementos que o requerente considere relevantes para demonstrar a sua capacidade para o exercício das atividades a
+acreditar, bem como para o cumprimento de todos os deveres legais e contratuais inerentes ao reconhecimento como entidade
+acreditada.
+
+
+Artigo 65.º
+
+
+Exercício provisório de atividade
+
+
+1 - As entidades não acreditadas podem exercer provisoriamente a sua atividade, durante o prazo máximo de seis meses,
+mediante a obtenção de autorização provisória concedida pelo IAPMEI, I. P., com base em parecer técnico favorável emitido pelo
+IPAC, I. P.
+2 - Quando o requerente pretenda obter a autorização provisória prevista no número anterior, deve manifestar essa intenção no
+pedido a que se refere o artigo anterior, devendo juntar cópia da documentação de candidatura relevante.
+3 - A decisão do IPAC, I. P., sobre o pedido de autorização de exercício provisório de atividade é emitida quando este considerar
+que estão reunidas as condições necessárias para se proceder à avaliação presencial completa do pedido de acreditação, no
+prazo de 60 dias após a receção do requerimento para o exercício provisório da atividade.
+4 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 66.º
+
+
+Decisão de acreditação
+
+
+1 - A decisão sobre o pedido de acreditação é emitida pelo IPAC, I. P., no prazo máximo de seis meses a contar da avaliação
+presencial completa.
+2 - Do anexo técnico de acreditação devem constar o âmbito e as condições de intervenção da entidade acreditada em ações
+ligadas ao disposto no SIR.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Secção III
+
+
+Funcionamento das entidades acreditadas
+
+
+Artigo 67.º
+
+
+Deveres gerais das entidades acreditadas
+
+
+Constituem deveres das entidades acreditadas:
+a) Garantir o caráter absolutamente sigiloso dos seus pareceres, relatórios e de todas as informações a que tenham acesso por
+motivo das suas atividades, designadamente de inspeção, mesmo após ter cessado a vigência da respetiva acreditação,
+salvaguardados os deveres legais perante as entidades com competência fiscalizadora nas matérias em questão;
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 56 de 67
+
+
+## Página 57
+
+b) Desempenhar as suas atribuições com competência e isenção, tendo sempre em vista a salvaguarda de pessoas e bens, e
+observar integralmente o cumprimento das disposições técnicas e legais aplicáveis à sua atividade, nomeadamente no que
+respeita ao exercício das atividades previstas nos n.os 1 e 2 do artigo 62.º;
+c) Implementar e manter permanentemente em funcionamento um sistema de gestão da qualidade, em conformidade com os
+requisitos da norma NP EN ISO/IEC 17020;
+d) Manter devidamente compilados e arquivados os registos referentes à sua atividade, destinados a demonstrar a observância
+dos requisitos aplicáveis, por um período mínimo de cinco anos;
+e) Celebrar contrato de seguro de responsabilidade civil extracontratual nos termos previstos no n.º 2 do artigo 4.º
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 68.º
+
+
+Organização das entidades acreditadas
+
+
+As entidades acreditadas, quando se encontram integradas em estruturas organizacionais que desenvolvem outras atividades,
+devem dispor de uma unidade dotada de total autonomia técnica e decisória, não podendo essa unidade e os técnicos
+envolvidos no exercício das respetivas funções participar, a qualquer título, em atividades de consultadoria, projeto, construção,
+instalação ou manutenção de estabelecimentos industriais ou equiparados.
+
+
+Artigo 69.º
+
+
+Ensaios
+
+
+Sempre que a intervenção das entidades acreditadas exija a realização de ensaios não enquadráveis na NP EN ISO/IEC 17020,
+devem as mesmas recorrer a laboratórios de ensaio acreditados pelo IPAC, I. P., face à NP EN ISO/IEC 17025, para os ensaios
+específicos em causa.
+
+
+Artigo 70.º
+
+
+Acompanhamento
+
+
+1 - Compete ao IPAC, I. P., dar conhecimento ao IAPMEI, I. P., de quaisquer sanções aplicadas às entidades acreditadas para o
+exercício de funções de coordenação dos procedimentos de instalação, exploração e alteração de estabelecimentos industriais
+em ZER.
+2 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Capítulo VII
+
+
+Fiscalização, medidas cautelares e sanções
+
+
+Secção I
+
+
+Fiscalização e medidas cautelares
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 57 de 67
+
+
+## Página 58
+
+Artigo 71.º
+
+
+Fiscalização
+
+
+1 - A fiscalização do cumprimento do disposto no SIR incumbe:
+a) À Autoridade de Segurança Alimentar e Económica (ASAE); e
+b) À câmara municipal territorialmente competente nos estabelecimentos relativamente aos quais esta última é a entidade
+coordenadora;
+c) (Revogada).
+2 - A competência para a fiscalização atribuída ao abrigo do número anterior não prejudica as competências próprias de outras
+entidades e a possibilidade de realização de ações de fiscalização conjunta.
+3 - Para o exercício das competências previstas no n.º 1 e por forma a evitar divergências de critérios na aplicação da lei e no
+exercício de competências de fiscalização, o IAPMEI, I. P., elabora, em articulação com as entidades aí referidas, linhas
+orientadoras não vinculativas para o exercício das ações de fiscalização, as quais devem incluir a lista dos aspetos concretos a
+considerar nas mesmas, sendo objeto de publicação no «Balcão do empreendedor».
+4 - O industrial deve facultar às entidades fiscalizadoras a entrada nas suas instalações, bem como fornecer as informações que
+por aquelas lhe sejam solicitadas, de forma fundamentada, sempre que tais informações não se encontrem já disponíveis no
+«Balcão do empreendedor».
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 72.º
+
+
+Medidas cautelares
+
+
+Sem prejuízo das competências das entidades responsáveis pelo controlo ou fiscalização previstas em regimes específicos,
+sempre que a entidade coordenadora, no âmbito das vistorias referidas nos artigos 36.º e 37.º, ou as entidades fiscalizadoras
+referidas nas alíneas a) e b) do n.º 1 do artigo anterior detetem uma situação de infração prevista no SIR que constitua perigo
+grave para a saúde pública, para a segurança de pessoas e bens, para a saúde e segurança nos locais de trabalho ou para o
+ambiente devem, individual ou coletivamente, tomar de imediato as providências adequadas para eliminar a situação de perigo,
+podendo ser determinada, por um prazo máximo de seis meses, a suspensão da atividade, o encerramento preventivo do
+estabelecimento, no todo ou em parte, ou a apreensão de todo ou parte do equipamento, mediante selagem.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 73.º
+
+
+Interrupção do fornecimento de energia elétrica
+
+
+As entidades coordenadoras e fiscalizadoras, por si ou em conjunto, podem notificar a entidade distribuidora de energia elétrica
+para interromper o fornecimento desta a qualquer estabelecimento industrial, sempre que se verifique:
+a) Oposição às medidas cautelares previstas no artigo anterior;
+b) Quebra de selos apostos no equipamento;
+c) Reiterado incumprimento das medidas, condições ou orientações impostas para a exploração.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 58 de 67
+
+
+## Página 59
+
+Artigo 74.º
+
+
+Cessação das medidas cautelares
+
+
+1 - Sem prejuízo dos meios contenciosos ao seu dispor, o interessado pode requerer a cessação das medidas cautelares
+previstas no artigo 72.º e da interrupção do fornecimento de energia elétrica prevista no artigo anterior, a qual é determinada se
+tiverem cessado as situações que lhes deram causa, sem prejuízo do prosseguimento dos processos criminais e de
+contraordenação já iniciados.
+2 - No caso de interrupção do fornecimento de energia elétrica, este deve ser restabelecido mediante pedido da entidade
+coordenadora à entidade distribuidora de energia elétrica ou por determinação judicial.
+3 - Sempre que o proprietário ou detentor legítimo do equipamento apreendido requeira a sua desselagem, demonstrando
+documentalmente o propósito de proceder à sua alienação em condições que garantam que o destino que lhe vai ser dado não
+é suscetível de originar novas infrações ao SIR, a entidade coordenadora deve autorizá-la, independentemente de vistoria.
+
+
+Secção II
+
+
+Regime sancionatório
+
+
+Artigo 75.º
+
+
+Contraordenações
+
+
+1 - Sem prejuízo da punição pela prática de crime de falsas declarações, constitui contraordenação económica muito grave,
+punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a emissão pelo industrial de uma declaração
+de cumprimento de condições técnicas padronizadas objeto do pedido ao abrigo da alínea c) do n.º 4 do artigo 8.º que não
+corresponda à verdade.
+2 - Constitui contraordenação económica grave, punível nos termos do RJCE, a prática dos seguintes atos:
+a) A execução de projeto de instalação de estabelecimento industrial de tipo 1, sem que tenha sido emitido o título digital de
+instalação referido no artigo 24.º;
+b) [Revogada.]
+c) A execução de projeto de instalação de estabelecimento industrial de tipo 2, sem que tenha sido emitido o título digital de
+instalação e exploração referido no artigo 32.º;
+d) A execução de projeto de instalação ou o início da exploração de ZER, sem que tenham sido emitidos o título digital de
+instalação e de exploração por força do disposto no n.º 1 do artigo 43.º;
+e) A execução de projeto de alterações de estabelecimento industrial sujeito ao procedimento com vistoria prévia, ao abrigo do
+disposto no n.º 1 do artigo 39.º, sem que tenha sido emitido o título de alteração correspondente;
+f) A execução de projeto de alterações de estabelecimento industrial sujeito ao procedimento sem vistoria prévia ao abrigo do
+disposto no n.º 3 do artigo 39.º, sem que tenha sido emitido o título de alteração correspondente;
+g) A execução de projeto de alterações de estabelecimento industrial sujeito a mera comunicação prévia ao abrigo do disposto
+no n.º 4 do artigo 39.º, sem que tenha sido emitido o título de alteração correspondente;
+h) A execução de projeto de alterações de ZER sujeito aos procedimentos previstos no artigo 54.º, sem que tenha sido emitido o
+título de alteração correspondente;
+i) O início da exploração de um estabelecimento industrial de tipo 1 ou de tipo 2 sem que tenha sido emitido o título digital de
+exploração a que se refere o artigo 25.º-B ou o título digital de instalação e exploração a que se refere o artigo 32.º,
+respetivamente;
+j) O início da exploração de estabelecimento industrial de tipo 3, em violação do disposto no artigo 34.º;
+k) A inobservância das condições de exploração do estabelecimento industrial fixadas no título digital de exploração ou no título
+digital de instalação e exploração, respetivamente, nos termos previstos no n.º 2 do artigo 25.º -B ou no n.º 2 do artigo 32.º e no
+n.º 6 do artigo 39.º;
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 59 de 67
+
+
+## Página 60
+
+l) A inobservância das condições de exploração de ZER fixadas no título digital de exploração nos termos previstos nos n.os 2 e 3
+do artigo 50.º, ou ainda, aquando da respetiva atualização, nos termos do n.º 6 do artigo 52.º;
+m) A infração ao dever de comunicação previsto no n.º 3 do artigo 3.º e nos n.os 1 e 4 do artigo 38.º;
+n) A inobservância do disposto no artigo 4.º;
+o) (Revogada).
+p) A infração ao disposto no artigo 51.º;
+q) A infração ao disposto no n.º 4 do artigo 71.º
+3 - (Revogado.)
+4 - A negligência é punível nos termos do RJCE.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 123.º do/a Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29, em vigor a partir de 2021-07-28
+
+
+Retificado pelo/a Declaração de Retificação n.º 29/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15, produz efeitos a partir de 2015-06-01
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 76.º
+
+
+Sanções acessórias
+
+
+1 - Podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias, em função da gravidade da infração e
+da culpa do agente:
+a) Perda, a favor do Estado, de equipamentos, máquinas e utensílios utilizados na prática da infração;
+b) Privação dos direitos a subsídios ou benefícios outorgados por entidades ou serviços públicos;
+c) Suspensão do título de exploração;
+d) Encerramento do estabelecimento e instalações.
+2 - As sanções previstas nas alíneas b), c) e d) do número anterior têm a duração máxima de dois anos, contados a partir da
+decisão condenatória definitiva.
+3 - As sanções acessórias previstas nas alíneas a), b) e c) do n.º 1, quando aplicadas a estabelecimentos industriais de tipo 1 são
+publicitadas pela autoridade que aplicou a coima, a expensas do infrator.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 77.º
+
+
+Competência sancionatória
+
+
+1 - Compete à ASAE a instrução dos processos de contraordenação por infração ao disposto no SIR e ao seu inspetor-geral a
+aplicação das respetivas coimas e sanções acessórias.
+2 - Compete às câmaras municipais territorialmente competentes, quando as mesmas sejam entidade coordenadora, a instrução
+dos processos de contraordenação por infração ao disposto no SIR e aos seus presidentes a aplicação das respetivas coimas e
+sanções acessórias.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 78.º
+
+
+Destino da receita das coimas
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 60 de 67
+
+
+## Página 61
+
+1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no SIR é repartido nos termos do
+RJCE.
+2 - Excetuam-se do disposto no número anterior as coimas aplicadas pelas câmaras municipais, cuja receita reverte na totalidade
+para o respetivo município.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 123.º do/a Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29, em vigor a partir de 2021-07-28
+
+
+Capítulo VIII
+
+
+Taxas
+
+
+Artigo 79.º
+
+
+Taxas e despesas de controlo
+
+
+1 - É devido o pagamento de uma taxa, da responsabilidade do requerente, para cada um dos seguintes atos:
+a) Emissão dos títulos digitais previstos no SIR;
+b) Alterações, aditamentos ou atualizações aos títulos digitais previstos no SIR, excecionadas as atualizações decorrentes da
+realização de vistorias de conformidade para os efeitos previstos nas alíneas c), d) e e) do n.º 1 do artigo 36.º;
+c) Atendimento digital assistido à utilização do «Balcão do empreendedor»;
+d) (Revogada)
+e) Apreciação dos pedidos de exclusão do regime de prevenção e controlo integrados da poluição;
+f) Apreciação dos pedidos de conversão em ZER;
+g) (Revogada).
+h) (Revogada).
+i) (Revogada).
+j) (Revogada).
+k) Selagem e desselagem de máquinas, aparelhos e demais equipamentos;
+l) (Revogada).
+m) (Revogada).
+2 - As taxas referidas nas alíneas a) e b) do número anterior incluem os montantes eventualmente devidos pela realização das
+vistorias previstas no SIR, não podendo ser cobrada qualquer taxa avulsa pelas mesmas.
+3 - (Revogado).
+4 - (Revogado).
+5 - (Revogado).
+6 - As despesas a realizar com colheitas de amostras, ensaios laboratoriais ou quaisquer outras avaliações necessárias para
+apreciação das condições do exercício da atividade de um estabelecimento constituem encargo das entidades que as tenham
+promovido, salvo quando decorram de obrigações legais ou da verificação de inobservância das prescrições técnicas
+obrigatórias, caso em que os encargos são suportados pelo requerente.
+7 - As despesas relacionadas com o corte e restabelecimento do fornecimento de energia elétrica constituem encargo do
+requerente, sendo os respetivos valores publicados anualmente pela Entidade Reguladora dos Serviços Energéticos.
+8 - Os valores devidos pelas taxas aplicáveis no âmbito do SIR constam de guia emitida automaticamente pelo «Balcão do
+empreendedor», a qual reveste a forma de Documento Único de Cobrança quando legalmente exigível, e podem ser pagos por
+meios exclusivamente automáticos e eletrónicos, nos termos previstos no artigo 30.º do Decreto-Lei n.º 73/2014, de 13 de maio.
+9 - Sem prejuízo do exercício imediato dos direitos ou interesses legalmente protegidos do interessado no procedimento, não
+são devidas taxas quando os respetivos valores ou fórmulas de cálculo não sejam introduzidos no «Balcão do empreendedor»
+nos termos previstos no artigo 62.º do Código do Procedimento Administrativo.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 61 de 67
+
+
+## Página 62
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 80.º
+
+
+Taxa única
+
+
+1 - Sem prejuízo do disposto no artigo seguinte, a taxa referida no n.º 1 do artigo anterior é constituída por um valor global, que
+inclui todas as licenças, autorizações, aprovações, pareceres, comunicações prévias com prazo, vistorias prévias, meras
+comunicações prévias e outros atos permissivos ou não permissivos necessários ou integrados no procedimento.
+2 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças, da modernização administrativa, da economia,
+do ambiente e da agricultura, são regulamentados os seguintes aspetos em matéria de taxas:
+a) A fórmula de cálculo da taxa única, correspondente à intervenção de todas as entidades públicas da administração central
+intervenientes nos procedimentos previstos no SIR, e as regras aplicáveis à respetiva atualização;
+b) Os modos de pagamento, que incluem obrigatoriamente o pagamento por meios exclusivamente automáticos e eletrónicos,
+nos termos previstos no artigo 30.º do Decreto-Lei n.º 73/2014, de 13 de maio;
+c) Os termos e condições da redução das taxas aplicáveis nos casos de adesão a condições técnicas padronizadas, bem como
+nos casos de estabelecimentos industriais localizados em ZER, nos termos do disposto na alínea c) do n.º 5 do artigo 8.º e no n.º
+4 do artigo 59.º, respetivamente;
+d) Os termos e condições da cobrança de um valor adicional relativamente à taxa devida pela prestação do serviço de
+atendimento digital assistido à utilização do «Balcão do empreendedor» pelas entidades coordenadoras e entidades públicas
+definidas nos termos do Decreto-Lei n.º 74/2014, de 13 de maio;
+e) Os termos da cobrança, da repartição, e respetiva operacionalização, das receitas das taxas devidas ao abrigo do n.º 1 do
+artigo anterior, incluindo nas situações de ausência de pronúncia expressa de uma ou mais entidades que devam pronunciar-se
+no âmbito de procedimentos e dentro dos prazos previstos no SIR;
+f) Os termos e condições dos pagamentos devidos por despesas feitas pelos serviços que constituam encargo do requerente.
+3 - (Revogado).
+4 - (Revogado).
+5 - (Revogado).
+6 - (Revogado).
+7 - (Revogado).
+8 - (Revogado).
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 81.º
+
+
+Taxas em procedimentos municipais
+
+
+1 - No exercício do seu poder regulamentar próprio, os municípios aprovam, em execução do SIR, regulamentos municipais
+relativos ao lançamento e liquidação de taxas pelos atos a que se refere o artigo 79.º, sempre que a entidade coordenadora for a
+câmara municipal.
+2 - Aos meios de pagamento das taxas devidas bem como às condições para a exigibilidade das mesmas é aplicável o disposto
+nos n.os 8 e 9 do artigo 79.º
+3 - Os projetos dos regulamentos referidos no n.º 1 são submetidos a discussão pública, por prazo não inferior a 30 dias, antes
+da sua aprovação pelos órgãos municipais.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 62 de 67
+
+
+## Página 63
+
+4 - Após aprovação, os regulamentos são objeto de publicação na 2.ª série do Diário da República e a respetiva informação
+disponibilizada pelos municípios competentes no «Balcão do empreendedor», sem prejuízo das demais formas de publicidade
+previstas na lei.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 82.º
+
+
+Cobrança coerciva das taxas
+
+
+A cobrança coerciva das dívidas provenientes da falta de pagamento das taxas realiza-se através de processo de execução fiscal,
+servindo de título executivo a certidão passada pela entidade que prestar os serviços.
+
+
+Capítulo IX
+
+
+Meios de tutela
+
+
+Artigo 83.º-A
+
+
+Reação contenciosa
+
+
+Os títulos digitais, bem como cada um dos atos, incluindo licenças, autorizações, aprovações, pareceres, registos ou outros atos
+permissivos emitidos pelas entidades consultadas no âmbito dos procedimentos para a emissão de títulos digitais previstos no
+SIR, podem ser objeto de reação contenciosa, considerando-se os mesmos como atos com eficácia externa, para os efeitos do
+artigo 51.º do Código de Processo nos Tribunais Administrativos.»
+
+
+Alterações
+
+
+Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Artigo 83.º
+
+
+Reclamação de terceiros
+
+
+1 - A instalação, alteração, exploração e desativação de qualquer estabelecimento industrial pode ser objeto de reclamação
+fundamentada de entidade com interesse direto na mesma, junto da entidade coordenadora ou da entidade a quem cabe a
+salvaguarda dos direitos e interesses em causa.
+2 - Quando apresentada à entidade a quem cabe a salvaguarda dos direitos e interesses em causa, a reclamação é comunicada à
+entidade coordenadora, acompanhada de parecer fundamentado ou de decisão, no caso de exercício de competências próprias,
+no prazo máximo de 40 dias.
+3 - A entidade coordenadora dá conhecimento ao industrial da existência da reclamação e toma as providências adequadas,
+nomeadamente através de vistorias para análise e decisão das reclamações, envolvendo ou consultando, sempre que tal se
+justifique, as entidades a quem cabe a salvaguarda dos direitos e interesses em causa, que se pronunciam no prazo previsto no
+número anterior.
+4 - A entidade coordenadora profere a decisão sobre a reclamação no prazo máximo de 40 dias contados a partir da data em
+que a reclamação lhe é apresentada ou, no caso de haver lugar a consultas, nos 20 dias subsequentes à pronúncia ou ao termo
+do respetivo prazo.
+5 - A entidade coordenadora dá conhecimento da decisão ao reclamante, ao industrial, às entidades consultadas e no caso de
+reclamação relativa a estabelecimento industrial situado em ZER, ao IAPMEI, I. P.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 63 de 67
+
+
+## Página 64
+
+6 - A entidade coordenadora verifica, através de vistoria, o cumprimento das condições impostas na decisão sobre a reclamação,
+sendo aplicável, com as devidas adaptações, o disposto nos n.os 4 e 5 do artigo 36.º.»
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Capítulo X
+
+
+Disposição final
+
+
+Artigo 84.º
+
+
+Notificações, comunicações e prazos
+REVOGADO
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Anexo I
+
+
+Atividade industrial
+
+
+[a que se refere o n.º 3 do artigo 1.º e a alínea a) do artigo 2.º]
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Parte 1
+
+
+Atividade industrial
+
+
+Considera-se atividade industrial, nos termos da alínea a) do artigo 2.º do Sistema da Indústria Responsável, as atividades
+económicas que são incluídas nas subclasses da Classificação Portuguesa das Atividades Económicas (CAE - rev. 3), aprovada
+pelo Decreto-Lei n.º 381/2007, de 14 de novembro, que seguidamente se apresentam:
+(ver documento original)
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Parte 2
+
+
+Estabelecimentos a que se referem os n.ºs 6 e 7 do artigo 18.º e o n.º 3 do artigo 33.º
+
+
+A
+Estabelecimentos industriais com potência elétrica contratada não superior a 15 kVA e potência térmica não superior a 4 x 105
+kJ/h, onde são exercidas, a título individual ou em microempresa até cinco trabalhadores, as atividades expressamente
+identificadas no quadro seguinte, com indicação da subclasse na Classificação Portuguesa das Atividades Económicas (CAE - rev.
+3).
+Os valores anuais de produção estabelecidos para a atividade exercida a título individual ou em microempresa constituem um
+limite máximo cuja superação determina a exclusão da atividade em causa desta categoria.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 64 de 67
+
+
+## Página 65
+
+(ver documento original)
+B
+(a que se refere o n.º 6 do artigo 18.º)
+Estabelecimentos onde são exercidas as atividades económicas, que seguidamente se identificam, na sua designação coloquial,
+com indicação da respetiva nomenclatura e subclasse na Classificação Portuguesa das Atividades Económicas (CAE - rev. 3),
+aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro.
+(ver documento original)
+
+
+Notas:
+
+
+Declaração de Retificação n.º 29/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15 1. Na Parte 2-A, na coluna «atividade exercida a título individual ou em
+
+
+microempresa», correspondente à subclasse CAE 32400, onde se lê: «Fabrico de jogos e brinquedos (inclui confeção de bonecos de pano)» deve ler-se: «Fabrico de jogos e
+
+
+brinquedos (inclui confeção de miniaturas e de bonecos de pano)». 2. Na Parte 2-B, na coluna «atividade produtiva», correspondente à subclasse CAE 13920, onde se lê:
+
+
+«Confeção de bonecos de pano e de artigos têxteis para o lar» deve ler-se: «Confeção de artigos têxteis para o lar». 3. Na Parte 2-B, na coluna «atividade produtiva»,
+
+
+correspondente à subclasse CAE 32400, onde se lê: «Todas (inclui fabrico de miniaturas)» deve ler-se: «Todas (inclui fabrico de miniaturas e de bonecos de pano)».
+
+
+Alterações
+
+
+Retificado pelo/a Declaração de Retificação n.º 29/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15, produz efeitos a partir de 2015-06-01
+
+
+Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Anexo II
+
+
+Fatores de conversão e coeficientes de equivalência
+
+
+1 - Coeficientes de equivalência a utilizar:
+1 kVA = 0,96 kW;
+1 kcal = 4,18 kJ.
+2 - Poderes caloríficos a utilizar:
+Fuelóleo - 9600 kcal/kg;
+Gasóleo - 10 450 kcal/kg;
+Petróleo - 10 450 kcal/kg;
+Propano - 11 400 kcal/kg;
+Butano - 11 400 kcal/kg;
+Gás natural - 9080 kcal/m3;
+Combustíveis sólidos:
+2000 kcal/kg (teor de humidade (maior que) 60 %);
+2500 kcal/kg (30 % (menor que) teor de humidade (menor que) 60 %);
+3000 kcal/kg (teor de humidade (menor que) 30 %).
+3 - Outros fatores de conversão:
+1000 L de gasóleo - 835 kg;
+1000 L de petróleo - 785 kg.
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Anexo III
+
+
+Indicação das entidades coordenadoras, nos termos do disposto no n.º 2 do artigo 13.º do Sistema da Indústria
+
+
+Responsável
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 65 de 67
+
+
+## Página 66
+
+1 - A determinação da entidade coordenadora no procedimento relativo ao estabelecimento industrial é feita de acordo com o
+quadro constante do presente anexo.
+2 - Sempre que num estabelecimento industrial classificado de acordo com o artigo 11.º do Sistema da Indústria Responsável
+sejam exercidas atividades industriais do mesmo tipo às quais correspondam diferentes entidades coordenadoras, a
+determinação da entidade competente para a condução do procedimento é feita em função do número de trabalhadores da
+atividade industrial.
+3 - No caso previsto no número anterior, se o número de trabalhadores for igual, o requerente indica qual das atividades
+industriais melhor caracteriza o estabelecimento industrial.
+4 - A entidade coordenadora dos anexos mineiros e de pedreiras onde sejam exercidas atividades industriais exclusivamente
+para a beneficiação do material extraído é a entidade com atribuições e competências da respetiva atividade extrativa.
+(ver documento original)
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Anexo IV
+
+
+Prazos máximos para pronúncias
+
+
+1 - Os prazos máximos para pronúncias a que se referem a alínea c) do n.º 3 do artigo 10.º, a alínea e) do n.º 1 do artigo 16.º, o
+n.º 1 do artigo 23.º e o n.º 1 do artigo 31.º são os constantes do quadro seguinte:
+(ver documento original)
+2 - A redução dos prazos máximos para pronúncias a que se refere a alínea c) do n.º 3 do artigo 10.º é efetuada de acordo com
+as seguintes regras:
+a) Tratando-se de estabelecimento ao qual é aplicável o regime jurídico de avaliação de impacte ambiental aprovado pelo
+Decreto-Lei n.º 151-B/2013, de 31 de outubro (RJAIA) ou o regime jurídico de acidentes graves que envolvam substâncias
+perigosas, aprovado pelo Decreto-Lei n.º 254/2007, de 12 de julho (RPAG), o prazo é reduzido em um quarto;
+b) Tratando-se de estabelecimento relativamente ao qual existe a necessidade de obtenção de título de emissão de gases com
+efeitos de estufa previsto no Decreto-Lei n.º 38/2013, de 15 de março, o prazo é reduzido em um terço;
+c) Tratando-se de estabelecimento relativamente ao qual é aplicável o regime jurídico da prevenção e controlo integrado de
+poluição (RJPCIP), a que se refere o capítulo II do Regime das Emissões Industriais (REI), aprovado pelo Decreto-Lei n.º 127/2013,
+de 30 de agosto, o prazo é reduzido em metade;
+d) Tratando-se de estabelecimento relativamente ao qual são aplicáveis o regime de operação de gestão de resíduos (regime de
+incineração) previsto no Decreto-Lei n.º 127/2013, de 30 de agosto, e regimes de operação de gestão de resíduos previstos no
+Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64/2008, de
+31 de dezembro, e pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho, o prazo é reduzido em um
+quinto.
+
+
+Notas:
+
+
+Declaração de Retificação n.º 29/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15 Na coluna «prazos», referente à linha «Prevenção de acidentes graves que
+
+
+envolvam substâncias perigosas (3) - parecer relativo à compatibilidade de localização, onde se lê: «30 dias» deve ler-se: «50 dias».
+
+
+Alterações
+
+
+Alterado pelo/a Artigo 38.º do/a Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11, em vigor a partir de 2018-07-01
+
+
+Retificado pelo/a Declaração de Retificação n.º 29/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15, produz efeitos a partir de 2015-06-01
+
+
+Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 66 de 67
+
+
+## Página 67
+
+Anexo V
+
+
+Taxa única
+REVOGADO
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Parte 1
+
+
+Estabelecimentos industriais
+REVOGADO
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+Parte 2
+
+
+Zonas empresariais responsáveis (ZER)
+REVOGADO
+
+
+Alterações
+
+
+Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 73/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11, em vigor a partir de 2015-06-01
+
+
+A versão consolidada não tem valor legal e não substitui a consulta dos atos que deram origem a esta consolidação.
+
+
+SISTEMA DA INDÚSTRIA RESPONSÁVEL - SIR
+
+
+LEGISLAÇÃO CONSOLIDADA
+
+
+Versão à data de 10-2-2023
+Pág. 67 de 67
+
+

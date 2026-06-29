@@ -1,0 +1,8 @@
+﻿# ChromaDB vector store (regeneravel com os docs)
+conhecimentoSIR/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
