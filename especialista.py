@@ -5,7 +5,7 @@ import sys
 from pypdf import PdfReader
 from docx import Document
 import chromadb
-from chromadb.utils.embedding_functions import ONNXMiniLM_L6_V2
+from chromadb import EmbeddingFunction, Documents
 import requests
 
 PASTA_DOCS = "./docs"
@@ -20,11 +20,14 @@ OLLAMA_OPTIONS = {"num_ctx": 8192}
 DEBUG = False
 
 
-class OllamaEmbedding:
-    def __call__(self, input):
+class OllamaEmbedding(EmbeddingFunction[Documents]):
+    def __call__(self, input: Documents):
         r = requests.post(OLLAMA_EMBED_URL, json={"model": MODELO_EMBED, "input": input}, timeout=60)
         r.raise_for_status()
         return r.json()["embeddings"]
+
+    def name(self):
+        return MODELO_EMBED
 
 
 EF = OllamaEmbedding()
@@ -92,8 +95,6 @@ def dividir_em_chunks(texto, tamanho=300, overlap=50):
             chunks.append(chunk)
     return chunks
 
-
-EF_CPU = ONNXMiniLM_L6_V2(preferred_providers=["CPUExecutionProvider"])
 
 
 def iniciar_base(cliente):

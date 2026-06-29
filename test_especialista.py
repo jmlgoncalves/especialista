@@ -7,7 +7,6 @@ from especialista import (
     PASTA_BD,
     NOME_COLECAO,
     MODELO_LLM,
-    OllamaEmbedding,
     iniciar_base,
     perguntar,
 )
@@ -19,13 +18,11 @@ from especialista import (
 @pytest.fixture(scope="session")
 def colecao():
     import especialista
-    # chromadb >= 0.6 exige name(), embed_query() e embed_documents();
-    # OllamaEmbedding apenas implementa __call__.
+    # chromadb >= 0.6 chama embed_query()/embed_documents() em vez de __call__.
+    # OllamaEmbedding não os define; patchar para delegar a __call__.
     ef = especialista.EF
-    ef.name = lambda: "default"
-    # A BD foi indexada com EF_CPU (ONNXMiniLM, 384 dims); usar a mesma para queries.
-    ef.embed_query = lambda input: especialista.EF_CPU(input)
-    ef.embed_documents = lambda input: especialista.EF_CPU(input)
+    ef.embed_query = lambda input: ef(input)
+    ef.embed_documents = lambda input: ef(input)
     cliente = chromadb.PersistentClient(path=PASTA_BD)
     return iniciar_base(cliente)
 
