@@ -11,6 +11,19 @@ Bot de perguntas e respostas sobre documentos usando RAG (ChromaDB + Ollama). Su
 | Python | 3.9+ |
 | Ollama | última estável |
 | Modelo LLM | gemma4:12b |
+| Modelo Embeddings | nomic-embed-text |
+
+---
+
+## Hardware recomendado
+
+| | Mínimo | Recomendado |
+|---|---|---|
+| **RAM** | 16 GB | 32 GB |
+| **VRAM (GPU)** | 16 GB | 16 GB+ |
+| **Armazenamento** | 15 GB livres | — |
+
+> `gemma4:12b` usa ~14 GB de VRAM em utilização real. É necessária uma GPU com pelo menos 16 GB de VRAM (ex: RTX 3080 Ti, RTX 4080, RTX 4090). Sem GPU compatível, o Ollama corre em CPU com impacto severo na velocidade.
 
 ---
 
@@ -60,14 +73,15 @@ ollama serve
 
 ---
 
-## 4. Modelo gemma4:12b
+## 4. Modelos Ollama
 
-Com o Ollama instalado, descarregar o modelo (requer ~8 GB de espaço):
+Descarregar o modelo LLM e o modelo de embeddings:
 ```bash
 ollama pull gemma4:12b
+ollama pull nomic-embed-text
 ```
 
-Verificar se o modelo está disponível:
+Verificar se estão disponíveis:
 ```bash
 ollama list
 ```
@@ -78,9 +92,11 @@ ollama list
 
 ```
 EspecialistaSIR/
-├── docs/               ← colocar aqui os PDFs a indexar
+├── docs/               ← colocar aqui os documentos a indexar
 ├── conhecimentoSIR/    ← criada automaticamente (base ChromaDB)
-└── especialista.py
+├── especialista.py
+├── limpar_bd.bat       ← apaga a base de conhecimento
+└── limpar_gpu.bat      ← descarrega modelos da GPU
 ```
 
 Colocar os documentos (`.pdf`, `.md`, `.docx`, `.doc`) na pasta `docs/` antes de correr o bot.  
@@ -101,8 +117,22 @@ Para sair do chat, escrever `sair`.
 
 ---
 
+## 7. Configuração
+
+No topo de `especialista.py` estão as variáveis de configuração:
+
+| Variável | Padrão | Descrição |
+|---|---|---|
+| `MODELO_LLM` | `gemma4:12b` | Modelo LLM usado para respostas |
+| `MODELO_EMBED` | `nomic-embed-text` | Modelo de embeddings para indexação e retrieval |
+| `DEBUG` | `False` | Mostra chunks devolvidos e métricas do Ollama |
+| `MOSTRAR_FONTE` | `False` | Mostra citação do trecho do documento que suporta a resposta |
+
+---
+
 ## Notas
 
 - O Ollama tem de estar em execução (`ollama serve`) antes de iniciar o bot.
 - Para adicionar novos documentos, basta colocar os ficheiros em `docs/` e reiniciar o bot.
 - A base de conhecimento fica guardada em `conhecimentoSIR/` e persiste entre sessões.
+- Ao mudar o `MODELO_EMBED`, é necessário apagar a base de conhecimento (`limpar_bd.bat`) e re-indexar.

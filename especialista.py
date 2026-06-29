@@ -16,8 +16,9 @@ OLLAMA_EMBED_URL = "http://localhost:11434/api/embed"
 OLLAMA_PS_URL = "http://localhost:11434/api/ps"
 MODELO_LLM = "gemma4:12b"
 MODELO_EMBED = "nomic-embed-text"
-OLLAMA_OPTIONS = {"num_ctx": 8192}
+# OLLAMA_OPTIONS = {"num_ctx": 8192}  # limitava o contexto e quebrava respostas — usar default do Ollama
 DEBUG = False
+MOSTRAR_FONTE = False
 
 
 class OllamaEmbedding(EmbeddingFunction[Documents]):
@@ -143,10 +144,16 @@ def perguntar(colecao, pergunta):
             print(f"[DEBUG] chunk {i}: {doc[:150]!r}")
     contexto = "\n---\n".join(resultados["documents"][0])
 
+    instrucao_fonte = """No final da resposta, cita sempre a frase exacta do contexto que suporta a resposta, no formato:
+Fonte: "..."
+Se não encontrares suporte no contexto, escreve:
+Fonte: conhecimento interno
+""" if MOSTRAR_FONTE else ""
+
     prompt = f"""És o Especialista_SIR, um assistente especializado em documentação SIR (Sistema da Indústria Responsável). Responde sempre em português europeu.
 Usa o seguinte contexto extraído de documentos para responder à pergunta.
 Podes sintetizar e inferir com base no contexto. Só dizes que não tens informação se o contexto for completamente irrelevante para a pergunta.
-
+{instrucao_fonte}
 CONTEXTO:
 {contexto}
 
@@ -158,7 +165,7 @@ RESPOSTA:"""
     if DEBUG:
         print(f"[DEBUG] prompt: {len(prompt)} chars / ~{len(prompt.split())} palavras")
     try:
-        r = requests.post(OLLAMA_URL, json={"model": MODELO_LLM, "prompt": prompt, "stream": False, "options": OLLAMA_OPTIONS}, timeout=120)
+        r = requests.post(OLLAMA_URL, json={"model": MODELO_LLM, "prompt": prompt, "stream": False}, timeout=120)
         r.raise_for_status()
         data = r.json()
         if DEBUG:
