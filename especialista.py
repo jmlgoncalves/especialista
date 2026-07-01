@@ -16,7 +16,7 @@ OLLAMA_EMBED_URL = "http://localhost:11434/api/embed"
 OLLAMA_PS_URL = "http://localhost:11434/api/ps"
 MODELO_LLM = "gemma4:12b"
 MODELO_EMBED = "nomic-embed-text"
-# OLLAMA_OPTIONS = {"num_ctx": 8192}  # limitava o contexto e quebrava respostas — usar default do Ollama
+OLLAMA_OPTIONS = {"num_ctx": 16384}
 DEBUG = False
 MOSTRAR_FONTE = False
 
@@ -44,13 +44,12 @@ def gerir_gpu_inicio():
 
     for m in modelos_ativos:
         nome = m.get("name", "")
-        if nome != MODELO_LLM:
-            requests.post(OLLAMA_URL, json={"model": nome, "prompt": "", "keep_alive": 0}, timeout=10)
-            print(f"  Descarregado da GPU: {nome}")
+        requests.post(OLLAMA_URL, json={"model": nome, "prompt": "", "keep_alive": 0}, timeout=10)
+        print(f"  Descarregado da GPU: {nome}")
 
     print(f"A carregar {MODELO_LLM} na GPU...")
     try:
-        requests.post(OLLAMA_URL, json={"model": MODELO_LLM, "keep_alive": -1}, timeout=30)
+        requests.post(OLLAMA_URL, json={"model": MODELO_LLM, "keep_alive": -1, "options": OLLAMA_OPTIONS}, timeout=30)
         print("Modelo pronto.")
     except requests.exceptions.Timeout:
         print("Aviso: timeout ao pré-carregar o modelo — será carregado na primeira pergunta.")
@@ -165,7 +164,7 @@ RESPOSTA:"""
     if DEBUG:
         print(f"[DEBUG] prompt: {len(prompt)} chars / ~{len(prompt.split())} palavras")
     try:
-        r = requests.post(OLLAMA_URL, json={"model": MODELO_LLM, "prompt": prompt, "stream": False}, timeout=120)
+        r = requests.post(OLLAMA_URL, json={"model": MODELO_LLM, "prompt": prompt, "stream": False, "options": OLLAMA_OPTIONS}, timeout=120)
         r.raise_for_status()
         data = r.json()
         if DEBUG:
